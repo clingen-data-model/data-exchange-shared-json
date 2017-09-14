@@ -9,7 +9,7 @@ Share the data from the interfaces to the Data Exchange
 
 NOTE - Phase 1 will not seek the richer data from the interfaces that are available.  This will tackled in Phase 2.
 
-## Phase 1 - Implementation Steps 
+### Implementation Steps 
 Data Exchange Release & Documentation (Underway)
 Integrate Gene Dosage Data into website based on current UI/UX (Underway)
 Integrate Actionability into website based on current UI/UX
