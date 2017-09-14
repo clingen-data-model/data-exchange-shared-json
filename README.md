@@ -1,3 +1,4 @@
+# Overview
 This repository has been developed to collaborate on the data schema that is share data from the interfaces to the ClinGen website based on the current display and existing database structure.  A goal is to harmonize the data structure between existing manually entered data structure with data curated in the interfaces in an effort to expedite the work.  Note, a robust Common ClinGen Data Model is planned for phase 2. 
 
 ## Phase 1 - Simplified JSON - Existing/Abridged Data
@@ -14,7 +15,7 @@ Integrate Gene Dosage Data into website based on current UI/UX (Underway)
 Integrate Actionability into website based on current UI/UX
 Integrate Gene Curation into website based on current UI/UX
 
-## Phase 2 - Richer/Complete Data - EXACT DETAILS TO BE DETERMINED
+## Phase 2 - Richer/Complete Data (Additional details will be added later)
 This phase will include a series of smaller phases and this process will start during/after Phase 1 has been completed.  They will focus on;
 - Planning & Discovery (Ed/Web WG)
 - Plan Gene Dosage richer data utilization 
