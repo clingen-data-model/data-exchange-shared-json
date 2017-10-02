@@ -32,13 +32,6 @@
                 "iri": "http://purl.obolibrary.org/obo/OMIM_114480"
             }
         ],
-        "scores": 
-        {
-            "score": 
-            {
-                "label": "Limited"
-            }
-        },
         "scoreJson": 
         {
             "ModeOfInheritance": "Autosomal dominant",
