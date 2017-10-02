@@ -35,13 +35,23 @@
         "scores": 
         [
             {
-                "id": "intervention1", 
-                "outcomeIntervention": "Neuromuscular dysfunction / Regular examinations and surveillance by a movement disorder specialist",
-                "scoreSeverity": "2",
-                "scoreLikelihood": "3C",
-                "scoreEffectiveness": "0D",
-                "scoreIntervention": "3",
-                "scoreTotal": "8CD"
+              "Outcome": "Pancreatic cancer morbidity and/or mortality",
+              "Severity": "2",
+              "Likelihood": "2C",
+                "Interventions": [
+                  {
+                    "Intervention": "Periodic pancreatic imaging",
+                    "Effectiveness": "1E",
+                    "Nature Of Intervention": "3",
+                    "Total": "8CE"
+                  },
+                  {
+                    "Intervention": "Smoking cessation and avoidance",
+                    "Effectiveness": "2B",
+                    "Nature Of Intervention": "3",
+                    "Total": "9CB"
+                  }
+                ]
             }
         ],
         "scoreJson": null,
