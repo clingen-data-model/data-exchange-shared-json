@@ -48,94 +48,74 @@
                 {
                     "VariantEvidence": 
                     {
-                        "AutosomalDominantDisease": 
-                        {
-                            "ProbandWithNon-LOF": 
-                            {
+                       "AutosomalDominantDiseaseXlinkedDisorder": {
+                          "ProbandWithOtherVariantTypeWithEvidenceOfImpact": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": 
-                                {
-                                    "publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol (Nancy)",
-                                            "uid": "111"
-                                        }
-                                    ],
-                                    "notes": 
-                                    {
+                                "pmid": {
+                                    "publications": [{
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol (Nancy)",
+                                        "uid": "111"
+                                    }],
+                                    "notes": {
                                         "note": "Proband with "
                                     }
                                 }
                             },
-                            "ProbandWithLOF": 
-                            {
+                            "ProbandWithPredictedOrProvenNullVariant": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": 
-                                {
-                                    "publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol (Nancy)",
-                                            "uid": "111"
-                                        }
-                                    ],
-                                    "notes": 
-                                    {
+                                "pmid": {
+                                    "publications": [{
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol (Nancy)",
+                                        "uid": "111"
+                                    }],
+                                    "notes": {
                                         "note": "Proband with "
                                     }
                                 }
                             },
-                            "VariantIsDeNovo": 
-                            {
+                            "VariantIsDeNovo": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": 
-                                {
-                                    "publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol (Nancy)",
-                                            "uid": "111"
-                                        }
-                                    ],
-                                    "notes": 
-                                    {
+                                "pmid": {
+                                    "publications": [{
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol (Nancy)",
+                                        "uid": "111"
+                                    }],
+                                    "notes": {
                                         "note": "Proband with "
                                     }
                                 }
-                            },
-                            "TwoNon-LOFVariantsInTrans": 
-                            {
+                            }
+                        },
+                        "AutosomalRecessiveDisease": {
+                            "TwoNon-LOFVariantsInTrans": {
                                 "value": "0.5",
                                 "tally": "1",
-                                "pmid": 
-                                {
-                                    "publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol (Nancy)",
-                                            "uid": "111"
-                                        }
-                                    ],
-                                    "notes": 
-                                    {
+                                "pmid": {
+                                    "publications": [{
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol (Nancy)",
+                                        "uid": "111"
+                                    }],
+                                    "notes": {
                                         "note": "Proband with "
                                     }
                                 }
                             },
-                            "TwoVariantsInTransAndAtLeastOneIsLOFOrDeNovo": 
-                            {
+                            "TwoVariantsInTransAndAtLeastOneIsLOFOrDeNovo": {
                                 "value": "0.5"
                             }
                         }
