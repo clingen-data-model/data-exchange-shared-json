@@ -27,7 +27,6 @@
             {
                 "ontology": "OMIM",
                 "curie": "OMIM:114480",
-                "name": "BREAST CANCER ",
                 "uri": "OMIM114480",
                 "iri": "http://purl.obolibrary.org/obo/OMIM_114480"
             }
