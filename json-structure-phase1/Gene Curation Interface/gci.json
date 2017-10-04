@@ -17,8 +17,8 @@
         [
             {
                 "ontology": "HGNC",
-                "curie": " HGNC:1101",
-                "name": "BRCA2",
+                "curie": "HGNC:1101",
+                "symbol": "BRCA2",
                 "uri": "HGNC1101"
             }
         ],
