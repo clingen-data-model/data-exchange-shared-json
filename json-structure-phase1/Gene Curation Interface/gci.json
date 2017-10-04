@@ -7,10 +7,10 @@
         "statusFlag": "Complete",
         "statusPublishFlag": "Publish",
         "type": "clinicalValidity",
-        "CurationGroup": 
+        "affiliation": 
         {
-            "Id": "GCWGid1",
-            "Name": "Cardiovascular - Aortopathy"
+            "id": "GCWGid1",
+            "name": "Cardiovascular - Aortopathy"
         },
         "genes": 
         [
