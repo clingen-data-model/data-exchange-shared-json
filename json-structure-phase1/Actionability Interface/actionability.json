@@ -7,10 +7,10 @@
         "statusFlag": "Complete",
         "statusPublishFlag": "Publish",
         "type": "actionability",
-        "CurationGroup": 
+        "affiliation": 
         {
-            "Id": "AWG",
-            "Name": "Actionability Working Group"
+            "id": "AWG",
+            "name": "Actionability Working Group"
         },
         "genes": 
         [
