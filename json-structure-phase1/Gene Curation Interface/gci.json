@@ -44,7 +44,7 @@
                           "ProbandWithOtherVariantTypeWithEvidenceOfImpact": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": {
+                                "evidence": {
                                     "publications": [{
                                         "title": "[Oxygen affinity of haemoglobin (author",
                                         "author": "Robert M",
@@ -60,7 +60,7 @@
                             "ProbandWithPredictedOrProvenNullVariant": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": {
+                                "evidence": {
                                     "publications": [{
                                         "title": "[Oxygen affinity of haemoglobin (author",
                                         "author": "Robert M",
@@ -76,7 +76,7 @@
                             "VariantIsDeNovo": {
                                 "value": "0.5",
                                 "tally": "0.5",
-                                "pmid": {
+                                "evidence": {
                                     "publications": [{
                                         "title": "[Oxygen affinity of haemoglobin (author",
                                         "author": "Robert M",
@@ -94,7 +94,7 @@
                             "TwoNon-LOFVariantsInTrans": {
                                 "value": "0.5",
                                 "tally": "1",
-                                "pmid": {
+                                "evidence": {
                                     "publications": [{
                                         "title": "[Oxygen affinity of haemoglobin (author",
                                         "author": "Robert M",
@@ -118,7 +118,7 @@
                         {
                             "value": "0.5",
                             "tally": "0.5",
-                            "pmid": 
+                            "evidence": 
                             {
                                 "publications": [
                                     {
@@ -142,7 +142,7 @@
                         {
                             "value": "0.5",
                             "tally": "0.5",
-                            "pmid": 
+                            "evidence": 
                             {
                                 "publications": [
                                     {
@@ -163,7 +163,7 @@
                         {
                             "value": "0.5",
                             "tally": "0.5",
-                            "pmid": 
+                            "evidence": 
                             {
                                 "publications": [
                                     {
@@ -192,7 +192,7 @@
                     {
                         "value": "0.5",
                         "tally": "0.5",
-                        "pmid": 
+                        "evidence": 
                         {
                             "publications": [
                                 {
@@ -213,7 +213,7 @@
                     {
                         "value": "0.5",
                         "tally": "0.5",
-                        "pmid": 
+                        "evidence": 
                         {
                             "publications": [
                                 {
@@ -234,7 +234,7 @@
                     {
                         "value": "0.5",
                         "tally": "0.5",
-                        "pmid": 
+                        "evidence": 
                         {
                             "publications": [
                                 {
@@ -267,7 +267,7 @@
                 "ValidContradictoryEvidence": 
                 {
                     "YesNo": "YES",
-                    "pmid": 
+                    "evidence": 
                     {
                         "publications": [
                             {
