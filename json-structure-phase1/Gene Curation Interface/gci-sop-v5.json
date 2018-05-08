@@ -6,7 +6,7 @@
         "curationVersion": "1",
         "title": "NHP2 Dyskeratosis Congenita",
         "statusFlag": "Complete",
-        "statusPublishFlag": "Publish",
+        "statusPublishFlag": "Publish OR Unpublish",
         "type": "clinicalValidity",
         "affiliation": 
         {
