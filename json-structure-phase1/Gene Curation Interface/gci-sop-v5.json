@@ -525,6 +525,9 @@
                 "CuratorClassification": "DEFINITIVE",
                 "CuratorClassificationDate": "03/16/2018",
                 "CuratorClassificationNotes": "Notes",
+                "ProvisionalClassification": "DEFINITIVE",
+                "ProvisionalClassificationDate": "03/16/2018",
+                "ProvisionalClassificationNotes": "Notes",
                 "FinalClassification": "DEFINITIVE",
                 "FinalClassificationDate": "03/16/2018",
                 "FinalClassificationNotes": "Notes"
