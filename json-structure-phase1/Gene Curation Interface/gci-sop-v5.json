@@ -153,8 +153,12 @@
                     {
                         "EvidenceOfSegregationInOneOrMoreFamilies": 
                         {
-                            "Value": "0.25",
-                            "Tally": "0.25",
+                            "PointsCounted": "2",
+                            "LodScoreTotal": "4.65",
+                            "LodScoreSumOfCandidateSequencingMethod": "1.2",
+                            "LodScoreSumOfExomeSequencingMethod": "3.45",
+                            "FamilyCountOfCandidateSequencingMethod": "1",
+                            "FamilyCountOfExomeSequencingMethod": "2",
                             "1": 
                             {
                                 "Evidence": 
