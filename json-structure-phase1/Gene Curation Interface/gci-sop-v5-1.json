@@ -158,7 +158,6 @@
                     {
                         "TotalPoints": "0.25",
                         "PointsCounted": "0.25",
-                        "TotalFamilyCount": "0",
                         "CandidateSequencingMethod":  
                         {
                             "SummedLod": "0",
