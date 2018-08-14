@@ -1,7 +1,7 @@
 [
     {
         "iri": "https://curation.clinicalgenome.org/blah/34235345345435",
-        "jsonMessageVersion": "GCI.5",
+        "jsonMessageVersion": "GCI.5.1",
         "sopVersion": "5",
         "curationVersion": "1",
         "title": "NHP2 Dyskeratosis Congenita",
@@ -42,8 +42,9 @@
                         {
                             "VariantIsDeNovo": 
                             {
-                                "Value": "0.25",
-                                "Tally": "0.25",
+                                "Count": "0",
+                                "TotalPoints": "0.25",
+                                "PointsCounted": "0.25",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -63,8 +64,9 @@
                             },
                             "ProbandWithPredictedOrProvenNullVariant": 
                             {
-                                "Value": "0.25",
-                                "Tally": "0.25",
+                                "Count": "0",
+                                "TotalPoints": "0.25",
+                                "PointsCounted": "0.25",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -84,8 +86,9 @@
                             },
                             "ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact": 
                             {
-                                "Value": "0.25",
-                                "Tally": "0.25",
+                                "Count": "0",
+                                "TotalPoints": "0.25",
+                                "PointsCounted": "0.25",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -108,7 +111,8 @@
                         {
                             "TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant": 
                             {
-                                "Value": "0.25",
+                                "Count": "0",
+                                "TotalPoints": "0.25",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -126,10 +130,11 @@
                                     }
                                 }
                             },
-                            "Tally": "0.5",
+                            "PointsCounted": "0.5",
                             "TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans": 
                             {
-                                "Value": "0.25",
+                                "Count": "0",
+                                "TotalPoints": "0.25",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -153,10 +158,12 @@
                     {
                         "EvidenceOfSegregationInOneOrMoreFamilies": 
                         {
-                            "Value": "0.25",
-                            "Tally": "0.25",
-                            "1": 
+                            "TotalPoints": "0.25",
+                            "PointsCounted": "0.25",
+                            "LodScoreSumOfCandidateSequencingMethod": 
                             {
+                                "SummedLod": "0",
+                                "FamilyCount": "0",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -174,8 +181,10 @@
                                     }
                                 }
                             },
-                            "2": 
+                            "LodScoreSumOfExomeSequencingMethod": 
                             {
+                                "SummedLod": "0",
+                                "FamilyCount": "0",
                                 "Evidence": 
                                 {
                                     "Publications": [
@@ -193,24 +202,9 @@
                                     }
                                 }
                             },
-                            "3": 
+                            "LodScoreTotal": 
                             {
-                                "Evidence": 
-                                {
-                                    "Publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol Respir (Nancy)",
-                                            "pmid": "111"
-                                        }
-                                    ],
-                                    "Notes": 
-                                    {
-                                        "note": "Notes"
-                                    }
-                                }
+                                "SummedLod": "0"
                             }
                         }
                     }
@@ -219,7 +213,8 @@
                 {
                     "SingleVariantAnalysis": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -237,10 +232,11 @@
                             }
                         }
                     },
-                    "Tally": "0.5",
+                    "PointsCounted": "0.5",
                     "AggregateVariantAnalysis": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -261,7 +257,7 @@
                 },
                 "TotalGeneticEvidencePoints": 
                 {
-                    "Tally": "2",
+                    "PointsCounted": "2",
                     "Notes": "Notes"
                 }
             },
@@ -271,7 +267,8 @@
                 {
                     "BiochemicalFunction": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -289,10 +286,11 @@
                             }
                         }
                     },
-                    "Tally": "0.75",
+                    "PointsCounted": "0.75",
                     "ProteinInteraction": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -312,7 +310,8 @@
                     },
                     "Expression": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -335,7 +334,8 @@
                 {
                     "PatientCells": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -353,10 +353,11 @@
                             }
                         }
                     },
-                    "Tally": "0.5",
+                    "PointsCounted": "0.5",
                     "NonPatientCells": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -379,11 +380,13 @@
                 {
                     "NonHumanModelOrganism": 
                     {
-                        "Value": "0.25"
+                        "Count": "0",
+                        "TotalPoints": "0.25"
                     },
                     "CellCultureModel": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -404,7 +407,8 @@
                 },
                 "ModelsRescue": 
                 {
-                    "Tally": "1.5",
+                    "Count": "0",
+                    "PointsCounted": "1.5",
                     "NonHumanModelOrganism": 
                     {
                         "Evidence": 
@@ -429,7 +433,8 @@
                 {
                     "RescueInHuman": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -449,7 +454,8 @@
                     },
                     "RescueInNonHumanModelOrganism": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -469,7 +475,8 @@
                     },
                     "RescueInCellCultureModel": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -489,7 +496,8 @@
                     },
                     "RescueInPatientCell": 
                     {
-                        "Value": "0.25",
+                        "Count": "0",
+                        "TotalPoints": "0.25",
                         "Evidence": 
                         {
                             "Publications": [
@@ -510,7 +518,7 @@
                 },
                 "TotalExperimentalEvidencePoints": 
                 {
-                    "Tally": "2.75",
+                    "PointsCounted": "2.75",
                     "Notes": "Notes"
                 }
             },
