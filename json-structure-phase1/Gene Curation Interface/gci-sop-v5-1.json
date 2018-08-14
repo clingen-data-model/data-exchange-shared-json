@@ -156,55 +156,49 @@
                     },
                     "SegregationEvidence": 
                     {
-                        "EvidenceOfSegregationInOneOrMoreFamilies": 
+                        "TotalPoints": "0.25",
+                        "PointsCounted": "0.25",
+                        "TotalFamilyCount": "0",
+                        "CandidateSequencingMethod":  
                         {
-                            "TotalPoints": "0.25",
-                            "PointsCounted": "0.25",
-                            "LodScoreSumOfCandidateSequencingMethod": 
+                            "SummedLod": "0",
+                            "FamilyCount": "0",
+                            "Evidence": 
                             {
-                                "SummedLod": "0",
-                                "FamilyCount": "0",
-                                "Evidence": 
-                                {
-                                    "Publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol Respir (Nancy)",
-                                            "pmid": "111"
-                                        }
-                                    ],
-                                    "Notes": 
+                                "Publications": [
                                     {
-                                        "note": "Notes"
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol Respir (Nancy)",
+                                        "pmid": "111"
                                     }
-                                }
-                            },
-                            "LodScoreSumOfExomeSequencingMethod": 
-                            {
-                                "SummedLod": "0",
-                                "FamilyCount": "0",
-                                "Evidence": 
+                                ],
+                                "Notes": 
                                 {
-                                    "Publications": [
-                                        {
-                                            "title": "[Oxygen affinity of haemoglobin (author",
-                                            "author": "Robert M",
-                                            "pubdate": "1975 Jan-Feb",
-                                            "source": "Bull Physiopathol Respir (Nancy)",
-                                            "pmid": "111"
-                                        }
-                                    ],
-                                    "Notes": 
-                                    {
-                                        "note": "Notes"
-                                    }
+                                    "note": "Notes"
                                 }
-                            },
-                            "LodScoreTotal": 
+                            }
+                        },
+                        "ExomeSequencingMethod": 
+                        {
+                            "SummedLod": "0",
+                            "FamilyCount": "0",
+                            "Evidence": 
                             {
-                                "SummedLod": "0"
+                                "Publications": [
+                                    {
+                                        "title": "[Oxygen affinity of haemoglobin (author",
+                                        "author": "Robert M",
+                                        "pubdate": "1975 Jan-Feb",
+                                        "source": "Bull Physiopathol Respir (Nancy)",
+                                        "pmid": "111"
+                                    }
+                                ],
+                                "Notes": 
+                                {
+                                    "note": "Notes"
+                                }
                             }
                         }
                     }
