@@ -1,0 +1,558 @@
+[
+    {
+        "iri": "https://curation.clinicalgenome.org/blah/34235345345435",
+        "jsonMessageVersion": "GCI.5",
+        "sopVersion": "5",
+        "curationVersion": "1",
+        "title": "NHP2 Dyskeratosis Congenita",
+        "statusFlag": "Complete",
+        "statusPublishFlag": "Publish OR Unpublish",
+        "type": "clinicalValidity",
+        "affiliation": 
+        {
+            "id": "0000001",
+            "name": "ABC123 Expert Panel"
+        },
+        "genes": [
+            {
+                "ontology": "HGNC",
+                "curie": "HGNC:1101",
+                "symbol": "BRCA2",
+                "uri": "HGNC1101"
+            }
+        ],
+        "conditions": [
+            {
+                "ontology": "OMIM",
+                "curie": "OMIM:114480",
+                "uri": "OMIM114480",
+                "iri": "http://purl.obolibrary.org/obo/OMIM_114480"
+            }
+        ],
+        "scoreJson": 
+        {
+            "ModeOfInheritance": "Autosomal dominant inheritance (HP:0000006)",
+            "GeneticEvidence": 
+            {
+                "CaseLevelData": 
+                {
+                    "VariantEvidence": 
+                    {
+                        "AutosomalDominantOrXlinkedDisorder": 
+                        {
+                            "VariantIsDeNovo": 
+                            {
+                                "Value": "0.25",
+                                "Tally": "0.25",
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            },
+                            "ProbandWithPredictedOrProvenNullVariant": 
+                            {
+                                "Value": "0.25",
+                                "Tally": "0.25",
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            },
+                            "ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact": 
+                            {
+                                "Value": "0.25",
+                                "Tally": "0.25",
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            }
+                        },
+                        "AutosomalRecessiveDisease": 
+                        {
+                            "TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant": 
+                            {
+                                "Value": "0.25",
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            },
+                            "Tally": "0.5",
+                            "TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans": 
+                            {
+                                "Value": "0.25",
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "SegregationEvidence": 
+                    {
+                        "EvidenceOfSegregationInOneOrMoreFamilies": 
+                        {
+                            "Value": "0.25",
+                            "Tally": "0.25",
+                            "1": 
+                            {
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            },
+                            "2": 
+                            {
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            },
+                            "3": 
+                            {
+                                "Evidence": 
+                                {
+                                    "Publications": [
+                                        {
+                                            "title": "[Oxygen affinity of haemoglobin (author",
+                                            "author": "Robert M",
+                                            "pubdate": "1975 Jan-Feb",
+                                            "source": "Bull Physiopathol Respir (Nancy)",
+                                            "pmid": "111"
+                                        }
+                                    ],
+                                    "Notes": 
+                                    {
+                                        "note": "Notes"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "CaseControlData": 
+                {
+                    "SingleVariantAnalysis": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "Tally": "0.5",
+                    "AggregateVariantAnalysis": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "TotalGeneticEvidencePoints": 
+                {
+                    "Tally": "2",
+                    "Notes": "Notes"
+                }
+            },
+            "ExperimentalEvidence": 
+            {
+                "Function": 
+                {
+                    "BiochemicalFunction": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "Tally": "0.75",
+                    "ProteinInteraction": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "Expression": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "FunctionalAlteration": 
+                {
+                    "PatientCells": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "Tally": "0.5",
+                    "NonPatientCells": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "Models": 
+                {
+                    "NonHumanModelOrganism": 
+                    {
+                        "Value": "0.25"
+                    },
+                    "CellCultureModel": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "ModelsRescue": 
+                {
+                    "Tally": "1.5",
+                    "NonHumanModelOrganism": 
+                    {
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "Rescue": 
+                {
+                    "RescueInHuman": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "RescueInNonHumanModelOrganism": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "RescueInCellCultureModel": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    },
+                    "RescueInPatientCell": 
+                    {
+                        "Value": "0.25",
+                        "Evidence": 
+                        {
+                            "Publications": [
+                                {
+                                    "title": "[Oxygen affinity of haemoglobin (author",
+                                    "author": "Robert M",
+                                    "pubdate": "1975 Jan-Feb",
+                                    "source": "Bull Physiopathol Respir (Nancy)",
+                                    "pmid": "111"
+                                }
+                            ],
+                            "Notes": 
+                            {
+                                "note": "Notes"
+                            }
+                        }
+                    }
+                },
+                "TotalExperimentalEvidencePoints": 
+                {
+                    "Tally": "2.75",
+                    "Notes": "Notes"
+                }
+            },
+            "summary": 
+            {
+                "GeneticEvidenceTotal": "2",
+                "ExperimentalEvidenceTotal": "2.75",
+                "EvidencePointsTotal": "4.75",
+                "CalculatedClassification": "CONFLICTING Evidence REPORTED",
+                "CalculatedClassificationDate": "03/16/2018",
+                "CuratorModifyCalculation": "YES",
+                "CuratorClassification": "DEFINITIVE",
+                "CuratorClassificationDate": "03/16/2018",
+                "CuratorClassificationNotes": "Notes",
+                "ProvisionalClassification": "DEFINITIVE",
+                "ProvisionalClassificationDate": "03/16/2018",
+                "ProvisionalClassificationNotes": "Notes",
+                "FinalClassification": "DEFINITIVE",
+                "FinalClassificationDate": "03/16/2018",
+                "FinalClassificationNotes": "Notes"
+            },
+            "ReplicationOverTime": "YES",
+            "ValidContradictoryEvidence": 
+            {
+                "Value": "YES",
+                "Evidence": 
+                {
+                    "Publications": [
+                        {
+                            "title": "[Oxygen affinity of haemoglobin (author",
+                            "author": "Robert M",
+                            "pubdate": "1975 Jan-Feb",
+                            "source": "Bull Physiopathol Respir (Nancy)",
+                            "pmid": "111"
+                        }
+                    ],
+                    "Notes": 
+                    {
+                        "note": "Notes"
+                    }
+                }
+            }
+        }
+    }
+]
