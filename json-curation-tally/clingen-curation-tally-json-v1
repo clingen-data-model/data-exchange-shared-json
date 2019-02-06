@@ -1,0 +1,83 @@
+{
+    "curations": 
+    {
+        "affiliations": 
+        [
+            {
+                "ID": 0000001,
+                "name": "ABC Group",
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ID": 0000002,
+                "name": "123 Group",
+                "count": 
+                {
+                    "published": 50
+                }
+            }
+        ]
+        "activities": 
+        [
+            {
+                "ref": "gene_disease",
+                "name": "Gene-Disease Validity",
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "clinical_actionability",
+                "name": "Clinical Actionability"
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "dosage_sensitivity",
+                "name": "Dosage Sensitivity"
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "variant_pathogenicity",
+                "name": "Variant Pathogenicity"
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "somatic_variant",
+                "name": "Somatic Variant"
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "somatic_gene",
+                "name": "Somatic Gene"
+                "count": 
+                {
+                    "published": 50
+                }
+            },
+            {
+                "ref": "allele_reg",
+                "name": "Allele Registry"
+                "count": 
+                {
+                    "published": 50
+                }
+            }
+        ]
+    }
+}
