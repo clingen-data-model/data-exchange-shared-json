@@ -1,12 +1,30 @@
 {
     "curations": 
     {
-        "affiliations": 
-        [
+        "timestamp": "Date String",
+        "count": 500,
+        "counts": [
+            {
+                "genes": 
+                {
+                    "unqiue": 530
+                    "total": 580
+                }
+            },
+            {
+                "diseases": 
+                {
+                    "unqiue": 500
+                    "total": 510
+                }
+            }
+        ],
+        "affiliations": [
             {
                 "ID": 0000001,
                 "name": "ABC Group",
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -14,18 +32,19 @@
             {
                 "ID": 0000002,
                 "name": "123 Group",
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
             }
-        ]
-        "activities": 
-        [
+        ],
+        "activities": [
             {
                 "ref": "gene_disease",
                 "name": "Gene-Disease Validity",
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -33,7 +52,8 @@
             {
                 "ref": "clinical_actionability",
                 "name": "Clinical Actionability"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -41,7 +61,8 @@
             {
                 "ref": "dosage_sensitivity",
                 "name": "Dosage Sensitivity"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -49,7 +70,8 @@
             {
                 "ref": "variant_pathogenicity",
                 "name": "Variant Pathogenicity"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -57,7 +79,8 @@
             {
                 "ref": "somatic_variant",
                 "name": "Somatic Variant"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -65,7 +88,8 @@
             {
                 "ref": "somatic_gene",
                 "name": "Somatic Gene"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
@@ -73,7 +97,8 @@
             {
                 "ref": "allele_reg",
                 "name": "Allele Registry"
-                "count": 
+                "last-update": "Date String",
+                "counts": 
                 {
                     "published": 50
                 }
