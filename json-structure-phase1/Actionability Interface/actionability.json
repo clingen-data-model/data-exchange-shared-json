@@ -27,7 +27,8 @@
                 "ontology": "OMIM",
                 "curie": "OMIM:114480",
                 "uri": "OMIM114480",
-                "iri": "http://purl.obolibrary.org/obo/OMIM_114480"
+                "iri": "http://purl.obolibrary.org/obo/OMIM_114480",
+                "genes": ["HGNC:1101"]
             }
         ],
         "scores": 
@@ -53,6 +54,7 @@
             }
         ],
         "scoreDetails": "https://actionablity.clinicalgenome.org/blah/34235345345435/gch1_summaryreport_final_20170622",
-        "dateISO8601": "2017-06-19T00:00:00"
+        "dateISO8601": "2017-06-19T00:00:00Z"
+        "searchDate": "2017-06-19T00:00:00Z"
     }
 ]
