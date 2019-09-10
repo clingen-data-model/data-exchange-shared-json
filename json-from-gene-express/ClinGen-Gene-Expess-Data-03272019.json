@@ -8202,51 +8202,6 @@
       "dateISO8601": "2018-05-24T00:00:00",
       "dateFormated": "May 24, 2018"
   },
-  "9517": 
-  {
-      "title": "GRIA3: X-Linked Syndromic Intellectual Disability",
-      "label": "X-Linked Syndromic Intellectual Disability",
-      "type": "clinicalValidity",
-      "genes": 
-      {
-          "4573": 
-          {
-              "ontology": "HGNC",
-              "curie": "HGNC:4573",
-              "uri": "HGNC4573"
-          }
-      },
-      "conditions": 
-      {
-          "OMIM300104": 
-          {
-              "ontology": "OMIM",
-              "curie": "OMIM:300104",
-              "uri": "OMIM300104",
-              "iri": "http://purl.obolibrary.org/obo/OMIM_300104"
-          },
-          "ORPHA777": 
-          {
-              "ontology": "ORPHA",
-              "curie": "ORPHA:777",
-              "uri": "ORPHA777",
-              "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-          }
-      },
-      "scores": 
-      {
-          "3974": 
-          {
-              "label": "Limited"
-          }
-      },
-      "scoreJsonSerialized": "",
-      "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518450851\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"GRIA3\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:4573\",\"uri\":\"HGNC4573\"},\"condition\":{\"name\":\"X-Linked Syndromic Intellectual Disability\",\"OrphaNet\":{\"curie\":\"ORPHA:777\",\"uri\":\"ORPHA777\"},\"MONDO\":{\"curie\":\"MONDO:0020119\",\"uri\":\"MONDO0020119\"},\"OMIM\":{\"curie\":\"OMIM:300104\",\"uri\":\"OMIM300104\"}},\"title\":\"GRIA3 X-Linked Syndromic Intellectual Disability\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked recessive inheritance (HP:0001427)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1518451235872\":{\"title\":\"Mutations in ionotropic AMPA receptor 3 alter channel properties and are associated with moderate cognitive impairment in humans.\",\"author\":\"Wu Y\",\"pubdate\":\"2007 Nov 13\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"17989220\"},\"1518451288528\":{\"title\":\"Partial tandem duplication of GRIA3 in a male with mental retardation.\",\"author\":\"Chiyonobu T\",\"pubdate\":\"2007 Jul 1\",\"source\":\"Am J Med Genet A\",\"uid\":\"17568425\"},\"1518451324990\":{\"title\":\"Recurrent rearrangements in synaptic and neurodevelopmental genes and shared biologic pathways in schizophrenia, autism, and mental retardation.\",\"author\":\"Guilmatre A\",\"pubdate\":\"2009 Sep\",\"source\":\"Arch Gen Psychiatry\",\"uid\":\"19736351\"}}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.25\",\"Tally\":\"1.3\",\"evidence\":{\"publications\":{\"1518451237378\":{\"title\":\"Mutations in ionotropic AMPA receptor 3 alter channel properties and are associated with moderate cognitive impairment in humans.\",\"author\":\"Wu Y\",\"pubdate\":\"2007 Nov 13\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"17989220\"},\"1518451347615\":{\"title\":\"X-exome sequencing in Finnish families with intellectual disability--four novel mutations and two novel syndromic phenotypes.\",\"author\":\"Philips AK\",\"pubdate\":\"2014 Apr 11\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"24721225\"}}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"6.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1518451353536\":{\"title\":\"X-exome sequencing in Finnish families with intellectual disability--four novel mutations and two novel syndromic phenotypes.\",\"author\":\"Philips AK\",\"pubdate\":\"2014 Apr 11\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"24721225\"},\"1518451363815\":{\"title\":\"Mutations in ionotropic AMPA receptor 3 alter channel properties and are associated with moderate cognitive impairment in humans.\",\"author\":\"Wu Y\",\"pubdate\":\"2007 Nov 13\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"17989220\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"5.3\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1518451205139\":{\"title\":\"Characterization of the human glutamate receptor subunit 3 gene (GRIA3), a candidate for bipolar disorder and nonspecific X-linked mental retardation.\",\"author\":\"G\\u00e9cz J\",\"pubdate\":\"1999 Dec 15\",\"source\":\"Genomics\",\"uid\":\"10644433\"}}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"3.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"3\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1518451387463\":{\"title\":\"Synaptic transmission and plasticity in the absence of AMPA glutamate receptor GluR2 and GluR3.\",\"author\":\"Meng Y\",\"pubdate\":\"2003 Jul 3\",\"source\":\"Neuron\",\"uid\":\"12848940\"},\"1518451403510\":{\"title\":\"GluR3 subunit regulates sleep, breathing and seizure generation.\",\"author\":\"Steenland HW\",\"pubdate\":\"2008 Mar\",\"source\":\"Eur J Neurosci\",\"uid\":\"18312590\"},\"1518451462773\":{\"title\":\"Involvement of the AMPA receptor GluR-C subunit in alcohol-seeking behavior and relapse.\",\"author\":\"Sanchis-Segura C\",\"pubdate\":\"2006 Jan 25\",\"source\":\"J Neurosci\",\"uid\":\"16436610\"},\"1518451480933\":{\"title\":\"GluA3-deficiency in mice is associated with increased social and aggressive behavior and elevated dopamine in striatum.\",\"author\":\"Adamczyk A\",\"pubdate\":\"2012 Apr 1\",\"source\":\"Behav Brain Res\",\"uid\":\"22285418\"}}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"3.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"5.3\",\"ExperimentalEvidenceTotal\":\"3.5\",\"EvidencePointsTotal\":\"8.8\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"02/12/2018\",\"CuratorClassification\":\"MODERATE\",\"CuratorClassificationDate\":\"06/21/2017\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"10/20/2017\",\"FinalClassificationNotes\":\"The strength of this gene:disease association lies in 6 points for segregation. One of the families only has 2 affected males that goes through 4 carrier females. The family is also skewed for more females to males, and the only other male was not genotyped/phenotyped (Wu et al., 2007, M706T-IV:4 family/proband).\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-      "file": null,
-      "date": 1508482800,
-      "dateISO8601": "2017-10-20T00:00:00",
-      "dateFormated": "Oct 20, 2017"
-  },
   "9518": 
   {
       "title": "HUWE1: Syndromic X-Linked Intellectual Disability",
