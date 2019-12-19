@@ -1584,43 +1584,6 @@
     "dateISO8601": "2017-02-10T00:00:00",
     "dateFormated": "Feb 10, 2017"
   },
-  "6236": {
-    "title": "FAM65B: Nonsyndromic sensorineural hearing loss",
-    "label": "Nonsyndromic sensorineural hearing loss",
-    "type": "clinicalValidity",
-    "genes": {
-      "13872": {
-        "ontology": "HGNC",
-        "curie": "HGNC:13872",
-        "uri": "HGNC13872"
-      }
-    },
-    "conditions": {
-      "OMIM616515": {
-        "ontology": "OMIM",
-        "curie": "OMIM:616515",
-        "uri": "OMIM616515",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_616515"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3978": {
-        "label": "Strong"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"FAM65B\",\"Hgnc\":\"13872\",\"OrphaNet\":\"ORPHA90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"616515\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"FAM65B is a membrane-associated protein of hair cell stereocilia required for hearing.\",\"author\":\"Diaz-Horta O\",\"pubdate\":\"2014 Jul 8\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"24958875\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"2.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"6.0\",\"tally\":\"6\",\"pmid\":{\"publications\":[{\"title\":\"FAM65B is a membrane-associated protein of hair cell stereocilia required for hearing.\",\"author\":\"Diaz-Horta O\",\"pubdate\":\"2014 Jul 8\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"24958875\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"FAM65B is a membrane-associated protein of hair cell stereocilia required for hearing.\",\"author\":\"Diaz-Horta O\",\"pubdate\":\"2014 Jul 8\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"24958875\"},{\"title\":\"Murine Fam65b forms ring-like structures at the base of stereocilia critical for mechanosensory hair cell function.\",\"author\":\"Zhao B\",\"pubdate\":\"2016 Jun 8\",\"source\":\"Elife\",\"uid\":\"27269051\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"FAM65B is a membrane-associated protein of hair cell stereocilia required for hearing.\",\"author\":\"Diaz-Horta O\",\"pubdate\":\"2014 Jul 8\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"24958875\"},{\"title\":\"Murine Fam65b forms ring-like structures at the base of stereocilia critical for mechanosensory hair cell function.\",\"author\":\"Zhao B\",\"pubdate\":\"2016 Jun 8\",\"source\":\"Elife\",\"uid\":\"27269051\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"FAM65B is a membrane-associated protein of hair cell stereocilia required for hearing.\",\"author\":\"Diaz-Horta O\",\"pubdate\":\"2014 Jul 8\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"24958875\"},{\"title\":\"Murine Fam65b forms ring-like structures at the base of stereocilia critical for mechanosensory hair cell function.\",\"author\":\"Zhao B\",\"pubdate\":\"2016 Jun 8\",\"source\":\"Elife\",\"uid\":\"27269051\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"8\",\"GeneticEvidencePointsTotal\":\"8\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"14\",\"CalculatedClassification\":\"STRONG\",\"CalculatedClassificationDate\":\"11/01/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"STRONG\",\"FinalClassificationDate\":\"02/06/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1486368000,
-    "dateISO8601": "2017-02-06T00:00:00",
-    "dateFormated": "Feb 06, 2017"
-  },
   "6237": {
     "title": "DMXL2: Nonsyndromic sensorineural hearing loss",
     "label": "Nonsyndromic sensorineural hearing loss",
