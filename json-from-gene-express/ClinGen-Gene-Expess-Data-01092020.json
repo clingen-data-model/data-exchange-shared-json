@@ -17,7 +17,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0015780"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0015780"
       },
       "OMIM613987": {
         "ontology": "OMIM",
@@ -62,7 +62,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0019391"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019391"
       },
       "OMIM613390": {
         "ontology": "OMIM",
@@ -107,7 +107,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0015253"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0015253"
       },
       "OMIM613308": {
         "ontology": "OMIM",
@@ -242,7 +242,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0002442"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0012738"
       },
       "OMIM611820": {
         "ontology": "OMIM",
@@ -287,7 +287,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0002442"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019171"
       },
       "OMIM611819": {
         "ontology": "OMIM",
@@ -557,7 +557,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0013343"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0015699"
       },
       "OMIM613652": {
         "ontology": "OMIM",
@@ -830,7 +830,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0018852"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0014677"
       },
       "OMIM616517": {
         "ontology": "OMIM",
@@ -1616,51 +1616,6 @@
       }
     },
     "scoreJsonSerialized": "{\"data\":{\"Gene\":\"LRTOMT\",\"Hgnc\":\"25033\",\"OrphaNet\":\"ORPHA90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"611451\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Mutations of LRTOMT, a fusion gene with alternative reading frames, cause nonsyndromic deafness in humans.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2008 Nov\",\"source\":\"Nat Genet\",\"uid\":\"18953341\"},{\"title\":\"A catechol-O-methyltransferase that is essential for auditory function in mice and humans.\",\"author\":\"Du X\",\"pubdate\":\"2008 Sep 23\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18794526\"},{\"title\":\"A 1 bp deletion in the dual reading frame deafness gene LRTOMT causes a frameshift from the first into the second reading frame.\",\"author\":\"Vanwesemael M\",\"pubdate\":\"2011 Aug\",\"source\":\"Am J Med Genet A\",\"uid\":\"21739586\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"10.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"18.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations of LRTOMT, a fusion gene with alternative reading frames, cause nonsyndromic deafness in humans.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2008 Nov\",\"source\":\"Nat Genet\",\"uid\":\"18953341\"},{\"title\":\"A catechol-O-methyltransferase that is essential for auditory function in mice and humans.\",\"author\":\"Du X\",\"pubdate\":\"2008 Sep 23\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18794526\"},{\"title\":\"A 1 bp deletion in the dual reading frame deafness gene LRTOMT causes a frameshift from the first into the second reading frame.\",\"author\":\"Vanwesemael M\",\"pubdate\":\"2011 Aug\",\"source\":\"Am J Med Genet A\",\"uid\":\"21739586\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"The c.242G>A mutation in LRTOMT gene is responsible for a high prevalence of deafness in the Moroccan population.\",\"author\":\"Charif M\",\"pubdate\":\"2012 Dec\",\"source\":\"Mol Biol Rep\",\"uid\":\"23053991\"}],\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"A catechol-O-methyltransferase that is essential for auditory function in mice and humans.\",\"author\":\"Du X\",\"pubdate\":\"2008 Sep 23\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18794526\"},{\"title\":\"Mutations of LRTOMT, a fusion gene with alternative reading frames, cause nonsyndromic deafness in humans.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2008 Nov\",\"source\":\"Nat Genet\",\"uid\":\"18953341\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"A catechol-O-methyltransferase that is essential for auditory function in mice and humans.\",\"author\":\"Du X\",\"pubdate\":\"2008 Sep 23\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18794526\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"15\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09/30/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/15/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1487145600,
-    "dateISO8601": "2017-02-15T00:00:00",
-    "dateFormated": "Feb 15, 2017"
-  },
-  "5663": {
-    "title": "ADGRV1 Usher syndrome type 2",
-    "label": "Usher syndrome type 2",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
-    },
-    "genes": {
-      "17416": {
-        "ontology": "HGNC",
-        "curie": "HGNC:17416",
-        "uri": "HGNC17416"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011558"
-      },
-      "OMIM605472": {
-        "ontology": "OMIM",
-        "curie": "OMIM:605472",
-        "uri": "OMIM605472",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_605472"
-      },
-      "ORPHA231178": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:231178",
-        "uri": "ORPHA231178",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_231178"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"ADGRV1\",\"Hgnc\":\"17416\",\"OrphaNet\":\"ORPHA231178\",\"Disease\":\"Usher syndrome type 2\",\"Omim\":\"605472\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the VLGR1 gene implicate G-protein signaling in the pathogenesis of Usher syndrome type II.\",\"author\":\"Weston MD\",\"pubdate\":\"2004 Feb\",\"source\":\"Am J Hum Genet\",\"uid\":\"14740321\"},{\"title\":\"Targeted exome sequencing identified two novel truncation mutations in GPR98 causing Usher syndrome.\",\"author\":\"Yang J\",\"pubdate\":\"2016 Apr\",\"source\":\"Clin Exp Ophthalmol\",\"uid\":\"26432996\"},{\"title\":\"USH2 caused by GPR98 mutation diagnosed by massively parallel sequencing in advance of the occurrence of visual symptoms.\",\"author\":\"Moteki H\",\"pubdate\":\"2015 May\",\"source\":\"Ann Otol Rhinol Laryngol\",\"uid\":\"25743181\"},{\"title\":\"A novel mutation of the USH2C (GPR98) gene in an Iranian family with Usher syndrome type II.\",\"author\":\"Kahrizi K\",\"pubdate\":\"2014 Dec\",\"source\":\"J Genet\",\"uid\":\"25572244\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"7.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"6.5\",\"tally\":\"6.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the VLGR1 gene implicate G-protein signaling in the pathogenesis of Usher syndrome type II.\",\"author\":\"Weston MD\",\"pubdate\":\"2004 Feb\",\"source\":\"Am J Hum Genet\",\"uid\":\"14740321\"},{\"title\":\"USH2 caused by GPR98 mutation diagnosed by massively parallel sequencing in advance of the occurrence of visual symptoms.\",\"author\":\"Moteki H\",\"pubdate\":\"2015 May\",\"source\":\"Ann Otol Rhinol Laryngol\",\"uid\":\"25743181\"},{\"title\":\"A novel mutation of the USH2C (GPR98) gene in an Iranian family with Usher syndrome type II.\",\"author\":\"Kahrizi K\",\"pubdate\":\"2014 Dec\",\"source\":\"J Genet\",\"uid\":\"25572244\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Regulated vesicular trafficking of specific PCDH15 and VLGR1 variants in auditory hair cells.\",\"author\":\"Zallocchi M\",\"pubdate\":\"2012 Oct 3\",\"source\":\"J Neurosci\",\"uid\":\"23035094\"},{\"title\":\"Whirlin and PDZ domain-containing 7 (PDZD7) proteins are both required to form the quaternary protein complex associated with Usher syndrome type 2.\",\"author\":\"Chen Q\",\"pubdate\":\"2014 Dec 26\",\"source\":\"J Biol Chem\",\"uid\":\"25406310\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Vlgr1 is required for proper stereocilia maturation of cochlear hair cells.\",\"author\":\"Yagi H\",\"pubdate\":\"2007 Feb\",\"source\":\"Genes Cells\",\"uid\":\"17295842\"},{\"title\":\"The very large G-protein-coupled receptor VLGR1: a component of the ankle link complex required for the normal development of auditory hair bundles.\",\"author\":\"McGee J\",\"pubdate\":\"2006 Jun 14\",\"source\":\"J Neurosci\",\"uid\":\"16775142\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"5\",\"EvidencePointsTotal\":\"17\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09/15/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/15/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
     "scoreJsonSerializedSop5": "",
     "file": null,
     "date": 1487145600,
@@ -3035,7 +2990,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0012933"
       },
       "OMIM612555": {
         "ontology": "OMIM",
@@ -3080,7 +3035,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015253"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
       },
       "OMIM220290": {
         "ontology": "OMIM",
@@ -3125,7 +3080,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012662"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016485"
       },
       "OMIM606397": {
         "ontology": "OMIM",
@@ -3152,51 +3107,6 @@
     "dateISO8601": "2017-03-02T00:00:00",
     "dateFormated": "Mar 02, 2017"
   },
-  "8401": {
-    "title": "ELMOD3: Nonsyndromic sensorineural hearing loss",
-    "label": "Nonsyndromic sensorineural hearing loss",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
-    },
-    "genes": {
-      "26158": {
-        "ontology": "HGNC",
-        "curie": "HGNC:26158",
-        "uri": "HGNC26158"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012670"
-      },
-      "OMIM615429": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615429",
-        "uri": "OMIM615429",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615429"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"ELMOD3\",\"Hgnc\":\"26158\",\"OrphaNet\":\"90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"615429\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"An alteration in ELMOD3, an Arl2 GTPase-activating protein, is associated with hearing impairment in humans.\",\"author\":\"Jaworek TJ\",\"pubdate\":\"2013\",\"source\":\"PLoS Genet\",\"uid\":\"24039609\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"6.5\",\"tally\":\"6.5\",\"pmid\":{\"publications\":[{\"title\":\"An alteration in ELMOD3, an Arl2 GTPase-activating protein, is associated with hearing impairment in humans.\",\"author\":\"Jaworek TJ\",\"pubdate\":\"2013\",\"source\":\"PLoS Genet\",\"uid\":\"24039609\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"An alteration in ELMOD3, an Arl2 GTPase-activating protein, is associated with hearing impairment in humans.\",\"author\":\"Jaworek TJ\",\"pubdate\":\"2013\",\"source\":\"PLoS Genet\",\"uid\":\"24039609\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"7.5\",\"GeneticEvidencePointsTotal\":\"7.5\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"8.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"10/17/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"05/04/2017\",\"FinalClassificationNotes\":\"Although ELMOD3 scored sufficient points to reach a Moderate classification for autosomal recessive nonsyndromic hearing loss, after expert review, this gene-disease association was given a final classification of Limited due to a lack of replication of human cases. Reviewed by the ClinGen Hereditary Hearing Loss Working Group.\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1493881200,
-    "dateISO8601": "2017-05-04T00:00:00",
-    "dateFormated": "May 04, 2017"
-  },
   "8402": {
     "title": "PNPT1: Nonsyndromic sensorineural hearing loss",
     "label": "Nonsyndromic sensorineural hearing loss",
@@ -3215,7 +3125,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019171"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
       },
       "OMIM614934": {
         "ontology": "OMIM",
@@ -3260,7 +3170,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
       },
       "OMIM603317": {
         "ontology": "OMIM",
@@ -3350,7 +3260,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012933"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
       },
       "OMIM612971": {
         "ontology": "OMIM",
@@ -3395,7 +3305,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015263"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -3440,7 +3350,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011001"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -3485,7 +3395,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011001"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -3578,7 +3488,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011001"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -3623,7 +3533,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011001"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0012132"
       },
       "OMIM608812": {
         "ontology": "OMIM",
@@ -3668,7 +3578,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011001"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -3713,7 +3623,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015263"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0012075"
       },
       "OMIM608615": {
         "ontology": "OMIM",
@@ -3758,7 +3668,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015263"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0014630"
       },
       "OMIM616415": {
         "ontology": "OMIM",
@@ -3803,7 +3713,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0010247"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018653"
       },
       "OMIM612591": {
         "ontology": "OMIM",
@@ -3848,7 +3758,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012289"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018653"
       },
       "OMIM615083": {
         "ontology": "OMIM",
@@ -3893,7 +3803,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0011023"
       },
       "OMIM601228": {
         "ontology": "OMIM",
@@ -3938,7 +3848,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0018812"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016021"
       },
       "OMIM602377": {
         "ontology": "OMIM",
@@ -3983,7 +3893,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005835"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
       },
       "OMIM608751": {
         "ontology": "OMIM",
@@ -4028,7 +3938,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015452"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
       },
       "OMIM613873": {
         "ontology": "OMIM",
@@ -4073,7 +3983,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016248"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
       },
       "OMIM114480": {
         "ontology": "OMIM",
@@ -4208,7 +4118,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016248"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -4253,7 +4163,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016248"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
       },
       "OMIM114480": {
         "ontology": "OMIM",
@@ -4298,7 +4208,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016248"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -4343,7 +4253,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -4388,7 +4298,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0016248"
       },
       "OMIM": {
         "ontology": "OMIM",
@@ -5336,7 +5246,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0001734"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0008612"
       },
       "OMIM191100": {
         "ontology": "OMIM",
@@ -5381,7 +5291,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO:0001734"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0008612"
       },
       "OMIM191100": {
         "ontology": "OMIM",
@@ -6802,51 +6712,6 @@
     "date": 1511251200,
     "dateISO8601": "2017-11-21T00:00:00",
     "dateFormated": "Nov 21, 2017"
-  },
-  "9546": {
-    "title": "EPS8: Nonsyndromic sensorineural deafness",
-    "label": "nonsyndromic sensorineural deafness",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
-    },
-    "genes": {
-      "HGNC:3420": {
-        "ontology": "HGNC",
-        "curie": "HGNC:3420",
-        "uri": "HGNC3420"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
-      },
-      "OMIM615974": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615974",
-        "uri": "OMIM615974",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615974"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520284710\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"EPS8\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:3420\",\"uri\":\"HGNC3420\"},\"condition\":{\"name\":\"nonsyndromic sensorineural deafness\",\"OrphaNet\":{\"curie\":\"ORPHA:90636\",\"uri\":\"ORPHA90636\"},\"MONDO\":{\"curie\":\"MONDO:0014428\",\"uri\":\"MONDO0014428\"},\"OMIM\":{\"curie\":\"OMIM:615974\",\"uri\":\"OMIM615974\"}},\"title\":\"EPS8 nonsyndromic sensorineural deafness\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"4.00\",\"evidence\":{\"publications\":{\"1519412217046\":{\"title\":\"EPS8, encoding an actin-binding protein of cochlear hair cell stereocilia, is a new causal gene for autosomal recessive profound deafness.\",\"author\":\"Behlouli A\",\"pubdate\":\"2014 Apr 17\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"24741995\"},\"1519412226309\":{\"title\":\"Spectrum of DNA variants for non-syndromic deafness in a large cohort from multiple continents.\",\"author\":\"Yan D\",\"pubdate\":\"2016 Aug\",\"source\":\"Hum Genet\",\"uid\":\"27344577\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"4\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"0\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"4.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1519395670545\":{\"title\":\"Regulation of stereocilia length by myosin XVa and whirlin depends on the actin-regulatory protein Eps8.\",\"author\":\"Manor U\",\"pubdate\":\"2011 Jan 25\",\"source\":\"Curr Biol\",\"uid\":\"21236676\"},\"1519395742399\":{\"title\":\"Alternative Splice Forms Influence Functions of Whirlin in Mechanosensory Hair Cell Stereocilia.\",\"author\":\"Ebrahim S\",\"pubdate\":\"2016 May 3\",\"source\":\"Cell Rep\",\"uid\":\"27117407\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"1.50\",\"evidence\":{\"publications\":{\"1519395666561\":{\"title\":\"Regulation of stereocilia length by myosin XVa and whirlin depends on the actin-regulatory protein Eps8.\",\"author\":\"Manor U\",\"pubdate\":\"2011 Jan 25\",\"source\":\"Curr Biol\",\"uid\":\"21236676\"},\"1519395693623\":{\"title\":\"Eps8 regulates hair bundle length and functional maturation of mammalian auditory hair cells.\",\"author\":\"Zampini V\",\"pubdate\":\"2011 Apr\",\"source\":\"PLoS Biol\",\"uid\":\"21526224\"},\"1519395716837\":{\"title\":\"EPS8, encoding an actin-binding protein of cochlear hair cell stereocilia, is a new causal gene for autosomal recessive profound deafness.\",\"author\":\"Behlouli A\",\"pubdate\":\"2014 Apr 17\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"24741995\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1519395707639\":{\"title\":\"Eps8 regulates hair bundle length and functional maturation of mammalian auditory hair cells.\",\"author\":\"Zampini V\",\"pubdate\":\"2011 Apr\",\"source\":\"PLoS Biol\",\"uid\":\"21526224\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"2.50\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"2.5\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1519395669328\":{\"title\":\"Regulation of stereocilia length by myosin XVa and whirlin depends on the actin-regulatory protein Eps8.\",\"author\":\"Manor U\",\"pubdate\":\"2011 Jan 25\",\"source\":\"Curr Biol\",\"uid\":\"21236676\"},\"1519395699023\":{\"title\":\"Eps8 regulates hair bundle length and functional maturation of mammalian auditory hair cells.\",\"author\":\"Zampini V\",\"pubdate\":\"2011 Apr\",\"source\":\"PLoS Biol\",\"uid\":\"21526224\"},\"1519395755127\":{\"title\":\"Distinct roles of Eps8 in the maturation of cochlear and vestibular hair cells.\",\"author\":\"Tavazzani E\",\"pubdate\":\"2016 Jul 22\",\"source\":\"Neuroscience\",\"uid\":\"27132230\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"4.5\",\"ExperimentalEvidenceTotal\":\"5\",\"EvidencePointsTotal\":\"9.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"10/27/2016\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"04/26/2017\",\"FinalClassificationNotes\":\"The EPS8 gene has been associated with ARNSHL in (at least) 3 probands in 2 publications. 3 unique variants (missense, nonsense, frameshift) have been reported in humans, and variants in this gene segregated with disease in 2 additional family members. EPS8 was first associated with this disease in humans in 2014 (Behlouli et al.). The mechanism for disease based on current case data may be biallelic loss of function, but more cases will be needed to establish this. This gene-disease association is supported by the gene's expression within the stereocilia of the inner ear, a knockout mouse model demonstrating hearing loss and functional alteration of biophysical properties of membrane potentials, and its interaction with WHRN, a known hearing loss gene (Zampini 2011, Furness 2013, Behlouli 2014, Ebraham 2016). In summary, there is moderate evidence to support this gene-disease association. While more evidence is needed to establish this association definitively, no convincing contradictory evidence has emerged. This classification was approved by the ClinGen Hearing Loss Working Group on 4/26/2017.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1493190000,
-    "dateISO8601": "2017-04-26T00:00:00",
-    "dateFormated": "Apr 26, 2017"
   },
   "9547": {
     "title": "TMEM132E: nonsyndromic sensorineural deafness",
@@ -8553,7 +8418,7 @@
     "dateFormated": "Nov 13, 2017"
   },
   "9900": {
-    "title": "MRE11A: Hereditary breast cancer",
+    "title": "MRE11: Hereditary breast cancer",
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
@@ -8590,7 +8455,7 @@
         "label": "Contradictory (disputed)"
       }
     },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MRE11A\",\"Hgnc\":\"7230\",\"OrphaNet\":\"227535\",\"Disease\":\"Familial breast cancer\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The 3\",\"author\":\"Paull TT\",\"pubdate\":\"1998 Jun\",\"source\":\"Mol Cell\",\"uid\":\"9651580\"},{\"title\":\"Association of BRCA1 with the hRad50-hMre11-p95 complex and the DNA damage response.\",\"author\":\"Zhong Q\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Science\",\"uid\":\"10426999\"},{\"title\":\"Altered expression of DNA double-strand break detection and repair proteins in breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2003 Oct\",\"source\":\"Histopathology\",\"uid\":\"14511253\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Lack of MRE11-RAD50-NBS1 (MRN) complex detection occurs frequently in low-grade epithelial ovarian cancer.\",\"author\":\"Brandt S\",\"pubdate\":\"2017 Jan 10\",\"source\":\"BMC Cancer\",\"uid\":\"28073364\"},{\"title\":\"Checkpoint failure and chromosomal instability without lymphomagenesis in Mre11(ATLD1/ATLD1) mice.\",\"author\":\"Theunissen JW\",\"pubdate\":\"2003 Dec\",\"source\":\"Mol Cell\",\"uid\":\"14690604\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/25/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"10/25/2017\",\"FinalClassificationNotes\":\"\"}}",
+    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MRE11\",\"Hgnc\":\"7230\",\"OrphaNet\":\"227535\",\"Disease\":\"Familial breast cancer\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The 3\",\"author\":\"Paull TT\",\"pubdate\":\"1998 Jun\",\"source\":\"Mol Cell\",\"uid\":\"9651580\"},{\"title\":\"Association of BRCA1 with the hRad50-hMre11-p95 complex and the DNA damage response.\",\"author\":\"Zhong Q\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Science\",\"uid\":\"10426999\"},{\"title\":\"Altered expression of DNA double-strand break detection and repair proteins in breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2003 Oct\",\"source\":\"Histopathology\",\"uid\":\"14511253\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Lack of MRE11-RAD50-NBS1 (MRN) complex detection occurs frequently in low-grade epithelial ovarian cancer.\",\"author\":\"Brandt S\",\"pubdate\":\"2017 Jan 10\",\"source\":\"BMC Cancer\",\"uid\":\"28073364\"},{\"title\":\"Checkpoint failure and chromosomal instability without lymphomagenesis in Mre11(ATLD1/ATLD1) mice.\",\"author\":\"Theunissen JW\",\"pubdate\":\"2003 Dec\",\"source\":\"Mol Cell\",\"uid\":\"14690604\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/25/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"10/25/2017\",\"FinalClassificationNotes\":\"\"}}",
     "scoreJsonSerializedSop5": "",
     "file": null,
     "date": 1508914800,
@@ -8598,7 +8463,7 @@
     "dateFormated": "Oct 25, 2017"
   },
   "9901": {
-    "title": "MRE11A: Familial ovarian cancer",
+    "title": "MRE11: Familial ovarian cancer",
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
@@ -8635,7 +8500,7 @@
         "label": "Contradictory (disputed)"
       }
     },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MRE11A\",\"Hgnc\":\"7230\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The 3\",\"author\":\"Paull TT\",\"pubdate\":\"1998 Jun\",\"source\":\"Mol Cell\",\"uid\":\"9651580\"},{\"title\":\"Association of BRCA1 with the hRad50-hMre11-p95 complex and the DNA damage response.\",\"author\":\"Zhong Q\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Science\",\"uid\":\"10426999\"},{\"title\":\"Altered expression of DNA double-strand break detection and repair proteins in breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2003 Oct\",\"source\":\"Histopathology\",\"uid\":\"14511253\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Lack of MRE11-RAD50-NBS1 (MRN) complex detection occurs frequently in low-grade epithelial ovarian cancer.\",\"author\":\"Brandt S\",\"pubdate\":\"2017 Jan 10\",\"source\":\"BMC Cancer\",\"uid\":\"28073364\"},{\"title\":\"Checkpoint failure and chromosomal instability without lymphomagenesis in Mre11(ATLD1/ATLD1) mice.\",\"author\":\"Theunissen JW\",\"pubdate\":\"2003 Dec\",\"source\":\"Mol Cell\",\"uid\":\"14690604\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/25/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"10/25/2017\",\"FinalClassificationNotes\":\"\"}}",
+    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MRE11\",\"Hgnc\":\"7230\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The 3\",\"author\":\"Paull TT\",\"pubdate\":\"1998 Jun\",\"source\":\"Mol Cell\",\"uid\":\"9651580\"},{\"title\":\"Association of BRCA1 with the hRad50-hMre11-p95 complex and the DNA damage response.\",\"author\":\"Zhong Q\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Science\",\"uid\":\"10426999\"},{\"title\":\"Altered expression of DNA double-strand break detection and repair proteins in breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2003 Oct\",\"source\":\"Histopathology\",\"uid\":\"14511253\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Lack of MRE11-RAD50-NBS1 (MRN) complex detection occurs frequently in low-grade epithelial ovarian cancer.\",\"author\":\"Brandt S\",\"pubdate\":\"2017 Jan 10\",\"source\":\"BMC Cancer\",\"uid\":\"28073364\"},{\"title\":\"Checkpoint failure and chromosomal instability without lymphomagenesis in Mre11(ATLD1/ATLD1) mice.\",\"author\":\"Theunissen JW\",\"pubdate\":\"2003 Dec\",\"source\":\"Mol Cell\",\"uid\":\"14690604\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/25/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"10/25/2017\",\"FinalClassificationNotes\":\"\"}}",
     "scoreJsonSerializedSop5": "",
     "file": null,
     "date": 1508914800,
