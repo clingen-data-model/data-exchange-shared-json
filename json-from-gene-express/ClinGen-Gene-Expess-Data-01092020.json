@@ -9317,51 +9317,6 @@
     "dateISO8601": "2017-02-22T00:00:00",
     "dateFormated": "Feb 22, 2017"
   },
-  "9997": {
-    "title": "CD164: AD Nonsyndromic Sensorineural HL",
-    "label": "Nonsyndromic Sensorineural Hearing Loss",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
-    },
-    "genes": {
-      "HGNC:1632": {
-        "ontology": "HGNC",
-        "curie": "HGNC:1632",
-        "uri": "HGNC1632"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014854"
-      },
-      "OMIM616969": {
-        "ontology": "OMIM",
-        "curie": "OMIM:616969",
-        "uri": "OMIM616969",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_616969"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1527089651\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CD164\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:1632\",\"uri\":\"HGNC1632\"},\"condition\":{\"name\":\"Nonsyndromic Hearing Loss\",\"MONDO\":{\"curie\":\"MONDO:0019587\",\"uri\":\"MONDO0019587\"},\"OMIM\":{\"curie\":\"OMIM:616969\",\"uri\":\"OMIM616969\"}},\"title\":\"CD164 Nonsyndromic Hearing Loss\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1527090697018\":{\"title\":\"A Novel Locus Harbouring a Functional CD164 Nonsense Mutation Identified in a Large Danish Family with Nonsyndromic Hearing Impairment.\",\"author\":\"Nyegaard M\",\"pubdate\":\"2015 Jul\",\"source\":\"PLoS Genet\",\"uid\":\"26197441\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1527090820390\":{\"title\":\"A Novel Locus Harbouring a Functional CD164 Nonsense Mutation Identified in a Large Danish Family with Nonsyndromic Hearing Impairment.\",\"author\":\"Nyegaard M\",\"pubdate\":\"2015 Jul\",\"source\":\"PLoS Genet\",\"uid\":\"26197441\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"4\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527090763909\":{\"title\":\"A Novel Locus Harbouring a Functional CD164 Nonsense Mutation Identified in a Large Danish Family with Nonsyndromic Hearing Impairment.\",\"author\":\"Nyegaard M\",\"pubdate\":\"2015 Jul\",\"source\":\"PLoS Genet\",\"uid\":\"26197441\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527090794542\":{\"title\":\"A Novel Locus Harbouring a Functional CD164 Nonsense Mutation Identified in a Large Danish Family with Nonsyndromic Hearing Impairment.\",\"author\":\"Nyegaard M\",\"pubdate\":\"2015 Jul\",\"source\":\"PLoS Genet\",\"uid\":\"26197441\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"4\",\"ExperimentalEvidenceTotal\":\"1\",\"EvidencePointsTotal\":\"5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"02/23/2018\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"03/20/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1521529200,
-    "dateISO8601": "2018-03-20T00:00:00",
-    "dateFormated": "Mar 20, 2018"
-  },
   "10028": {
     "title": "ABCC9: Cantu syndrome",
     "label": "Cantu syndrome",
