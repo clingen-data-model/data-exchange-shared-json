@@ -242,7 +242,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012738"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0002442"
       },
       "OMIM611820": {
         "ontology": "OMIM",
@@ -287,7 +287,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019171"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0002442"
       },
       "OMIM611819": {
         "ontology": "OMIM",
@@ -557,7 +557,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015699"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0013343"
       },
       "OMIM613652": {
         "ontology": "OMIM",
@@ -830,7 +830,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014677"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0018852"
       },
       "OMIM616517": {
         "ontology": "OMIM",
@@ -3215,7 +3215,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0012485"
       },
       "OMIM610419": {
         "ontology": "OMIM",
@@ -5246,7 +5246,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008612"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0001734"
       },
       "OMIM191100": {
         "ontology": "OMIM",
@@ -5291,7 +5291,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008612"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0001734"
       },
       "OMIM191100": {
         "ontology": "OMIM",
