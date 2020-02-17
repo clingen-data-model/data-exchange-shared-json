@@ -3938,7 +3938,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0013474"
       },
       "OMIM613873": {
         "ontology": "OMIM",
