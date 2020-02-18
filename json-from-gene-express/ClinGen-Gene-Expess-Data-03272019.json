@@ -1584,43 +1584,6 @@
     "dateISO8601": "2017-02-10T00:00:00",
     "dateFormated": "Feb 10, 2017"
   },
-  "6237": {
-    "title": "DMXL2: Nonsyndromic sensorineural hearing loss",
-    "label": "Nonsyndromic sensorineural hearing loss",
-    "type": "clinicalValidity",
-    "genes": {
-      "2938": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2938",
-        "uri": "HGNC2938"
-      }
-    },
-    "conditions": {
-      "OMIM612186": {
-        "ontology": "OMIM",
-        "curie": "OMIM:612186",
-        "uri": "OMIM612186",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_612186"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"DMXL2\",\"Hgnc\":\"2938\",\"OrphaNet\":\"ORPHA90636\",\"Disease\":\"Sensorineural Hearing Loss\",\"Omim\":\"612186\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.5\",\"tally\":\"0.5\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"6.0\",\"tally\":\"6\",\"pmid\":{\"publications\":[{\"title\":\"A dominant variant in DMXL2 is linked to nonsyndromic hearing loss.\",\"author\":\"Chen DY\",\"pubdate\":\"2016 Sep 22\",\"source\":\"Genet Med\",\"uid\":\"27657680\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"A dominant variant in DMXL2 is linked to nonsyndromic hearing loss.\",\"author\":\"Chen DY\",\"pubdate\":\"2016 Sep 22\",\"source\":\"Genet Med\",\"uid\":\"27657680\"},{\"title\":\"Rabconnectin3\\u03b1 promotes stable activity of the H+ pump on synaptic vesicles in hair cells.\",\"author\":\"Einhorn Z\",\"pubdate\":\"2012 Aug 8\",\"source\":\"J Neurosci\",\"uid\":\"22875945\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Rabconnectin3\\u03b1 promotes stable activity of the H+ pump on synaptic vesicles in hair cells.\",\"author\":\"Einhorn Z\",\"pubdate\":\"2012 Aug 8\",\"source\":\"J Neurosci\",\"uid\":\"22875945\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"6.5\",\"GeneticEvidencePointsTotal\":\"6.5\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"9.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"12/19/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"02/06/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1486368000,
-    "dateISO8601": "2017-02-06T00:00:00",
-    "dateFormated": "Feb 06, 2017"
-  },
   "6238": {
     "title": "ALMS1 Alstrom syndrome",
     "label": "Alstrom syndrome",
