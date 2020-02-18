@@ -3215,7 +3215,7 @@
     "conditions": {
       "MONDO": {
         "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012485"
+        "iri": "http://purl.obolibrary.org/obo/MONDO_0019497"
       },
       "OMIM610419": {
         "ontology": "OMIM",
