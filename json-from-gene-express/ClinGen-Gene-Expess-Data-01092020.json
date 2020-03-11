@@ -4,8 +4,8 @@
     "label": "Dyskeratosis Congenita",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:14377": {
@@ -49,8 +49,8 @@
     "label": "Fanconi anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:9820": {
@@ -94,8 +94,8 @@
     "label": "Diamond-Blackfan anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:10383": {
@@ -139,8 +139,8 @@
     "label": "Diamond-Blackfan anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:10411": {
@@ -184,8 +184,8 @@
     "label": "Dyskeratosis Congenita",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:25522": {
@@ -229,8 +229,8 @@
     "label": "Long QT syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40025",
-      "name": "Long QT GCEP"
+      "id": "10025",
+      "name": "Long QT"
     },
     "genes": {
       "HGNC:379": {
@@ -274,8 +274,8 @@
     "label": "Long QT Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:10592": {
@@ -319,8 +319,8 @@
     "label": "Aneurysm-osteoarthritis syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40026",
-      "name": "General Gene Curation GCEP"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:6769": {
@@ -364,8 +364,8 @@
     "label": "Familial or idiopathic dilated cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11875": {
@@ -409,8 +409,8 @@
     "label": "Pleuropulmonary blastoma",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:17098": {
@@ -454,8 +454,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:26144": {
@@ -499,8 +499,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9823": {
@@ -544,8 +544,8 @@
     "label": "Immunodeficiency due to an early component of complement deficiency",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:1242": {
@@ -589,8 +589,8 @@
     "label": "Severe combined immunodeficiency",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:1674": {
@@ -634,8 +634,8 @@
     "label": "X-linked non-syndromic intellectual disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:338": {
@@ -682,8 +682,8 @@
     "label": "Renal or urinary tract malformation (CAKUT)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:1916": {
@@ -727,8 +727,8 @@
     "label": "Achondroplasia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3690": {
@@ -772,8 +772,8 @@
     "label": "Shprintzen-Goldberg syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:10896": {
@@ -817,8 +817,8 @@
     "label": "Achromatopsia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:791": {
@@ -862,8 +862,8 @@
     "label": "Spondyloepiphyseal dysplasia (Stanescu type)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:2200": {
@@ -907,8 +907,8 @@
     "label": "Antecubital pterygium syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:19093": {
@@ -952,8 +952,8 @@
     "label": "Au-Kline Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "5044": {
@@ -997,8 +997,8 @@
     "label": "Lissencephaly",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40026",
-      "name": "General Gene Curation GCEP"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:6486": {
@@ -1042,8 +1042,8 @@
     "label": "Anadysplasia-like, spontaneously remitting spondylometaphyseal dysplasia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40026",
-      "name": "General Gene Curation GCEP"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:6518": {
@@ -1087,8 +1087,8 @@
     "label": "Arthrogryposis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:29122": {
@@ -1132,8 +1132,8 @@
     "label": "Arthrogryposis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40026",
-      "name": "General Gene Curation GCEP"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "7608": {
@@ -1177,8 +1177,8 @@
     "label": "Myofibrillar Myopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:939": {
@@ -1222,8 +1222,8 @@
     "label": "Coffin-Siris syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11097": {
@@ -1267,8 +1267,8 @@
     "label": "Usher syndrome type 1",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "13733": {
@@ -1312,8 +1312,8 @@
     "label": "Nonsyndromic sensorineural hearing loss (auditory neuropathy)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "8515": {
@@ -1357,8 +1357,8 @@
     "label": "Alacrimia-choreoathetosis-liver dysfunction syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "17646": {
@@ -1402,8 +1402,8 @@
     "label": "Usher syndrome type 1",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "14674": {
@@ -1447,8 +1447,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "16513": {
@@ -1492,8 +1492,8 @@
     "label": "Usher syndrome type 1",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "16356": {
@@ -1537,8 +1537,8 @@
     "label": "Usher syndrome type 2",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "12601": {
@@ -1582,8 +1582,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "25033": {
@@ -1627,8 +1627,8 @@
     "label": "Usher syndrome type 1",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "12597": {
@@ -1672,8 +1672,8 @@
     "label": "DNMT1 methylopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "2976": {
@@ -1717,8 +1717,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "2938": {
@@ -1762,8 +1762,8 @@
     "label": "Alstrom syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "428": {
@@ -1807,8 +1807,8 @@
     "label": "Cone-rod dystrophy and hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "25740": {
@@ -1852,8 +1852,8 @@
     "label": "Usher syndrome type 2",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "16361": {
@@ -1897,8 +1897,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "232": {
@@ -1942,8 +1942,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:130": {
@@ -1987,8 +1987,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:2201": {
@@ -2032,8 +2032,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3603": {
@@ -2077,8 +2077,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:7569": {
@@ -2122,8 +2122,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:6769": {
@@ -2167,8 +2167,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11768": {
@@ -2212,8 +2212,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11772": {
@@ -2257,8 +2257,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11773": {
@@ -2302,8 +2302,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:7590": {
@@ -2347,8 +2347,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:6664": {
@@ -2392,8 +2392,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:9414": {
@@ -2437,8 +2437,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:1044": {
@@ -2482,8 +2482,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3808": {
@@ -2527,8 +2527,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:16882": {
@@ -2572,8 +2572,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:6904": {
@@ -2617,8 +2617,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:29673": {
@@ -2662,8 +2662,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:6768": {
@@ -2707,8 +2707,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:11769": {
@@ -2752,8 +2752,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3219": {
@@ -2797,8 +2797,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3604": {
@@ -2842,8 +2842,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:7881": {
@@ -2887,8 +2887,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:13444": {
@@ -2932,8 +2932,8 @@
     "label": "Familial thoracic aortic aneurysm and aortic dissection",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "HGNC:3754": {
@@ -2977,8 +2977,8 @@
     "label": "Familial breast-ovarian cancer susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "1101": {
@@ -3022,8 +3022,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "4284": {
@@ -3067,8 +3067,8 @@
     "label": "Usher syndrome type 3",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "12605": {
@@ -3112,8 +3112,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "23166": {
@@ -3157,8 +3157,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "9679": {
@@ -3202,8 +3202,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "3169": {
@@ -3247,8 +3247,8 @@
     "label": "Nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "26257": {
@@ -3292,8 +3292,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:952": {
@@ -3337,8 +3337,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:3401": {
@@ -3382,8 +3382,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:3511": {
@@ -3430,8 +3430,8 @@
     "label": "Hereditary colorectal cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:1748": {
@@ -3475,8 +3475,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:1785": {
@@ -3520,8 +3520,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:19877": {
@@ -3565,8 +3565,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:10405": {
@@ -3610,8 +3610,8 @@
     "label": "Oligodontia-colorectal cancer syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:904": {
@@ -3655,8 +3655,8 @@
     "label": "Colorectal cancer/Polyposis Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:8028": {
@@ -3700,8 +3700,8 @@
     "label": "Colorectal cancer/Polyposis Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:9175": {
@@ -3745,8 +3745,8 @@
     "label": "Colorectal cancer/Polyposis Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:9177": {
@@ -3790,8 +3790,8 @@
     "label": "Hereditary Mixed Polyposis Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "HGNC:2001": {
@@ -3835,8 +3835,8 @@
     "label": "Infantile Epilepsy Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40005",
-      "name": "Epilepsy GCEP"
+      "id": "10005",
+      "name": "Epilepsy"
     },
     "genes": {
       "HGNC:2972": {
@@ -3880,8 +3880,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:7584": {
@@ -3925,8 +3925,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:14202": {
@@ -3970,8 +3970,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "1748": {
@@ -4015,8 +4015,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:1748": {
@@ -4060,8 +4060,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:1925": {
@@ -4105,8 +4105,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:1925": {
@@ -4150,8 +4150,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:16627": {
@@ -4195,8 +4195,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:16627": {
@@ -4240,8 +4240,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:6954": {
@@ -4285,8 +4285,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:6954": {
@@ -4330,8 +4330,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:7127": {
@@ -4375,8 +4375,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:11529": {
@@ -4420,8 +4420,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:7329": {
@@ -4465,8 +4465,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGCN:26881": {
@@ -4510,8 +4510,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:26881": {
@@ -4555,8 +4555,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:8975": {
@@ -4600,8 +4600,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:8975": {
@@ -4645,8 +4645,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9816": {
@@ -4693,8 +4693,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9816": {
@@ -4738,8 +4738,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9820": {
@@ -4783,8 +4783,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9820": {
@@ -4828,8 +4828,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9948": {
@@ -4873,8 +4873,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:9948": {
@@ -4918,8 +4918,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:21876": {
@@ -4963,8 +4963,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:21876": {
@@ -5008,8 +5008,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:23845": {
@@ -5053,8 +5053,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:23845": {
@@ -5098,8 +5098,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:12829": {
@@ -5143,8 +5143,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:12829": {
@@ -5188,8 +5188,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "HGNC:11389": {
@@ -5233,8 +5233,8 @@
     "label": "Catecholaminergic Polymorphic Ventricular Tachycardia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:10484": {
@@ -5323,8 +5323,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:11944": {
@@ -5368,8 +5368,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:11610": {
@@ -5413,8 +5413,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:12665": {
@@ -5458,8 +5458,8 @@
     "label": "Hypertrophic cardiomyopathy (recessive)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:17574": {
@@ -5503,8 +5503,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:29557": {
@@ -5548,8 +5548,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:11943": {
@@ -5593,8 +5593,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:143": {
@@ -5638,8 +5638,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:7583": {
@@ -5683,8 +5683,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:11947": {
@@ -5728,8 +5728,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:11949": {
@@ -5773,8 +5773,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:12010": {
@@ -5818,8 +5818,8 @@
     "label": "Intrinsic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:9080": {
@@ -5863,8 +5863,8 @@
     "label": "X-linked Adrenoleukodystrophy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "61": {
@@ -5908,8 +5908,8 @@
     "label": "X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "3571": {
@@ -5953,8 +5953,8 @@
     "label": "Non-Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "3776": {
@@ -5998,8 +5998,8 @@
     "label": "X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "560": {
@@ -6043,8 +6043,8 @@
     "label": "Menkes Disease",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "869": {
@@ -6088,8 +6088,8 @@
     "label": "ATRX-Related Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "886": {
@@ -6133,8 +6133,8 @@
     "label": "X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "2022": {
@@ -6178,8 +6178,8 @@
     "label": "Aarskog-Scott Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "3663": {
@@ -6223,8 +6223,8 @@
     "label": "Non-Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "13254": {
@@ -6268,8 +6268,8 @@
     "label": "Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "30892": {
@@ -6313,8 +6313,8 @@
     "label": "Non-Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "5996": {
@@ -6358,8 +6358,8 @@
     "label": "Nance-Horan Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "7820": {
@@ -6403,8 +6403,8 @@
     "label": "Non-Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "11506": {
@@ -6448,8 +6448,8 @@
     "label": "Non-Syndromic X-Linked Intellectual Disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "11854": {
@@ -6538,8 +6538,8 @@
     "label": "nonsyndromic sensorineural deafness",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "HGNC:17009": {
@@ -6583,8 +6583,8 @@
     "label": "nonsyndromic sensorineural deafness",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "HGNC:13517": {
@@ -6628,8 +6628,8 @@
     "label": "nonsyndromic sensorineural deafness",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "HGNC:26991": {
@@ -6673,8 +6673,8 @@
     "label": "Mucopolysaccharidosis Type II",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "5389": {
@@ -6718,8 +6718,8 @@
     "label": "Rubinstein-Taybi Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "2348": {
@@ -6763,8 +6763,8 @@
     "label": "Borjeson-Forssman-Lehmann syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "18145": {
@@ -6808,7 +6808,7 @@
     "label": "Ellis-van Creveld syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40019",
+      "id": "10019",
       "name": "Harvard/Geisinger Biocuration Core"
     },
     "genes": {
@@ -6853,7 +6853,7 @@
     "label": "Ellis-van Creveld syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40019",
+      "id": "10019",
       "name": "Harvard/Geisinger Biocuration Core"
     },
     "genes": {
@@ -6898,8 +6898,8 @@
     "label": "nonsyndromic sensorineural deafness",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "6944": {
@@ -6943,8 +6943,8 @@
     "label": "nonsyndromic sensorineural hearing loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40007",
-      "name": "Hearing Loss GCEP"
+      "id": "10007",
+      "name": "Hearing Loss"
     },
     "genes": {
       "HGNC:2418": {
@@ -6988,8 +6988,8 @@
     "label": "X-Linked Intellectual Disability, Cabezas Type",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "2555": {
@@ -7033,8 +7033,8 @@
     "label": "Lesch-Nyhan syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "5157": {
@@ -7078,8 +7078,8 @@
     "label": "Pelizaeus-Merzbacher disease",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "9086": {
@@ -7123,8 +7123,8 @@
     "label": "Norrie Disease",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "7678": {
@@ -7168,8 +7168,8 @@
     "label": "X-linked Opitz G/BB syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40006",
-      "name": "Autism and Intellectual Disability GCEP"
+      "id": "10006",
+      "name": "Autism and Intellectual Disability"
     },
     "genes": {
       "7095": {
@@ -7258,8 +7258,8 @@
     "label": "Autosomal dominant polycystic kidney disease",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "9008": {
@@ -7303,8 +7303,8 @@
     "label": "Stickler syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection GCEP"
+      "id": "10044",
+      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
     },
     "genes": {
       "2217": {
@@ -7348,8 +7348,8 @@
     "label": "Lynch Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7127": {
@@ -7393,8 +7393,8 @@
     "label": "Lynch Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7325": {
@@ -7438,8 +7438,8 @@
     "label": "Lynch Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7329": {
@@ -7483,8 +7483,8 @@
     "label": "Lynch Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "9122": {
@@ -7522,8 +7522,8 @@
     "label": "Lynch Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "11529": {
@@ -7567,8 +7567,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "9121": {
@@ -7612,8 +7612,8 @@
     "label": "Familial Adenomatous Polyposis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "583": {
@@ -7657,8 +7657,8 @@
     "label": "MUTYH associated Polyposis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7527": {
@@ -7702,8 +7702,8 @@
     "label": "Juvenile Polyposis Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "6770": {
@@ -7747,8 +7747,8 @@
     "label": "Sessile Serrated Polyposis Cancer Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "18505": {
@@ -7792,8 +7792,8 @@
     "label": "Colorectal cancer/Polyposis Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "3349": {
@@ -7837,8 +7837,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7128": {
@@ -7882,8 +7882,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "795": {
@@ -7927,8 +7927,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "16627": {
@@ -7972,8 +7972,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "29170": {
@@ -8017,8 +8017,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "10729": {
@@ -8062,8 +8062,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "12831": {
@@ -8107,8 +8107,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "11100": {
@@ -8152,8 +8152,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "29805": {
@@ -8197,8 +8197,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "2509": {
@@ -8242,8 +8242,8 @@
     "label": "Polyposis susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7326": {
@@ -8287,8 +8287,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7326": {
@@ -8332,8 +8332,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7230": {
@@ -8377,8 +8377,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7230": {
@@ -8422,8 +8422,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7527": {
@@ -8467,8 +8467,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7527": {
@@ -8512,8 +8512,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7527": {
@@ -8557,8 +8557,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7527": {
@@ -8602,8 +8602,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7652": {
@@ -8647,8 +8647,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "795": {
@@ -8692,8 +8692,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "952": {
@@ -8737,8 +8737,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "20473": {
@@ -8782,8 +8782,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "20473": {
@@ -8827,8 +8827,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "26144": {
@@ -8872,8 +8872,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "9823": {
@@ -8917,8 +8917,8 @@
     "label": "Familial breast-ovarian cancer susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "1100": {
@@ -8962,8 +8962,8 @@
     "label": "PTEN Hamartoma Tumor Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40012",
-      "name": "PTEN GCEP"
+      "id": "10012",
+      "name": "PTEN"
     },
     "genes": {
       "9588": {
@@ -9007,8 +9007,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "11998": {
@@ -9052,8 +9052,8 @@
     "label": "Peutz-Jeghers syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "11389": {
@@ -9142,8 +9142,8 @@
     "label": "Juvenile Polyposis Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "1076": {
@@ -9187,8 +9187,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:15819": {
@@ -9232,8 +9232,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:1402": {
@@ -9277,8 +9277,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:129": {
@@ -9322,8 +9322,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:23246": {
@@ -9367,8 +9367,8 @@
     "label": "Infantile Epilepsy Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40005",
-      "name": "Epilepsy GCEP"
+      "id": "10005",
+      "name": "Epilepsy"
     },
     "genes": {
       "6220": {
@@ -9457,8 +9457,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:9386": {
@@ -9502,8 +9502,8 @@
     "label": "Childhood-Onset Epilepsy Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40005",
-      "name": "Epilepsy GCEP"
+      "id": "10005",
+      "name": "Epilepsy"
     },
     "genes": {
       "18865": {
@@ -9547,8 +9547,8 @@
     "label": "Myofibrillar myopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:3756": {
@@ -9592,8 +9592,8 @@
     "label": "Friedreich ataxia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:3951": {
@@ -9637,8 +9637,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:6294": {
@@ -9682,8 +9682,8 @@
     "label": "Danon disease",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:6501": {
@@ -9727,8 +9727,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:7551": {
@@ -9772,8 +9772,8 @@
     "label": "Mitochondrial syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:10990": {
@@ -9817,8 +9817,8 @@
     "label": "Hereditary ATTR amyloidosis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:12405": {
@@ -9862,8 +9862,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:1513": {
@@ -9907,8 +9907,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:3052": {
@@ -9952,8 +9952,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:2472": {
@@ -9997,8 +9997,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "7527": {
@@ -10042,8 +10042,8 @@
     "label": "Colorectal cancer Susceptibility",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "26144": {
@@ -10087,8 +10087,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:7576": {
@@ -10132,8 +10132,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:7577": {
@@ -10177,8 +10177,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:10484": {
@@ -10222,8 +10222,8 @@
     "label": "Hypertrophic cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40008",
-      "name": "Hypertrophic Cardiomyopathy GCEP"
+      "id": "10008",
+      "name": "Hypertrophic Cardiomyopathy"
     },
     "genes": {
       "HGNC:12403": {
@@ -10267,8 +10267,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "795": {
@@ -10312,8 +10312,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "952": {
@@ -10357,8 +10357,8 @@
     "label": "Familial ovarian cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7765": {
@@ -10402,8 +10402,8 @@
     "label": "Li-Fraumeni syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40043",
-      "name": "Colon Cancer GCEP"
+      "id": "10043",
+      "name": "Colon Cancer"
     },
     "genes": {
       "11998": {
@@ -10447,8 +10447,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "7325": {
@@ -10492,8 +10492,8 @@
     "label": "Hereditary breast cancer",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40042",
-      "name": "Breast/Ovarian Cancer GCEP"
+      "id": "10042",
+      "name": "Breast/Ovarian Cancer"
     },
     "genes": {
       "9122": {
@@ -10537,8 +10537,8 @@
     "label": "Combined oxidative phosphorylation deficiency",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40018",
-      "name": "UNC Biocuration Core GCEP"
+      "id": "10018",
+      "name": "UNC Biocuration Core"
     },
     "genes": {
       "HGNC:14198": {
@@ -10582,8 +10582,8 @@
     "label": "Epidermolysis bullosa simplex, generalized, with scarring and hair loss",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40018",
-      "name": "UNC Biocuration Core GCEP"
+      "id": "10018",
+      "name": "UNC Biocuration Core"
     },
     "genes": {
       "HGNC:25947": {
@@ -10627,8 +10627,8 @@
     "label": "Myopia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40018",
-      "name": "UNC Biocuration Core GCEP"
+      "id": "10018",
+      "name": "UNC Biocuration Core"
     },
     "genes": {
       "HGNC:6701": {
@@ -10717,8 +10717,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:493": {
@@ -10762,8 +10762,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:1390": {
@@ -10807,8 +10807,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:1399": {
@@ -10852,8 +10852,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:1402": {
@@ -10897,8 +10897,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:28956": {
@@ -10942,8 +10942,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:16882": {
@@ -10987,8 +10987,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:6239": {
@@ -11032,8 +11032,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:6243": {
@@ -11077,8 +11077,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:6241": {
@@ -11122,8 +11122,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:6251": {
@@ -11167,8 +11167,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:6269": {
@@ -11212,8 +11212,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:9024": {
@@ -11257,8 +11257,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:17679": {
@@ -11302,8 +11302,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:10586": {
@@ -11347,8 +11347,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:10589": {
@@ -11392,8 +11392,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:20665": {
@@ -11437,8 +11437,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:10582": {
@@ -11482,8 +11482,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:16643": {
@@ -11527,8 +11527,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:17993": {
@@ -11572,8 +11572,8 @@
     "label": "Brugada Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "40045",
-      "name": "Brugada Syndrome GCEP"
+      "id": "10045",
+      "name": "Brugada Syndrome"
     },
     "genes": {
       "HGNC:10593": {
