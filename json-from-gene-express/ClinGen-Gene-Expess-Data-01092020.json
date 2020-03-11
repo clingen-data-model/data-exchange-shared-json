@@ -4,8 +4,8 @@
     "label": "Dyskeratosis Congenita",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:14377": {
@@ -49,8 +49,8 @@
     "label": "Fanconi anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:9820": {
@@ -94,8 +94,8 @@
     "label": "Diamond-Blackfan anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:10383": {
@@ -139,8 +139,8 @@
     "label": "Diamond-Blackfan anemia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:10411": {
@@ -184,8 +184,8 @@
     "label": "Dyskeratosis Congenita",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:25522": {
@@ -274,8 +274,8 @@
     "label": "Long QT Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:10592": {
@@ -364,8 +364,8 @@
     "label": "Familial or idiopathic dilated cardiomyopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:11875": {
@@ -409,8 +409,8 @@
     "label": "Pleuropulmonary blastoma",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:17098": {
@@ -544,8 +544,8 @@
     "label": "Immunodeficiency due to an early component of complement deficiency",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:1242": {
@@ -589,8 +589,8 @@
     "label": "Severe combined immunodeficiency",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:1674": {
@@ -634,8 +634,8 @@
     "label": "X-linked non-syndromic intellectual disability",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:338": {
@@ -682,8 +682,8 @@
     "label": "Renal or urinary tract malformation (CAKUT)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:1916": {
@@ -727,8 +727,8 @@
     "label": "Achondroplasia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:3690": {
@@ -772,8 +772,8 @@
     "label": "Shprintzen-Goldberg syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:10896": {
@@ -817,8 +817,8 @@
     "label": "Achromatopsia",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:791": {
@@ -862,8 +862,8 @@
     "label": "Spondyloepiphyseal dysplasia (Stanescu type)",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:2200": {
@@ -907,8 +907,8 @@
     "label": "Antecubital pterygium syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:19093": {
@@ -952,8 +952,8 @@
     "label": "Au-Kline Syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "5044": {
@@ -1087,8 +1087,8 @@
     "label": "Arthrogryposis",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:29122": {
@@ -1177,8 +1177,8 @@
     "label": "Myofibrillar Myopathy",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:939": {
@@ -1222,8 +1222,8 @@
     "label": "Coffin-Siris syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:11097": {
@@ -1357,8 +1357,8 @@
     "label": "Alacrimia-choreoathetosis-liver dysfunction syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "17646": {
