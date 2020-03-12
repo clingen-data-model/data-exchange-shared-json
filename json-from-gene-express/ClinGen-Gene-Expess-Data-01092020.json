@@ -629,54 +629,6 @@
     "dateISO8601": "2017-01-09T00:00:00",
     "dateFormated": "Jan 09, 2017"
   },
-  "3218": {
-    "title": "AGTR2  X-linked non-syndromic intellectual disability",
-    "label": "X-linked non-syndromic intellectual disability",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10026",
-      "name": "General Gene Curation"
-    },
-    "genes": {
-      "HGNC:338": {
-        "ontology": "HGNC",
-        "curie": "HGNC:338",
-        "uri": "HGNC338"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019181"
-      },
-      "OMIM": {
-        "ontology": "OMIM",
-        "curie": "OMIM:",
-        "uri": "OMIM",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_"
-      },
-      "ORPHA777": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:777",
-        "uri": "ORPHA777",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-      }
-    },
-    "scores": {
-      "3980": {
-        "label": "Contradictory (disputed)"
-      },
-      "3973": {
-        "label": "Contradictory (refuted)"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"AGTR2\",\"Hgnc\":\"338\",\"OrphaNet\":\"777\",\"Disease\":\"X-linked Intellectual Disability\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Novel AGTR2 missense mutation in a Japanese boy with severe mental retardation, pervasive developmental disorder, and epilepsy.\",\"author\":\"Takeshita E\",\"pubdate\":\"2012 Oct\",\"source\":\"Brain Dev\",\"uid\":\"22269148\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"AGTR2 mutations in X-linked mental retardation.\",\"author\":\"Vervoort VS\",\"pubdate\":\"2002 Jun 28\",\"source\":\"Science\",\"uid\":\"12089445\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Candidate Agtr2 influenced genes and pathways identified by expression profiling in the developing brain of Agtr2(-/y) mice.\",\"author\":\"Pawlowski TL\",\"pubdate\":\"2009 Sep\",\"source\":\"Genomics\",\"uid\":\"19501643\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Impaired spatial memory and altered dendritic spine morphology in angiotensin II type 2 receptor-deficient mice.\",\"author\":\"Maul B\",\"pubdate\":\"2008 May\",\"source\":\"J Mol Med (Berl)\",\"uid\":\"18335189\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"CuratorModifyCalculation\":{\"YesNo\":\"YES\"},\"ValidContradictoryEvidence\":{\"YesNo\":\"YES\",\"pmid\":{\"publications\":{\"1484250177321\":{\"title\":\"XLID-causing mutations and associated genes challenged in light of data from large-scale human exome sequencing.\",\"author\":\"Piton A\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23871722\"}},\"notes\":{\"note\":\"Piton et al. refutes the original gene-disease assertion and ExAC data demonstrates that almost all of the variants identified are common in the general population.\"}}},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"0.5\",\"GeneticEvidencePointsTotal\":\"0.5\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"DISPUTED\",\"CuratorClassificationDate\":\"10/10/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11/16/16\",\"FinalClassificationNotes\":\"\\\"Disputed\\\" based on Pitton et al. 2013 and ExAC data.\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1479283200,
-    "dateISO8601": "2016-11-16T00:00:00",
-    "dateFormated": "Nov 16, 2016"
-  },
   "3220": {
     "title": "CHD1L  Renal or urinary tract malformation (CAKUT)",
     "label": "Renal or urinary tract malformation (CAKUT)",
