@@ -7205,51 +7205,7 @@
     "dateISO8601": "2018-03-05T00:00:00",
     "dateFormated": "Mar 05, 2018"
   },
-  "9617": {
-    "title": "PKD1: Autosomal dominant polycystic kidney disease",
-    "label": "Autosomal dominant polycystic kidney disease",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
-    },
-    "genes": {
-      "9008": {
-        "ontology": "HGNC",
-        "curie": "HGNC:9008",
-        "uri": "HGNC9008"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008263"
-      },
-      "OMIM173900": {
-        "ontology": "OMIM",
-        "curie": "OMIM:173900",
-        "uri": "OMIM173900",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_173900"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1522329084\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"PKD1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:9008\",\"uri\":\"HGNC9008\"},\"condition\":{\"name\":\"Autosomal dominant polycystic kidney disease\",\"MONDO\":{\"curie\":\"MONDO:0004691\",\"uri\":\"MONDO0004691\"},\"OMIM\":{\"curie\":\"OMIM:173900\",\"uri\":\"OMIM173900\"}},\"title\":\"PKD1 Autosomal dominant polycystic kidney disease\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"4.50\",\"Tally\":\"4.5\",\"evidence\":{\"publications\":{\"1522328680077\":{\"title\":\"Presence of de novo mutations in autosomal dominant polycystic kidney disease patients without family history.\",\"author\":\"Reed B\",\"pubdate\":\"2008 Dec\",\"source\":\"Am J Kidney Dis\",\"uid\":\"18640754\"},\"1522328800026\":{\"title\":\"Thirteen novel mutations of the replicated region of PKD1 in an Asian population.\",\"author\":\"Phakdeekitcharoen B\",\"pubdate\":\"2000 Oct\",\"source\":\"Kidney Int\",\"uid\":\"11012875\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"6.50\",\"Tally\":\"6.5\",\"evidence\":{\"publications\":{\"1522328236113\":{\"title\":\"The polycystic kidney disease 1 gene encodes a 14 kb transcript and lies within a duplicated region on chromosome 16. The European Polycystic Kidney Disease Consortium.\",\"author\":\"\",\"pubdate\":\"1994 Jun 17\",\"source\":\"Cell\",\"uid\":\"8004675\"},\"1522328578252\":{\"title\":\"Detection of a novel nonsense mutation and an intragenic polymorphism in the PKD1 gene of a Cypriot family with autosomal dominant polycystic kidney disease.\",\"author\":\"Neophytou P\",\"pubdate\":\"1996 Oct\",\"source\":\"Hum Genet\",\"uid\":\"8792818\"},\"1522328846728\":{\"title\":\"Autosomal dominant polycystic kidney disease: comprehensive mutation analysis of PKD1 and PKD2 in 700 unrelated patients.\",\"author\":\"Audr\\u00e9zet MP\",\"pubdate\":\"2012 Aug\",\"source\":\"Hum Mutat\",\"uid\":\"22508176\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1522328834656\":{\"title\":\"Autosomal dominant polycystic kidney disease: comprehensive mutation analysis of PKD1 and PKD2 in 700 unrelated patients.\",\"author\":\"Audr\\u00e9zet MP\",\"pubdate\":\"2012 Aug\",\"source\":\"Hum Mutat\",\"uid\":\"22508176\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"1\":{\"evidence\":{\"publications\":{\"1522328232687\":{\"title\":\"Detection of a novel nonsense mutation and an intragenic polymorphism in the PKD1 gene of a Cypriot family with autosomal dominant polycystic kidney disease.\",\"author\":\"Neophytou P\",\"pubdate\":\"1996 Oct\",\"source\":\"Hum Genet\",\"uid\":\"8792818\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1522328926258\":{\"title\":\"Lowering of Pkd1 expression is sufficient to cause polycystic kidney disease.\",\"author\":\"Lantinga-van Leeuwen IS\",\"pubdate\":\"2004 Dec 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"15496422\"},\"1522328971966\":{\"title\":\"Functional polycystin-1 dosage governs autosomal dominant polycystic kidney disease severity.\",\"author\":\"Hopp K\",\"pubdate\":\"2012 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"23064367\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"4\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"03/22/2018\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"03/24/2018\",\"FinalClassificationNotes\":\"The  <i>PKD1</i> gene has been associated with autosomal dominant polycystic kidney disease in over 12 probands in 5 curated publications. <i>PKD1</i> was first associated with this disease in humans in 1994 (The European Polycystic Kidney Disease Consortium). Variants in this gene segregate with disease and can occur <i>de novo</i>.  The mechanism for disease is known to be loss of function. 125 unique variants (missense, in-frame indel, nonsense, frameshift, large deletion and complex rearrangements) have been classified as Pathogenic in ClinVar, 86 of which are frameshift, nonsense or consensus splice changes. More evidence is available in the literature, but the maximum score for genetic evidence (12 pts.) has been reached. This gene-disease association is supported by animal models that recapitulate the human disease. In summary, <i>PKD1</i> is definitively associated with autosomal dominant polycystic kidney disease. This has been repeatedly demonstrated in both the research and clinical diagnostic settings, and has been upheld over time.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1521874800,
-    "dateISO8601": "2018-03-24T00:00:00",
-    "dateFormated": "Mar 24, 2018"
-  },
+
   "9807": {
     "title": "COL9A1 Stickler syndrome",
     "label": "Stickler syndrome",
