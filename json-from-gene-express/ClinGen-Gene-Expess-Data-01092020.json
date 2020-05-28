@@ -229,8 +229,8 @@
     "label": "Long QT syndrome",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "10025",
-      "name": "Long QT"
+      "id": "10026",
+      "name": "General Gene Curation"
     },
     "genes": {
       "HGNC:379": {
@@ -1888,51 +1888,6 @@
     "date": 1474959600,
     "dateISO8601": "2016-09-27T00:00:00",
     "dateFormated": "Sep 27, 2016"
-  },
-  "8250": {
-    "title": "COL3A1 : Familial thoracic aortic aneurysm and aortic dissection",
-    "label": "Familial thoracic aortic aneurysm and aortic dissection",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10044",
-      "name": "Familial Thoracic Aortic Aneurysm and Dissection"
-    },
-    "genes": {
-      "HGNC:2201": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2201",
-        "uri": "HGNC2201"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019625"
-      },
-      "OMIM120180": {
-        "ontology": "OMIM",
-        "curie": "OMIM:120180",
-        "uri": "OMIM120180",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_120180"
-      },
-      "ORPHA91387": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:91387",
-        "uri": "ORPHA91387",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_91387"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"COL3A1\",\"Hgnc\":\"2201\",\"OrphaNet\":\"91387\",\"Disease\":\"Familial thoracic aortic aneurysm and aortic dissection\",\"Omim\":\"120180\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Inheritance of an RNA splicing mutation (G+ 1 IVS20) in the type III procollagen gene (COL3A1) in a family having aortic aneurysms and easy bruisability: phenotypic overlap between familial arterial aneurysms and Ehlers-Danlos syndrome type IV.\",\"author\":\"Kontusaari S\",\"pubdate\":\"1990 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"2349939\"},{\"title\":\"A mutation in the gene for type III procollagen (COL3A1) in a family with aortic aneurysms.\",\"author\":\"Kontusaari S\",\"pubdate\":\"1990 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"2243125\"},{\"title\":\"Survival is affected by mutation type and molecular mechanism in vascular Ehlers-Danlos syndrome (EDS type IV).\",\"author\":\"Pepin MG\",\"pubdate\":\"2014 Dec\",\"source\":\"Genet Med\",\"uid\":\"24922459\"},{\"title\":\"Identical G+1 to A mutations in three different introns of the type III procollagen gene (COL3A1) produce different patterns of RNA splicing in three variants of Ehlers-Danlos syndrome. IV. An explanation for exon skipping some mutations and not others.\",\"author\":\"Kuivaniemi H\",\"pubdate\":\"1990 Jul 15\",\"source\":\"J Biol Chem\",\"uid\":\"2365710\"},{\"title\":\"Performant Mutation Identification Using Targeted Next-Generation Sequencing of 14 Thoracic Aortic Aneurysm Genes.\",\"author\":\"Proost D\",\"pubdate\":\"2015 Aug\",\"source\":\"Hum Mutat\",\"uid\":\"25907466\"},{\"title\":\"Single base mutation that substitutes glutamic acid for glycine 1021 in the COL3A1 gene and causes Ehlers-Danlos syndrome type IV.\",\"author\":\"Narcisi P\",\"pubdate\":\"1993 May 15\",\"source\":\"Am J Med Genet\",\"uid\":\"8098182\"},{\"title\":\"Successful endovascular repair of acute type B aortic dissection in undiagnosed Ehlers-Danlos syndrome type IV.\",\"author\":\"Khalique Z\",\"pubdate\":\"2009 Nov\",\"source\":\"Eur J Vasc Endovasc Surg\",\"uid\":\"19695909\"}],\"notes\":{\"note\":\"PMID 2349939: 1 proband (1 point)\\r\\nPMID 2243125: 1 proband  (1 point)\\r\\nPMID 24922459: 37/ 1231 probands with vEDS had ortic rupture / dissection in thoracic aorta (=3%). Note all syndromic as part of vascular EDS. (0.1 points each)\\r\\nPMID 2365710: 2/3 had thoracic aortic phenotypes; 1 only minimally syndromic (easy bruising). Points: 2 points\\r\\nPMID 25907466 : 1 proband non syndromic  by screening candidate genes. 0.1\\r\\nPMID 8098182 : syndromic. 24 yr old woman with acrogeria, dissecting aortic aneurysm. Gly1021Glu with functional abnormalities of COL3A1 demonstrated (fibroblasts). 1 points\\r\\nPMID 19695909: 61 year old. Acute type B dissection in non-syndromic man with COL3A1 mutation (& family history of arterial rupture). Splice acceptor mutation. 0.1 point\\r\\n \"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNon-LOFVariantsInTrans\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"0.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Inheritance of an RNA splicing mutation (G+ 1 IVS20) in the type III procollagen gene (COL3A1) in a family having aortic aneurysms and easy bruisability: phenotypic overlap between familial arterial aneurysms and Ehlers-Danlos syndrome type IV.\",\"author\":\"Kontusaari S\",\"pubdate\":\"1990 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"2349939\"},{\"title\":\"A mutation in the gene for type III procollagen (COL3A1) in a family with aortic aneurysms.\",\"author\":\"Kontusaari S\",\"pubdate\":\"1990 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"2243125\"}],\"notes\":{\"note\":\"PMIDs 2349939 and 2243125: combined segregations. points 2\"}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"},\"AggregateVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Linkage of a polymorphic marker for the type III collagen gene (COL3A1) to atypical autosomal dominant Ehlers-Danlos syndrome type IV in a large Belgian pedigree.\",\"author\":\"Nicholls AC\",\"pubdate\":\"1988 Mar\",\"source\":\"Hum Genet\",\"uid\":\"3162228\"},{\"title\":\"Successful endovascular repair of acute type B aortic dissection in undiagnosed Ehlers-Danlos syndrome type IV.\",\"author\":\"Khalique Z\",\"pubdate\":\"2009 Nov\",\"source\":\"Eur J Vasc Endovasc Surg\",\"uid\":\"19695909\"}],\"notes\":{\"note\":\"Expression: PMID 3162228,19695909: Reduced Col3A1 in subset of patients with haploinsufficiency. \\r\\nBiochemical function: Disrupted Col1 fibrils in knockout mice. Consistent with disease (weakness of aortic wall ( aortic aneurysm / dissection / rupture)\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in the gene for type III procollagen (COL3A1) in a family with aortic aneurysms.\",\"author\":\"Kontusaari S\",\"pubdate\":\"1990 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"2243125\"},{\"title\":\"Single base mutation that substitutes glutamic acid for glycine 1021 in the COL3A1 gene and causes Ehlers-Danlos syndrome type IV.\",\"author\":\"Narcisi P\",\"pubdate\":\"1993 May 15\",\"source\":\"Am J Med Genet\",\"uid\":\"8098182\"}],\"notes\":{\"note\":\"PMID 2243125: Abnormal migration and secretion of Col3A1 from patient cells (fibroblasts)\\r\\nPMID 8098182: Reduced thermal stability of Col3A1 from patient cells\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Type III collagen is crucial for collagen I fibrillogenesis and for normal cardiovascular development.\",\"author\":\"Liu X\",\"pubdate\":\"1997 Mar 4\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"9050868\"},{\"title\":\"Haploinsufficiency of the murine Col3a1 locus causes aortic dissection: a novel model of the vascular type of Ehlers-Danlos syndrome.\",\"author\":\"Smith LB\",\"pubdate\":\"2011 Apr 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"21071432\"}],\"notes\":{\"note\":\"PMID: 21071432 : Mouse with partial Col3A1 deletion. Propensity for aortic dissection without hypertension / dilatation - mimics human vEDS vascular phenotype. Penetrance about 28%.\\r\\nPMID:9050868 Col3a1 deletion. Homozygous - 90-95% perinatal lethality. Those surviving had reduced life expectancy due to rupture. Ultrastructural analysis shows collagen 1 fibrils in aortic adventitia.\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"9\",\"GeneticEvidencePointsTotal\":\"9\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"15\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"03/09/2016\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"03/09/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"03/14/2016\",\"FinalClassificationNotes\":\"Assertion made by the Aortopathy working group. \\r\\nThoracic aortic disease presentation in cases with vascular Ehlers-Danlos syndrome (vEDS) due to pathogenic variants in COL3A1 is rare but affected individuals can present with acute aortic dissections, leading to the classification of COL3A1 in this category.  In effect curation was done as a whole for vEDS with thoracic disease.\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1457938800,
-    "dateISO8601": "2016-03-14T00:00:00",
-    "dateFormated": "Mar 14, 2016"
   },
   "8251": {
     "title": "FBN1 : Familial thoracic aortic aneurysm and aortic dissection",
@@ -5180,51 +5135,6 @@
     "dateISO8601": "2017-03-08T00:00:00",
     "dateFormated": "Mar 08, 2017"
   },
-  "8753": {
-    "title": "PKP2: Arrhythmogenic Right Ventricular Cardiomyopathy",
-    "label": "Arrhythmogenic Right Ventricular Cardiomyopathy",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "00000",
-      "name": "Unknown"
-    },
-    "genes": {
-      "HGNC:9024": {
-        "ontology": "HGNC",
-        "curie": "HGNC:9024",
-        "uri": "HGNC9024"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012180"
-      },
-      "OMIM609040": {
-        "ontology": "OMIM",
-        "curie": "OMIM:609040",
-        "uri": "OMIM609040",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_609040"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"PKP2 \",\"Hgnc\":\"9024\",\"OrphaNet\":\"247\",\"Disease\":\"Arrhythmogenic Right Ventricular Cardiomyopathy\",\"Omim\":\"609040\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the desmosomal protein plakophilin-2 are common in arrhythmogenic right ventricular cardiomyopathy.\",\"author\":\"Gerull B\",\"pubdate\":\"2004 Nov\",\"source\":\"Nat Genet\",\"uid\":\"15489853\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"24.0\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the desmosomal protein plakophilin-2 are common in arrhythmogenic right ventricular cardiomyopathy.\",\"author\":\"Gerull B\",\"pubdate\":\"2004 Nov\",\"source\":\"Nat Genet\",\"uid\":\"15489853\"},{\"title\":\"Clinical expression of plakophilin-2 mutations in familial arrhythmogenic right ventricular cardiomyopathy.\",\"author\":\"Syrris P\",\"pubdate\":\"2006 Jan 24\",\"source\":\"Circulation\",\"uid\":\"16415378\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Clinical expression of plakophilin-2 mutations in familial arrhythmogenic right ventricular cardiomyopathy.\",\"author\":\"Syrris P\",\"pubdate\":\"2006 Jan 24\",\"source\":\"Circulation\",\"uid\":\"16415378\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Protein binding and functional characterization of plakophilin 2. Evidence for its diverse roles in desmosomes and beta -catenin signaling.\",\"author\":\"Chen X\",\"pubdate\":\"2002 Mar 22\",\"source\":\"J Biol Chem\",\"uid\":\"11790773\"},{\"title\":\"Plakophilins 2a and 2b: constitutive proteins of dual location in the karyoplasm and the desmosomal plaque.\",\"author\":\"Mertens C\",\"pubdate\":\"1996 Nov\",\"source\":\"J Cell Biol\",\"uid\":\"8922383\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Modeling of arrhythmogenic right ventricular cardiomyopathy with human induced pluripotent stem cells.\",\"author\":\"Caspi O\",\"pubdate\":\"2013 Dec\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"24200905\"},{\"title\":\"Arrhythmogenic right ventricular cardiomyopathy plakophilin-2 mutations disrupt desmosome assembly and stability.\",\"author\":\"Hall C\",\"pubdate\":\"2009\",\"source\":\"Cell Commun Adhes\",\"uid\":\"19533476\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Exercise triggers ARVC phenotype in mice expressing a disease-causing mutated version of human plakophilin-2.\",\"author\":\"Cruz FM\",\"pubdate\":\"2015 Apr 14\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"25857910\"},{\"title\":\"Requirement of plakophilin 2 for heart morphogenesis and cardiac junction formation.\",\"author\":\"Grossmann KS\",\"pubdate\":\"2004 Oct 11\",\"source\":\"J Cell Biol\",\"uid\":\"15479741\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02/24/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"03/08/2017\",\"FinalClassificationNotes\":\"Approved by Jonathan S. Berg, M.D., Ph.D. \"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1488960000,
-    "dateISO8601": "2017-03-08T00:00:00",
-    "dateFormated": "Mar 08, 2017"
-  },
   "8760": {
     "title": "TNNC2: Hypertrophic cardiomyopathy",
     "label": "Hypertrophic cardiomyopathy",
@@ -5771,7 +5681,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "61": {
@@ -5816,7 +5726,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "3571": {
@@ -5861,7 +5771,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "3776": {
@@ -5906,7 +5816,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "560": {
@@ -5951,7 +5861,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "869": {
@@ -5996,7 +5906,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "886": {
@@ -6041,7 +5951,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "2022": {
@@ -6086,7 +5996,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "3663": {
@@ -6131,7 +6041,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "13254": {
@@ -6176,7 +6086,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "30892": {
@@ -6221,7 +6131,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "5996": {
@@ -6266,7 +6176,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "7820": {
@@ -6311,7 +6221,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "11506": {
@@ -6356,7 +6266,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "11854": {
@@ -6400,8 +6310,8 @@
     "label": "Leber Congenital Amaurosis/Retinitis Pigmentosa",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "00000",
-      "name": "Unknown"
+      "id": "10019",
+      "name": "Harvard/Geisinger Biocuration Core"
     },
     "genes": {
       "10294": {
@@ -6581,7 +6491,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "5389": {
@@ -6626,7 +6536,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "2348": {
@@ -6671,7 +6581,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "18145": {
@@ -6709,96 +6619,6 @@
     "date": 1519200000,
     "dateISO8601": "2018-02-21T00:00:00",
     "dateFormated": "Feb 21, 2018"
-  },
-  "9591": {
-    "title": "EVC:Ellis-van Creveld syndrome",
-    "label": "Ellis-van Creveld syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10019",
-      "name": "Harvard/Geisinger Biocuration Core"
-    },
-    "genes": {
-      "HGNC:3497": {
-        "ontology": "HGNC",
-        "curie": "HGNC:3497",
-        "uri": "HGNC3497"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0009162"
-      },
-      "OMIM225500": {
-        "ontology": "OMIM",
-        "curie": "OMIM:225500",
-        "uri": "OMIM225500",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_225500"
-      },
-      "ORPHA289": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:289",
-        "uri": "ORPHA289",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_289"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520008778\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"EVC\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:3497\",\"uri\":\"HGNC3497\"},\"condition\":{\"name\":\"Ellis-van Creveld syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:289\",\"uri\":\"ORPHA289\"},\"MONDO\":{\"curie\":\"MONDO:0009162\",\"uri\":\"MONDO0009162\"},\"OMIM\":{\"curie\":\"OMIM:225500\",\"uri\":\"OMIM225500\"}},\"title\":\"EVC Ellis-van Creveld syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"10.00\",\"evidence\":{\"publications\":{\"1520008205465\":{\"title\":\"Mutations in a new gene in Ellis-van Creveld syndrome and Weyers acrodental dysostosis.\",\"author\":\"Ruiz-Perez VL\",\"pubdate\":\"2000 Mar\",\"source\":\"Nat Genet\",\"uid\":\"10700184\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"10\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"0\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"10\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1520009317187\":{\"title\":\"Analysis of Ellis van Creveld syndrome gene products: implications for cardiovascular development and disease.\",\"author\":\"Sund KL\",\"pubdate\":\"2009 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"19251731\"},\"1520009332314\":{\"title\":\"Evc is a positive mediator of Ihh-regulated bone growth that localises at the base of chondrocyte cilia.\",\"author\":\"Ruiz-Perez VL\",\"pubdate\":\"2007 Aug\",\"source\":\"Development\",\"uid\":\"17660199\"}}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520009355980\":{\"title\":\"Analysis of Ellis van Creveld syndrome gene products: implications for cardiovascular development and disease.\",\"author\":\"Sund KL\",\"pubdate\":\"2009 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"19251731\"}}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1520009382823\":{\"title\":\"The ciliary Evc/Evc2 complex interacts with Smo and controls Hedgehog pathway activity in chondrocytes by regulating Sufu/Gli3 dissociation and Gli3 trafficking in primary cilia.\",\"author\":\"Caparr\\u00f3s-Mart\\u00edn JA\",\"pubdate\":\"2013 Jan 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"23026747\"},\"1520009398519\":{\"title\":\"Evc is a positive mediator of Ihh-regulated bone growth that localises at the base of chondrocyte cilia.\",\"author\":\"Ruiz-Perez VL\",\"pubdate\":\"2007 Aug\",\"source\":\"Development\",\"uid\":\"17660199\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"5.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"10\",\"ExperimentalEvidenceTotal\":\"5.5\",\"EvidencePointsTotal\":\"15.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"12/07/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/06/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1517932800,
-    "dateISO8601": "2018-02-06T08:00:00",
-    "dateFormated": "Feb 06, 2018"
-  },
-  "9592": {
-    "title": "EVC2: Ellis-van Creveld syndrome",
-    "label": "Ellis-van Creveld syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10019",
-      "name": "Harvard/Geisinger Biocuration Core"
-    },
-    "genes": {
-      "HGNC:19747": {
-        "ontology": "HGNC",
-        "curie": "HGNC:19747",
-        "uri": "HGNC19747"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0009162"
-      },
-      "OMIM225500": {
-        "ontology": "OMIM",
-        "curie": "OMIM:225500",
-        "uri": "OMIM225500",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_225500"
-      },
-      "ORPHA289": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:289",
-        "uri": "ORPHA289",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_289"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520010491\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"EVC2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:19747\",\"uri\":\"HGNC19747\"},\"condition\":{\"name\":\"Ellis-van Creveld syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:289\",\"uri\":\"ORPHA289\"},\"MONDO\":{\"curie\":\"MONDO:0009162\",\"uri\":\"MONDO0009162\"},\"OMIM\":{\"curie\":\"OMIM:225500\",\"uri\":\"OMIM225500\"}},\"title\":\"EVC2 Ellis-van Creveld syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"12.00\",\"evidence\":{\"publications\":{\"1520010724012\":{\"title\":\"Novel and recurrent EVC and EVC2 mutations in Ellis-van Creveld syndrome and Weyers acrofacial dyostosis.\",\"author\":\"D\",\"pubdate\":\"2013 Feb\",\"source\":\"Eur J Med Genet\",\"uid\":\"23220543\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"12\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520010749496\":{\"title\":\"Generation of Evc2/Limbin global and conditional KO mice and its roles during mineralized tissue formation.\",\"author\":\"Zhang H\",\"pubdate\":\"2015 Jul 28\",\"source\":\"Genesis\",\"uid\":\"26219237\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1.5\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1520010766772\":{\"title\":\"Analysis of Ellis van Creveld syndrome gene products: implications for cardiovascular development and disease.\",\"author\":\"Sund KL\",\"pubdate\":\"2009 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"19251731\"},\"1520010776502\":{\"title\":\"Generation of Evc2/Limbin global and conditional KO mice and its roles during mineralized tissue formation.\",\"author\":\"Zhang H\",\"pubdate\":\"2015 Jul 28\",\"source\":\"Genesis\",\"uid\":\"26219237\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520010797638\":{\"title\":\"Analysis of Ellis van Creveld syndrome gene products: implications for cardiovascular development and disease.\",\"author\":\"Sund KL\",\"pubdate\":\"2009 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"19251731\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1520010818456\":{\"title\":\"Generation of Evc2/Limbin global and conditional KO mice and its roles during mineralized tissue formation.\",\"author\":\"Zhang H\",\"pubdate\":\"2015 Jul 28\",\"source\":\"Genesis\",\"uid\":\"26219237\"},\"1520010829142\":{\"title\":\"Loss of Function of Evc2 in Dental Mesenchyme Leads to Hypomorphic Enamel.\",\"author\":\"Zhang H\",\"pubdate\":\"2017 Apr\",\"source\":\"J Dent Res\",\"uid\":\"28081373\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"12/07/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/06/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1517932800,
-    "dateISO8601": "2018-02-06T08:00:00",
-    "dateFormated": "Feb 06, 2018"
   },
   "9593": {
     "title": "MCM2: nonsyndromic sensorineural deafness",
@@ -6896,7 +6716,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "2555": {
@@ -6941,7 +6761,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "5157": {
@@ -6986,7 +6806,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "9086": {
@@ -7031,7 +6851,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "7678": {
@@ -7076,7 +6896,7 @@
     "type": "clinicalValidity",
     "affiliation": {
       "id": "10006",
-      "name": "Autism and Intellectual Disability"
+      "name": "Intellectual Disability and Autism"
     },
     "genes": {
       "7095": {
@@ -7120,8 +6940,8 @@
     "label": "Retinitis Pigmentosa",
     "type": "clinicalValidity",
     "affiliation": {
-      "id": "00000",
-      "name": "Unknown"
+      "id": "10019",
+      "name": "Harvard/Geisinger Biocuration Core"
     },
     "genes": {
       "HGNC:10294": {
@@ -8955,51 +8775,6 @@
     "dateISO8601": "2017-02-22T00:00:00",
     "dateFormated": "Feb 22, 2017"
   },
-  "10028": {
-    "title": "ABCC9: Cantu syndrome",
-    "label": "Cantu syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "00000",
-      "name": "Unknown"
-    },
-    "genes": {
-      "HGNC:60": {
-        "ontology": "HGNC",
-        "curie": "HGNC:60",
-        "uri": "HGNC60"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0009406"
-      },
-      "OMIM239850": {
-        "ontology": "OMIM",
-        "curie": "OMIM:239850",
-        "uri": "OMIM239850",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_239850"
-      },
-      "ORPHA1517": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:1517",
-        "uri": "ORPHA1517",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_1517"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1527867483\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"ABCC9\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:60\",\"uri\":\"HGNC60\"},\"condition\":{\"name\":\"Cantu syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:1517\",\"uri\":\"ORPHA1517\"},\"MONDO\":{\"curie\":\"MONDO:0009406\",\"uri\":\"MONDO0009406\"},\"OMIM\":{\"curie\":\"OMIM:239850\",\"uri\":\"OMIM239850\"}},\"title\":\"ABCC9 Cantu syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"20.50\",\"Tally\":\"12\",\"evidence\":{\"publications\":{\"1527867601012\":{\"title\":\"Cant\\u00fa syndrome is caused by mutations in ABCC9.\",\"author\":\"van Bon BW\",\"pubdate\":\"2012 Jun 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"22608503\"},\"1527867658261\":{\"title\":\"Dominant missense mutations in ABCC9 cause Cant\\u00fa syndrome.\",\"author\":\"Harakalova M\",\"pubdate\":\"2012 May 18\",\"source\":\"Nat Genet\",\"uid\":\"22610116\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.00\",\"Tally\":\"2\",\"evidence\":{\"publications\":{\"1527867604002\":{\"title\":\"Cant\\u00fa syndrome is caused by mutations in ABCC9.\",\"author\":\"van Bon BW\",\"pubdate\":\"2012 Jun 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"22608503\"},\"1527867644126\":{\"title\":\"Dominant missense mutations in ABCC9 cause Cant\\u00fa syndrome.\",\"author\":\"Harakalova M\",\"pubdate\":\"2012 May 18\",\"source\":\"Nat Genet\",\"uid\":\"22610116\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527867690707\":{\"title\":\"A family of sulfonylurea receptors determines the pharmacological properties of ATP-sensitive K+ channels.\",\"author\":\"Inagaki N\",\"pubdate\":\"1996 May\",\"source\":\"Neuron\",\"uid\":\"8630239\"},\"1527867703871\":{\"title\":\"Cloning, tissue expression, and chromosomal localization of SUR2, the putative drug-binding subunit of cardiac, skeletal muscle, and vascular KATP channels.\",\"author\":\"Chutkow WA\",\"pubdate\":\"1996 Oct\",\"source\":\"Diabetes\",\"uid\":\"8826984\"},\"1527867730205\":{\"title\":\"Unique properties of the ATP-sensitive K\\u207a channel in the mouse ventricular cardiac conduction system.\",\"author\":\"Bao L\",\"pubdate\":\"2011 Dec\",\"source\":\"Circ Arrhythm Electrophysiol\",\"uid\":\"21984445\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527867759726\":{\"title\":\"Differential mechanisms of Cant\\u00fa syndrome-associated gain of function mutations in the ABCC9 (SUR2) subunit of the KATP channel.\",\"author\":\"Cooper PE\",\"pubdate\":\"2015 Dec\",\"source\":\"J Gen Physiol\",\"uid\":\"26621776\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"1\",\"EvidencePointsTotal\":\"13\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"09/27/2017\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09/29/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1506495600,
-    "dateISO8601": "2017-09-27T00:00:00",
-    "dateFormated": "Sep 27, 2017"
-  },
   "10029": {
     "title": "BMPR1A: Juvenile Polyposis Syndrome",
     "label": "Juvenile Polyposis Syndrome",
@@ -9269,51 +9044,6 @@
     "date": 1508482800,
     "dateISO8601": "2017-10-20T00:00:00",
     "dateFormated": "Oct 20, 2017"
-  },
-  "10050": {
-    "title": "DES: Myofibrillar myopathy",
-    "label": "Myofibrillar myopathy",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "00000",
-      "name": "Uknown"
-    },
-    "genes": {
-      "HGNC:2770": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2770",
-        "uri": "HGNC2770"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011076"
-      },
-      "OMIM601419": {
-        "ontology": "OMIM",
-        "curie": "OMIM:601419",
-        "uri": "OMIM601419",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_601419"
-      },
-      "ORPHA98909": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:98909",
-        "uri": "ORPHA98909",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_98909"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1527793955\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"DES\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:2770\",\"uri\":\"HGNC2770\"},\"condition\":{\"name\":\"Myofibrillar myopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:98909\",\"uri\":\"ORPHA98909\"},\"MONDO\":{\"curie\":\"MONDO:0011076\",\"uri\":\"MONDO0011076\"},\"OMIM\":{\"curie\":\"OMIM:601419\",\"uri\":\"OMIM601419\"}},\"title\":\"DES Myofibrillar myopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"5.00\",\"Tally\":\"5\",\"evidence\":{\"publications\":{\"1527794179340\":{\"title\":\"A novel de novo mutation in the desmin gene causes desmin myopathy with toxic aggregates.\",\"author\":\"Sugawara M\",\"pubdate\":\"2000 Oct 10\",\"source\":\"Neurology\",\"uid\":\"11061256\"},\"1527794200420\":{\"title\":\"Desmin myopathy, a skeletal myopathy with cardiomyopathy caused by mutations in the desmin gene.\",\"author\":\"Dalakas MC\",\"pubdate\":\"2000 Mar 16\",\"source\":\"N Engl J Med\",\"uid\":\"10717012\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"5.50\",\"Tally\":\"5.5\",\"evidence\":{\"publications\":{\"1527794064523\":{\"title\":\"Missense mutations in desmin associated with familial cardiac and skeletal myopathy.\",\"author\":\"Goldfarb LG\",\"pubdate\":\"1998 Aug\",\"source\":\"Nat Genet\",\"uid\":\"9697706\"},\"1527794079191\":{\"title\":\"A missense mutation in the desmin rod domain is associated with autosomal dominant distal myopathy, and exerts a dominant negative effect on filament formation.\",\"author\":\"Sj\\u00f6berg G\",\"pubdate\":\"1999 Nov\",\"source\":\"Hum Mol Genet\",\"uid\":\"10545598\"},\"1527794091413\":{\"title\":\"A novel de novo mutation in the desmin gene causes desmin myopathy with toxic aggregates.\",\"author\":\"Sugawara M\",\"pubdate\":\"2000 Oct 10\",\"source\":\"Neurology\",\"uid\":\"11061256\"},\"1527794118036\":{\"title\":\"How much mutant protein is needed to cause a protein aggregate myopathy in vivo? Lessons from an exceptional desminopathy.\",\"author\":\"Clemen CS\",\"pubdate\":\"2009 Mar\",\"source\":\"Hum Mutat\",\"uid\":\"19105189\"},\"1527794131009\":{\"title\":\"Desmin myopathy, a skeletal myopathy with cardiomyopathy caused by mutations in the desmin gene.\",\"author\":\"Dalakas MC\",\"pubdate\":\"2000 Mar 16\",\"source\":\"N Engl J Med\",\"uid\":\"10717012\"},\"1527794151516\":{\"title\":\"Conspicuous involvement of desmin tail mutations in diverse cardiac and skeletal myopathies.\",\"author\":\"B\\u00e4r H\",\"pubdate\":\"2007 Apr\",\"source\":\"Hum Mutat\",\"uid\":\"17221859\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.50\",\"Tally\":\"1.5\",\"3\":{\"evidence\":{\"publications\":{\"1527794264197\":{\"title\":\"A missense mutation in the desmin rod domain is associated with autosomal dominant distal myopathy, and exerts a dominant negative effect on filament formation.\",\"author\":\"Sj\\u00f6berg G\",\"pubdate\":\"1999 Nov\",\"source\":\"Hum Mol Genet\",\"uid\":\"10545598\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527794301069\":{\"title\":\"Desmin at myotendinous junctions.\",\"author\":\"Tidball JG\",\"pubdate\":\"1992 Apr\",\"source\":\"Exp Cell Res\",\"uid\":\"1544366\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527794288245\":{\"title\":\"Human desmin-coding gene: complete nucleotide sequence, characterization and regulation of expression during myogenesis and development.\",\"author\":\"Li ZL\",\"pubdate\":\"1989 May 30\",\"source\":\"Gene\",\"uid\":\"2673923\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527794337738\":{\"title\":\"Severe muscle disease-causing desmin mutations interfere with in vitro filament assembly at distinct stages.\",\"author\":\"B\\u00e4r H\",\"pubdate\":\"2005 Oct 18\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"16217025\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1527794316225\":{\"title\":\"Desmin in muscle and associated diseases: beyond the structural function.\",\"author\":\"Hnia K\",\"pubdate\":\"2015 Jun\",\"source\":\"Cell Tissue Res\",\"uid\":\"25358400\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08/25/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09/25/2017\",\"FinalClassificationNotes\":\"Approved by Jonathan Berg, MD, PhD\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1503644400,
-    "dateISO8601": "2017-08-25T00:00:00",
-    "dateFormated": "Aug 25, 2017"
   },
   "10051": {
     "title": "PRKAG2: Hypertrophic cardiomyopathy",
@@ -10394,186 +10124,6 @@
     "date": 1510128000,
     "dateISO8601": "2017-11-08T00:00:00",
     "dateFormated": "Nov 08, 2017"
-  },
-  "10122": {
-    "title": "ELAC2: Combined oxidative phosphorylation deficiency",
-    "label": "Combined oxidative phosphorylation deficiency",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10018",
-      "name": "UNC Biocuration Core"
-    },
-    "genes": {
-      "HGNC:14198": {
-        "ontology": "HGNC",
-        "curie": "HGNC:14198",
-        "uri": "HGNC14198"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014190"
-      },
-      "OMIM615440": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615440",
-        "uri": "OMIM615440",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615440"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1530635069\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"ELAC2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:14198\",\"uri\":\"HGNC14198\"},\"condition\":{\"name\":\"Combined oxidative phosphorylation deficiency\",\"MONDO\":{\"curie\":\"MONDO:0014190\",\"uri\":\"MONDO0014190\"},\"OMIM\":{\"curie\":\"OMIM:615440\",\"uri\":\"OMIM615440\"}},\"title\":\"ELAC2 Combined oxidative phosphorylation deficiency\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1530635386159\":{\"title\":\"ELAC2 mutations cause a mitochondrial RNA processing defect associated with hypertrophic cardiomyopathy.\",\"author\":\"Haack TB\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23849775\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"5\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"3.00\",\"evidence\":{\"publications\":{\"1530635401766\":{\"title\":\"ELAC2 mutations cause a mitochondrial RNA processing defect associated with hypertrophic cardiomyopathy.\",\"author\":\"Haack TB\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23849775\"},\"1530635429406\":{\"title\":\"A homozygous splicing mutation in ELAC2 suggests phenotypic variability including intellectual disability with minimal cardiac involvement.\",\"author\":\"Akawi NA\",\"pubdate\":\"2016 Oct 21\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"27769300\"}},\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"1\":{\"evidence\":{\"publications\":{\"1530635449443\":{\"title\":\"A homozygous splicing mutation in ELAC2 suggests phenotypic variability including intellectual disability with minimal cardiac involvement.\",\"author\":\"Akawi NA\",\"pubdate\":\"2016 Oct 21\",\"source\":\"Orphanet J Rare Dis\",\"uid\":\"27769300\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530635516920\":{\"title\":\"Involvement of human ELAC2 gene product in 3\",\"author\":\"Brzezniak LK\",\"pubdate\":\"2011 Jul-Aug\",\"source\":\"RNA Biol\",\"uid\":\"21593607\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530635520997\":{\"title\":\"Involvement of human ELAC2 gene product in 3\",\"author\":\"Brzezniak LK\",\"pubdate\":\"2011 Jul-Aug\",\"source\":\"RNA Biol\",\"uid\":\"21593607\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530635538240\":{\"title\":\"ELAC2 mutations cause a mitochondrial RNA processing defect associated with hypertrophic cardiomyopathy.\",\"author\":\"Haack TB\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23849775\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530635542116\":{\"title\":\"ELAC2 mutations cause a mitochondrial RNA processing defect associated with hypertrophic cardiomyopathy.\",\"author\":\"Haack TB\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23849775\"}},\"notes\":{\"note\":\"\"}}}},\"ModelsRescue\":{\"Tally\":\"2\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530635553144\":{\"title\":\"ELAC2 mutations cause a mitochondrial RNA processing defect associated with hypertrophic cardiomyopathy.\",\"author\":\"Haack TB\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23849775\"}},\"notes\":{\"note\":\"\"}}},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"6\",\"ExperimentalEvidenceTotal\":\"4\",\"EvidencePointsTotal\":\"10\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"11/28/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"11/28/2017\",\"FinalClassificationNotes\":\"Approved by J. Berg.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1511827200,
-    "dateISO8601": "2017-11-28T00:00:00",
-    "dateFormated": "Nov 28, 2017"
-  },
-  "10140": {
-    "title": "KLHL24: Epidermolysis bullosa simplex, generalized, with scarring and hair loss",
-    "label": "Epidermolysis bullosa simplex, generalized, with scarring and hair loss",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10018",
-      "name": "UNC Biocuration Core"
-    },
-    "genes": {
-      "HGNC:25947": {
-        "ontology": "HGNC",
-        "curie": "HGNC:25947",
-        "uri": "HGNC25947"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015006"
-      },
-      "OMIM617294": {
-        "ontology": "OMIM",
-        "curie": "OMIM:617294",
-        "uri": "OMIM617294",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_617294"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3978": {
-        "label": "Strong"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1530643278\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"KLHL24\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:25947\",\"uri\":\"HGNC25947\"},\"condition\":{\"name\":\"Epidermolysis bullosa simplex, generalized, with scarring and hair loss\",\"MONDO\":{\"curie\":\"MONDO:0015006\",\"uri\":\"MONDO0015006\"},\"OMIM\":{\"curie\":\"OMIM:617294\",\"uri\":\"OMIM617294\"}},\"title\":\"KLHL24 Epidermolysis bullosa simplex, generalized, with scarring and hair loss\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"22.00\",\"Tally\":\"12\",\"evidence\":{\"publications\":{\"1530642671950\":{\"title\":\"Stabilizing mutations of KLHL24 ubiquitin ligase cause loss of keratin 14 and human skin fragility.\",\"author\":\"Lin Z\",\"pubdate\":\"2016 Dec\",\"source\":\"Nat Genet\",\"uid\":\"27798626\"},\"1530642704606\":{\"title\":\"Monoallelic Mutations in the Translation Initiation Codon of KLHL24 Cause Skin Fragility.\",\"author\":\"He Y\",\"pubdate\":\"2016 Dec 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"27889062\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"evidence\":{\"publications\":{\"1530642720213\":{\"title\":\"Monoallelic Mutations in the Translation Initiation Codon of KLHL24 Cause Skin Fragility.\",\"author\":\"He Y\",\"pubdate\":\"2016 Dec 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"27889062\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530642887175\":{\"title\":\"Monoallelic Mutations in the Translation Initiation Codon of KLHL24 Cause Skin Fragility.\",\"author\":\"He Y\",\"pubdate\":\"2016 Dec 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"27889062\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530642908270\":{\"title\":\"Stabilizing mutations of KLHL24 ubiquitin ligase cause loss of keratin 14 and human skin fragility.\",\"author\":\"Lin Z\",\"pubdate\":\"2016 Dec\",\"source\":\"Nat Genet\",\"uid\":\"27798626\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530642816561\":{\"title\":\"Monoallelic Mutations in the Translation Initiation Codon of KLHL24 Cause Skin Fragility.\",\"author\":\"He Y\",\"pubdate\":\"2016 Dec 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"27889062\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530642861091\":{\"title\":\"Monoallelic Mutations in the Translation Initiation Codon of KLHL24 Cause Skin Fragility.\",\"author\":\"He Y\",\"pubdate\":\"2016 Dec 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"27889062\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"1.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"1\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530642926046\":{\"title\":\"Stabilizing mutations of KLHL24 ubiquitin ligase cause loss of keratin 14 and human skin fragility.\",\"author\":\"Lin Z\",\"pubdate\":\"2016 Dec\",\"source\":\"Nat Genet\",\"uid\":\"27798626\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"4\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"STRONG\",\"CalculatedClassificationDate\":\"11/07/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"STRONG\",\"FinalClassificationDate\":\"11/08/2017\",\"FinalClassificationNotes\":\"Approved by J. Berg\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1510128000,
-    "dateISO8601": "2017-11-08T00:00:00",
-    "dateFormated": "Nov 08, 2017"
-  },
-  "10142": {
-    "title": "LRPAP1: Myopia",
-    "label": "Myopia",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10018",
-      "name": "UNC Biocuration Core"
-    },
-    "genes": {
-      "HGNC:6701": {
-        "ontology": "HGNC",
-        "curie": "HGNC:6701",
-        "uri": "HGNC6701"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014183"
-      },
-      "OMIM615431": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615431",
-        "uri": "OMIM615431",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615431"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1530644261\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"LRPAP1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:6701\",\"uri\":\"HGNC6701\"},\"condition\":{\"name\":\"Myopia\",\"MONDO\":{\"curie\":\"MONDO:0014183\",\"uri\":\"MONDO0014183\"},\"OMIM\":{\"curie\":\"OMIM:615431\",\"uri\":\"OMIM615431\"}},\"title\":\"LRPAP1 Myopia\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"8.50\",\"evidence\":{\"publications\":{\"1530644390793\":{\"title\":\"Mutations in LRPAP1 are associated with severe myopia in humans.\",\"author\":\"Aldahmesh MA\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23830514\"},\"1530644419328\":{\"title\":\"Detection of mutations in LRPAP1, CTSH, LEPREL1, ZNF644, SLC39A5, and SCO2 in 298 families with early-onset high myopia by exome sequencing.\",\"author\":\"Jiang D\",\"pubdate\":\"2014 Dec 18\",\"source\":\"Invest Ophthalmol Vis Sci\",\"uid\":\"25525168\"},\"1530644452024\":{\"title\":\"Clinical Characterization of LRPAP1-Related Pediatric High Myopia.\",\"author\":\"Khan AO\",\"pubdate\":\"2016 Feb\",\"source\":\"Ophthalmology\",\"uid\":\"26271838\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"8.5\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"1\":{\"evidence\":{\"publications\":{\"1530644402400\":{\"title\":\"Mutations in LRPAP1 are associated with severe myopia in humans.\",\"author\":\"Aldahmesh MA\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23830514\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"9.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530644495935\":{\"title\":\"The 39-kDa receptor-associated protein interacts with two members of the low density lipoprotein receptor family, alpha 2-macroglobulin receptor and glycoprotein 330.\",\"author\":\"Kounnas MZ\",\"pubdate\":\"1992 Oct 15\",\"source\":\"J Biol Chem\",\"uid\":\"1400426\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530644480047\":{\"title\":\"Mutations in LRPAP1 are associated with severe myopia in humans.\",\"author\":\"Aldahmesh MA\",\"pubdate\":\"2013 Aug 8\",\"source\":\"Am J Hum Genet\",\"uid\":\"23830514\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"9.5\",\"ExperimentalEvidenceTotal\":\"1.5\",\"EvidencePointsTotal\":\"11\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"10/10/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"10/11/2017\",\"FinalClassificationNotes\":\"Approved by J. Berg\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1507752000,
-    "dateISO8601": "2017-10-11T13:00:00",
-    "dateFormated": "Oct 11, 2017"
-  },
-  "10143": {
-    "title": "CTCF: Intellectual disability- feeding difficulties- developmental delay- microcephaly syndrome",
-    "label": "Intellectual disability- feeding difficulties- developmental delay- microcephaly syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "00000",
-      "name": "Unknown"
-    },
-    "genes": {
-      "13723": {
-        "ontology": "HGNC",
-        "curie": "HGNC:13723",
-        "uri": "HGNC13723"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014213"
-      },
-      "OMIM615502": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615502",
-        "uri": "OMIM615502",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615502"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1530645243\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CTCF\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:13723\",\"uri\":\"HGNC13723\"},\"condition\":{\"name\":\"Intellectual disability- feeding difficulties- developmental delay- microcephaly syndrome\",\"MONDO\":{\"curie\":\"MONDO:0014213\",\"uri\":\"MONDO0014213\"},\"OMIM\":{\"curie\":\"OMIM:615502\",\"uri\":\"OMIM615502\"}},\"title\":\"CTCF Intellectual disability- feeding difficulties- developmental delay- microcephaly syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"evidence\":{\"publications\":{\"1530644968106\":{\"title\":\"De novo mutations in the genome organizer CTCF cause intellectual disability.\",\"author\":\"Gregor A\",\"pubdate\":\"2013 Jul 11\",\"source\":\"Am J Hum Genet\",\"uid\":\"23746550\"},\"1530645180356\":{\"title\":\"<i>CTCF</i> deletion syndrome: clinical features and epigenetic delineation.\",\"author\":\"Hori I\",\"pubdate\":\"2017 Dec\",\"source\":\"J Med Genet\",\"uid\":\"28848059\"},\"1530645194388\":{\"title\":\"Identification of a novel CTCF mutation responsible for syndromic intellectual disability - a case report.\",\"author\":\"Bastaki F\",\"pubdate\":\"2017 Jun 15\",\"source\":\"BMC Med Genet\",\"uid\":\"28619046\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\",\"evidence\":{\"publications\":{\"1530644978849\":{\"title\":\"De novo mutations in the genome organizer CTCF cause intellectual disability.\",\"author\":\"Gregor A\",\"pubdate\":\"2013 Jul 11\",\"source\":\"Am J Hum Genet\",\"uid\":\"23746550\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.50\",\"Tally\":\"1.5\",\"evidence\":{\"publications\":{\"1530644994874\":{\"title\":\"De novo mutations in the genome organizer CTCF cause intellectual disability.\",\"author\":\"Gregor A\",\"pubdate\":\"2013 Jul 11\",\"source\":\"Am J Hum Genet\",\"uid\":\"23746550\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"4.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530645422097\":{\"title\":\"Neuronal CTCF Is Necessary for Basal and Experience-Dependent Gene Regulation, Memory Formation, and Genomic Structure of BDNF and Arc.\",\"author\":\"Sams DS\",\"pubdate\":\"2016 Nov 22\",\"source\":\"Cell Rep\",\"uid\":\"27880914\"}}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530645344533\":{\"title\":\"Role of CTCF protein in regulating FMR1 locus transcription.\",\"author\":\"Lanni S\",\"pubdate\":\"2013\",\"source\":\"PLoS Genet\",\"uid\":\"23874213\"},\"1530645385861\":{\"title\":\"Neuron-specific impairment of inter-chromosomal pairing and transcription in a novel model of human 15q-duplication syndrome.\",\"author\":\"Meguro-Horike M\",\"pubdate\":\"2011 Oct 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"21725066\"}}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.50\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530645235104\":{\"title\":\"CTCF is required for neural development and stochastic expression of clustered Pcdh genes in neurons.\",\"author\":\"Hirayama T\",\"pubdate\":\"2012 Aug 30\",\"source\":\"Cell Rep\",\"uid\":\"22854024\"},\"1530645405745\":{\"title\":\"Neuronal CTCF Is Necessary for Basal and Experience-Dependent Gene Regulation, Memory Formation, and Genomic Structure of BDNF and Arc.\",\"author\":\"Sams DS\",\"pubdate\":\"2016 Nov 22\",\"source\":\"Cell Rep\",\"uid\":\"27880914\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"4.5\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"10.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"10/11/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"11/14/2017\",\"FinalClassificationNotes\":\"Approved by C. Schaaf\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1510617600,
-    "dateISO8601": "2017-11-14T00:00:00",
-    "dateFormated": "Nov 14, 2017"
   },
   "10145": {
     "title": "ANK2: Brugada Syndrome",
