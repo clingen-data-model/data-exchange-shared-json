@@ -11167,43 +11167,6 @@
     "dateISO8601": "2017-02-22T00:00:00",
     "dateFormated": "Feb 22, 2017"
   },
-  "10083": {
-    "title": "TP53: Li-Fraumeni syndrome",
-    "label": "Li-Fraumeni syndrome",
-    "type": "clinicalValidity",
-    "genes": {
-      "11998": {
-        "ontology": "HGNC",
-        "curie": "HGNC:11998",
-        "uri": "HGNC11998"
-      }
-    },
-    "conditions": {
-      "OMIM151623": {
-        "ontology": "OMIM",
-        "curie": "OMIM:151623",
-        "uri": "OMIM151623",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_151623"
-      },
-      "ORPHA524": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:524",
-        "uri": "ORPHA524",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_524"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"TP53\",\"Hgnc\":\"11998\",\"OrphaNet\":\"524\",\"Disease\":\"Li-Fraumeni syndrome\",\"Omim\":\"151623\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"3.5\",\"tally\":\"3.5\",\"pmid\":{\"publications\":[{\"title\":\"Targeted massively parallel sequencing of a panel of putative breast cancer susceptibility genes in a large cohort of multiple-case breast and ovarian cancer families.\",\"author\":\"Li J\",\"pubdate\":\"2016 Jan\",\"source\":\"J Med Genet\",\"uid\":\"26534844\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"9.0\",\"tally\":\"9\",\"pmid\":{\"publications\":[{\"title\":\"Associations Between Cancer Predisposition Testing Panel Genes and Breast Cancer.\",\"author\":\"Couch FJ\",\"pubdate\":\"2017 Sep 1\",\"source\":\"JAMA Oncol\",\"uid\":\"28418444\"},{\"title\":\"The contribution of pathogenic variants in breast cancer susceptibility genes to familial breast cancer risk.\",\"author\":\"Slavin TP\",\"pubdate\":\"2017\",\"source\":\"NPJ Breast Cancer\",\"uid\":\"28649662\"},{\"title\":\"Panel Testing for Familial Breast Cancer: Calibrating the Tension Between Research and Clinical Care.\",\"author\":\"Thompson ER\",\"pubdate\":\"2016 May 1\",\"source\":\"J Clin Oncol\",\"uid\":\"26786923\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.5\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the p53 Tumor Suppressor Gene: Important Milestones at the Various Steps of Tumorigenesis.\",\"author\":\"Rivlin N\",\"pubdate\":\"2011 Apr\",\"source\":\"Genes Cancer\",\"uid\":\"21779514\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Dominant-negative features of mutant TP53 in germline carriers have limited impact on cancer outcomes.\",\"author\":\"Monti P\",\"pubdate\":\"2011 Mar\",\"source\":\"Mol Cancer Res\",\"uid\":\"21343334\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Mouse models of p53 functions.\",\"author\":\"Lozano G\",\"pubdate\":\"2010 Apr\",\"source\":\"Cold Spring Harb Perspect Biol\",\"uid\":\"20452944\"},{\"title\":\"Mice expressing a mammary gland-specific R270H mutation in the p53 tumor suppressor gene mimic human breast cancer development.\",\"author\":\"Wijnhoven SW\",\"pubdate\":\"2005 Sep 15\",\"source\":\"Cancer Res\",\"uid\":\"16166291\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"01/10/2018\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01/10/2018\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1515571200,
-    "dateISO8601": "2018-01-10T00:00:00",
-    "dateFormated": "Jan 10, 2018"
-  },
   "10084": {
     "title": "MSH2: Hereditary breast cancer",
     "label": "Hereditary breast cancer",
