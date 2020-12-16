@@ -4255,43 +4255,6 @@
     "dateISO8601": "2016-10-04T00:00:00",
     "dateFormated": "Oct 04, 2016"
   },
-  "8500": {
-    "title": "JPH2; Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "genes": {
-      "HGNC:14202": {
-        "ontology": "HGNC",
-        "curie": "HGNC:14202",
-        "uri": "HGNC14202"
-      }
-    },
-    "conditions": {
-      "OMIM613873": {
-        "ontology": "OMIM",
-        "curie": "OMIM:613873",
-        "uri": "OMIM613873",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_613873"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1529513467\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"JPH2 (JP-2)\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:14202\",\"uri\":\"HGNC14202\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:605267\",\"uri\":\"OMIM605267\"}},\"title\":\"JPH2 (JP-2) Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"2.00\",\"Tally\":\"2\",\"evidence\":{\"publications\":[{\"title\":\"Mutation E169K in junctophilin-2 causes atrial fibrillation due to impaired RyR2 stabilization.\",\"author\":\"Beavers DL\",\"pubdate\":\"2013 Nov 19\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"23973696\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.20\",\"Tally\":\"2.2\",\"evidence\":{\"publications\":[{\"title\":\"Mutations in JPH2-encoded junctophilin-2 associated with hypertrophic cardiomyopathy in humans.\",\"author\":\"Landstrom AP\",\"pubdate\":\"2007 Jun\",\"source\":\"J Mol Cell Cardiol\",\"uid\":\"17509612\"},{\"title\":\"Novel junctophilin-2 mutation A405S is associated with basal septal hypertrophy and diastolic dysfunction.\",\"author\":\"Quick AP\",\"pubdate\":\"2017 Feb\",\"source\":\"JACC Basic Transl Sci\",\"uid\":\"28393127\"},{\"title\":\"Impact of Genotype on the Occurrence of Atrial Fibrillation in Patients With Hypertrophic Cardiomyopathy.\",\"author\":\"Bongini C\",\"pubdate\":\"2016 Apr 1\",\"source\":\"Am J Cardiol\",\"uid\":\"26869393\"},{\"title\":\"Mutation E169K in junctophilin-2 causes atrial fibrillation due to impaired RyR2 stabilization.\",\"author\":\"Beavers DL\",\"pubdate\":\"2013 Nov 19\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"23973696\"}],\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\",\"evidence\":{\"publications\":[{\"title\":\"Mutation of junctophilin type 2 associated with hypertrophic cardiomyopathy.\",\"author\":\"Matsushita Y\",\"pubdate\":\"2007\",\"source\":\"J Hum Genet\",\"uid\":\"17476457\"}],\"notes\":{\"note\":\"\"}}},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"4.2\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527788240086\":{\"title\":\"Junctophilin type 2 is associated with caveolin-3 and is down-regulated in the hypertrophic and dilated cardiomyopathies.\",\"author\":\"Minamisawa S\",\"pubdate\":\"2004 Dec 17\",\"source\":\"Biochem Biophys Res Commun\",\"uid\":\"15541368\"},\"1527788273941\":{\"title\":\"Junctophilin-2 expression silencing causes cardiocyte hypertrophy and abnormal intracellular calcium-handling.\",\"author\":\"Landstrom AP\",\"pubdate\":\"2011 Mar\",\"source\":\"Circ Heart Fail\",\"uid\":\"21216834\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527788257222\":{\"title\":\"Mutations in JPH2-encoded junctophilin-2 associated with hypertrophic cardiomyopathy in humans.\",\"author\":\"Landstrom AP\",\"pubdate\":\"2007 Jun\",\"source\":\"J Mol Cell Cardiol\",\"uid\":\"17509612\"},\"1527788288417\":{\"title\":\"Junctophilin-2 expression silencing causes cardiocyte hypertrophy and abnormal intracellular calcium-handling.\",\"author\":\"Landstrom AP\",\"pubdate\":\"2011 Mar\",\"source\":\"Circ Heart Fail\",\"uid\":\"21216834\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"2.50\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"2.5\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1527788307785\":{\"title\":\"Disrupted junctional membrane complexes and hyperactive ryanodine receptors after acute junctophilin knockdown in mice.\",\"author\":\"van Oort RJ\",\"pubdate\":\"2011 Mar 8\",\"source\":\"Circulation\",\"uid\":\"21339484\"},\"1527788329703\":{\"title\":\"Novel junctophilin-2 mutation A405S is associated with basal septal hypertrophy and diastolic dysfunction.\",\"author\":\"Quick AP\",\"pubdate\":\"2017 Feb\",\"source\":\"JACC Basic Transl Sci\",\"uid\":\"28393127\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"4.2\",\"ExperimentalEvidenceTotal\":\"4.5\",\"EvidencePointsTotal\":\"8.7\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"05/25/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"07/18/2017\",\"FinalClassificationNotes\":\"Approved by the Hypertrophic Cardiomyopathy Gene Curation Working Group\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1500361200,
-    "dateISO8601": "2017-07-18T00:00:00",
-    "dateFormated": "Jul 18, 2017"
-  },
   "8501": {
     "title": "KLF10: Hypertrophic cardiomyopathy",
     "label": "Hypertrophic cardiomyopathy",
@@ -5922,43 +5885,6 @@
     "date": 1486512000,
     "dateISO8601": "2017-02-07T16:00:00",
     "dateFormated": "Feb 07, 2017"
-  },
-  "8764": {
-    "title": "NEXN: Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "genes": {
-      "HGNC:29557": {
-        "ontology": "HGNC",
-        "curie": "HGNC:29557",
-        "uri": "HGNC29557"
-      }
-    },
-    "conditions": {
-      "OMIM613876": {
-        "ontology": "OMIM",
-        "curie": "OMIM:613876",
-        "uri": "OMIM613876",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_613876"
-      },
-      "ORPHA217569": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:217569",
-        "uri": "ORPHA217569",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_217569"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1528167286\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"NEXN\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:29557\",\"uri\":\"HGNC29557\"},\"condition\":{\"name\":\"Hypertrophic Cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:613876\",\"uri\":\"OMIM613876\"}},\"title\":\"NEXN Hypertrophic Cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":[{\"title\":\"Mutations in NEXN, a Z-disc gene, are associated with hypertrophic cardiomyopathy.\",\"author\":\"Wang H\",\"pubdate\":\"2010 Nov 12\",\"source\":\"Am J Hum Genet\",\"uid\":\"20970104\"}],\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\",\"evidence\":{\"publications\":[{\"title\":\"Reassessment of Mendelian gene pathogenicity using 7,855 cardiomyopathy cases and 60,706 reference samples.\",\"author\":\"Walsh R\",\"pubdate\":\"2017 Feb\",\"source\":\"Genet Med\",\"uid\":\"27532257\"}],\"notes\":{\"note\":\"\"}}}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"0.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528167516823\":{\"title\":\"Mutations in NEXN, a Z-disc gene, are associated with hypertrophic cardiomyopathy.\",\"author\":\"Wang H\",\"pubdate\":\"2010 Nov 12\",\"source\":\"Am J Hum Genet\",\"uid\":\"20970104\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528167557019\":{\"title\":\"Nexilin mutations destabilize cardiac Z-disks and lead to dilated cardiomyopathy.\",\"author\":\"Hassel D\",\"pubdate\":\"2009 Nov\",\"source\":\"Nat Med\",\"uid\":\"19881492\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528167496922\":{\"title\":\"Mutations in NEXN, a Z-disc gene, are associated with hypertrophic cardiomyopathy.\",\"author\":\"Wang H\",\"pubdate\":\"2010 Nov 12\",\"source\":\"Am J Hum Genet\",\"uid\":\"20970104\"}},\"notes\":{\"note\":\"\"}}}},\"ModelsRescue\":{\"Tally\":\"0.5\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"0.5\",\"ExperimentalEvidenceTotal\":\"1.5\",\"EvidencePointsTotal\":\"2\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"12/22/2017\",\"FinalClassificationNotes\":\"This classification was approved by the Hypertrophic Cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1478041200,
-    "dateISO8601": "2016-11-01T16:00:00",
-    "dateFormated": "Nov 01, 2016"
   },
   "8765": {
     "title": "TNNC1: Hypertrophic cardiomyopathy",
@@ -10653,43 +10579,6 @@
     "dateISO8601": "2017-12-11T13:00:00",
     "dateFormated": "Dec 11, 2017"
   },
-  "10064": {
-    "title": "CASQ2: Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "genes": {
-      "HGNC:1513": {
-        "ontology": "HGNC",
-        "curie": "HGNC:1513",
-        "uri": "HGNC1513"
-      }
-    },
-    "conditions": {
-      "OMIM114251": {
-        "ontology": "OMIM",
-        "curie": "OMIM:114251",
-        "uri": "OMIM114251",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_114251"
-      },
-      "ORPHA217569": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:217569",
-        "uri": "ORPHA217569",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_217569"
-      }
-    },
-    "scores": {
-      "3975": {
-        "label": "No Reported Evidence"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1529264713\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CASQ2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:1513\",\"uri\":\"HGNC1513\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:114251\",\"uri\":\"OMIM114251\"}},\"title\":\"CASQ2 Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"\",\"ExperimentalEvidenceTotal\":\"\",\"EvidencePointsTotal\":\"\",\"CalculatedClassification\":\"NO REPORTED EVIDENCE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"NO REPORTED EVIDENCE\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"NO REPORTED EVIDENCE\",\"FinalClassificationDate\":\"02/07/2017\",\"FinalClassificationNotes\":\"This classification was approved by the Hypertrophic Cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"NO\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1484640000,
-    "dateISO8601": "2017-01-17T00:00:00",
-    "dateFormated": "Jan 17, 2017"
-  },
   "10065": {
     "title": "DSP: Hypertrophic cardiomyopathy",
     "label": "Hypertrophic cardiomyopathy",
@@ -10726,43 +10615,6 @@
     "date": 1495522800,
     "dateISO8601": "2017-05-23T00:00:00",
     "dateFormated": "May 23, 2017"
-  },
-  "10067": {
-    "title": "CSRP3: Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "genes": {
-      "HGNC:2472": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2472",
-        "uri": "HGNC2472"
-      }
-    },
-    "conditions": {
-      "OMIM612124": {
-        "ontology": "OMIM",
-        "curie": "OMIM:612124",
-        "uri": "OMIM612124",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_612124"
-      },
-      "ORPHA217569": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:217569",
-        "uri": "ORPHA217569",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_217569"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1529264939\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CSRP3\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:2472\",\"uri\":\"HGNC2472\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:612124\",\"uri\":\"OMIM612124\"}},\"title\":\"CSRP3 Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"4.00\",\"Tally\":\"4\",\"evidence\":{\"publications\":{\"1528226225939\":{\"title\":\"Genetic diagnosis of hypertrophic cardiomyopathy using mass spectrometry DNA arrays and high resolution melting.\",\"author\":\"Santos S\",\"pubdate\":\"2011 Jan\",\"source\":\"Rev Port Cardiol\",\"uid\":\"21425739\"},\"1528226238440\":{\"title\":\"High resolution melting: improvements in the genetic diagnosis of hypertrophic cardiomyopathy in a Portuguese cohort.\",\"author\":\"Santos S\",\"pubdate\":\"2012 Mar 19\",\"source\":\"BMC Med Genet\",\"uid\":\"22429680\"},\"1528226253076\":{\"title\":\"Novel genotype-phenotype associations demonstrated by high-throughput sequencing in patients with hypertrophic cardiomyopathy.\",\"author\":\"Lopes LR\",\"pubdate\":\"2015 Feb\",\"source\":\"Heart\",\"uid\":\"25351510\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.90\",\"Tally\":\"2.9\",\"evidence\":{\"publications\":{\"1527874488034\":{\"title\":\"Mutations in the human muscle LIM protein gene in families with hypertrophic cardiomyopathy.\",\"author\":\"Geier C\",\"pubdate\":\"2003 Mar 18\",\"source\":\"Circulation\",\"uid\":\"12642359\"},\"1527874519643\":{\"title\":\"Genotype-phenotype relationships involving hypertrophic cardiomyopathy-associated mutations in titin, muscle LIM protein, and telethonin.\",\"author\":\"Bos JM\",\"pubdate\":\"2006 May\",\"source\":\"Mol Genet Metab\",\"uid\":\"16352453\"},\"1527874546433\":{\"title\":\"Diagnostic yield, interpretation, and clinical utility of mutation screening of sarcomere encoding genes in Danish hypertrophic cardiomyopathy patients and relatives.\",\"author\":\"Andersen PS\",\"pubdate\":\"2009 Mar\",\"source\":\"Hum Mutat\",\"uid\":\"19035361\"},\"1527874614145\":{\"title\":\"High resolution melting: improvements in the genetic diagnosis of hypertrophic cardiomyopathy in a Portuguese cohort.\",\"author\":\"Santos S\",\"pubdate\":\"2012 Mar 19\",\"source\":\"BMC Med Genet\",\"uid\":\"22429680\"},\"1527874785978\":{\"title\":\"Novel genotype-phenotype associations demonstrated by high-throughput sequencing in patients with hypertrophic cardiomyopathy.\",\"author\":\"Lopes LR\",\"pubdate\":\"2015 Feb\",\"source\":\"Heart\",\"uid\":\"25351510\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.50\",\"Tally\":\"1.5\",\"1\":{\"evidence\":{\"publications\":{\"1527874494959\":{\"title\":\"Mutations in the human muscle LIM protein gene in families with hypertrophic cardiomyopathy.\",\"author\":\"Geier C\",\"pubdate\":\"2003 Mar 18\",\"source\":\"Circulation\",\"uid\":\"12642359\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"8.4\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527874857185\":{\"title\":\"Human muscle LIM protein dimerizes along the actin cytoskeleton and cross-links actin filaments.\",\"author\":\"Hoffmann C\",\"pubdate\":\"2014 Aug\",\"source\":\"Mol Cell Biol\",\"uid\":\"24934443\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1.5\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527874887436\":{\"title\":\"A common MLP (muscle LIM protein) variant is associated with cardiomyopathy.\",\"author\":\"Kn\\u00f6ll R\",\"pubdate\":\"2010 Mar 5\",\"source\":\"Circ Res\",\"uid\":\"20044516\"},\"1527874907261\":{\"title\":\"Tcap gene mutations in hypertrophic cardiomyopathy and dilated cardiomyopathy.\",\"author\":\"Hayashi T\",\"pubdate\":\"2004 Dec 7\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"15582318\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527874952325\":{\"title\":\"Human muscle LIM protein dimerizes along the actin cytoskeleton and cross-links actin filaments.\",\"author\":\"Hoffmann C\",\"pubdate\":\"2014 Aug\",\"source\":\"Mol Cell Biol\",\"uid\":\"24934443\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"1\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1528226152958\":{\"title\":\"A common MLP (muscle LIM protein) variant is associated with cardiomyopathy.\",\"author\":\"Kn\\u00f6ll R\",\"pubdate\":\"2010 Mar 5\",\"source\":\"Circ Res\",\"uid\":\"20044516\"}},\"notes\":{\"note\":\"\"}}},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"2.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"8.4\",\"ExperimentalEvidenceTotal\":\"2.5\",\"EvidencePointsTotal\":\"10.9\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"MODERATE\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"12/19/2017\",\"FinalClassificationNotes\":\"This classification was approved by the Hypertrophic Cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1513670400,
-    "dateISO8601": "2017-12-19T00:00:00",
-    "dateFormated": "Dec 19, 2017"
   },
   "10068": {
     "title": "GAA: Glycogen storage disease type II",
