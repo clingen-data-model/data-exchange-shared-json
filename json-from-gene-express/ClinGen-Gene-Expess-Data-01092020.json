@@ -8955,51 +8955,6 @@
     "dateISO8601": "2017-01-30T00:00:00",
     "dateFormated": "Jan 30, 2017"
   },
-  "10053": {
-    "title": "KCNT1: Childhood-Onset Epilepsy Syndrome",
-    "label": "Childhood-Onset Epilepsy Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10005",
-      "name": "Epilepsy"
-    },
-    "genes": {
-      "18865": {
-        "ontology": "HGNC",
-        "curie": "HGNC:18865",
-        "uri": "HGNC18865"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0020072"
-      },
-      "OMIM608167": {
-        "ontology": "OMIM",
-        "curie": "OMIM:608167",
-        "uri": "OMIM608167",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_608167"
-      },
-      "ORPHA293181": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:293181",
-        "uri": "ORPHA293181",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_293181"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1527798805\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"KCNT1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:18865\",\"uri\":\"HGNC18865\"},\"condition\":{\"name\":\"Childhood-Onset Epilepsy Syndrome \",\"OrphaNet\":{\"curie\":\"ORPHA:293181\",\"uri\":\"ORPHA293181\"},\"MONDO\":{\"curie\":\"MONDO:0020072\",\"uri\":\"MONDO0020072\"},\"OMIM\":{\"curie\":\"OMIM:608167\",\"uri\":\"OMIM608167\"}},\"title\":\"KCNT1 Childhood-Onset Epilepsy Syndrome \",\"scoreJson\":{\"ModeOfInheritance\":\"Other (HP:0000005)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"18.00\",\"Tally\":\"12\",\"evidence\":{\"publications\":{\"1516637470177\":{\"title\":\"De novo gain-of-function KCNT1 channel mutations cause malignant migrating partial seizures of infancy.\",\"author\":\"Barcia G\",\"pubdate\":\"2012 Nov\",\"source\":\"Nat Genet\",\"uid\":\"23086397\"},\"1516637486737\":{\"title\":\"Klinefelter syndrome and cancer: from childhood to adulthood.\",\"author\":\"De Sanctis V\",\"pubdate\":\"2013 Sep\",\"source\":\"Pediatr Endocrinol Rev\",\"uid\":\"24079078\"},\"1516637628719\":{\"title\":\"Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics.\",\"author\":\"Fagerberg L\",\"pubdate\":\"2014 Feb\",\"source\":\"Mol Cell Proteomics\",\"uid\":\"24309898\"},\"1516637800237\":{\"title\":\"Characterization of two de novoKCNT1 mutations in children with malignant migrating partial seizures in infancy.\",\"author\":\"Rizzo F\",\"pubdate\":\"2016 Apr\",\"source\":\"Mol Cell Neurosci\",\"uid\":\"26784557\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1516637396788\":{\"title\":\"The sodium-activated potassium channel is encoded by a member of the Slo gene family.\",\"author\":\"Yuan A\",\"pubdate\":\"2003 Mar 6\",\"source\":\"Neuron\",\"uid\":\"12628167\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"0.00\",\"evidence\":{\"publications\":{\"1516637741583\":{\"title\":\"Differential distribution of the sodium-activated potassium channels slick and slack in mouse brain.\",\"author\":\"Rizzi S\",\"pubdate\":\"2016 Jul 1\",\"source\":\"J Comp Neurol\",\"uid\":\"26587966\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.00\",\"evidence\":{\"publications\":{\"1516637429405\":{\"title\":\"Sodium-dependent potassium channels of a Slack-like subtype contribute to the slow afterhyperpolarization in lamprey spinal neurons.\",\"author\":\"Wall\\u00e9n P\",\"pubdate\":\"2007 Nov 15\",\"source\":\"J Physiol\",\"uid\":\"17884929\"},\"1516637593223\":{\"title\":\"Coxsackievirus B3-induced acute pancreatitis: analysis of histopathological and viral parameters in a mouse model.\",\"author\":\"Vuorinen T\",\"pubdate\":\"1989 Aug\",\"source\":\"Br J Exp Pathol\",\"uid\":\"2548562\"},\"1516637651976\":{\"title\":\"Clinical whole-genome sequencing in severe early-onset epilepsy reveals new genes and improves molecular diagnosis.\",\"author\":\"Martin HC\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24463883\"},\"1516637757758\":{\"title\":\"Epilepsy-Related Slack Channel Mutants Lead to Channel Over-Activity by Two Different Mechanisms.\",\"author\":\"Tang QY\",\"pubdate\":\"2016 Jan 5\",\"source\":\"Cell Rep\",\"uid\":\"26725113\"},\"1516637892817\":{\"title\":\"De novo gain-of-function KCNT1 channel mutations cause malignant migrating partial seizures of infancy.\",\"author\":\"Barcia G\",\"pubdate\":\"2012 Nov\",\"source\":\"Nat Genet\",\"uid\":\"23086397\"},\"1516637920952\":{\"title\":\"Formation of intermediate-conductance calcium-activated potassium channels by interaction of Slack and Slo subunits.\",\"author\":\"Joiner WJ\",\"pubdate\":\"1998 Oct\",\"source\":\"Nat Neurosci\",\"uid\":\"10196543\"},\"1516637955903\":{\"title\":\"KCNT1 gain of function in 2 epilepsy phenotypes is reversed by quinidine.\",\"author\":\"Milligan CJ\",\"pubdate\":\"2014 Apr\",\"source\":\"Ann Neurol\",\"uid\":\"24591078\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1516638078749\":{\"title\":\"De novo gain-of-function KCNT1 channel mutations cause malignant migrating partial seizures of infancy.\",\"author\":\"Barcia G\",\"pubdate\":\"2012 Nov\",\"source\":\"Nat Genet\",\"uid\":\"23086397\"},\"1516638090620\":{\"title\":\"KCNT1 gain of function in 2 epilepsy phenotypes is reversed by quinidine.\",\"author\":\"Milligan CJ\",\"pubdate\":\"2014 Apr\",\"source\":\"Ann Neurol\",\"uid\":\"24591078\"},\"1516638101818\":{\"title\":\"Epilepsy-Related Slack Channel Mutants Lead to Channel Over-Activity by Two Different Mechanisms.\",\"author\":\"Tang QY\",\"pubdate\":\"2016 Jan 5\",\"source\":\"Cell Rep\",\"uid\":\"26725113\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"0\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1516637379014\":{\"title\":\"Formation of intermediate-conductance calcium-activated potassium channels by interaction of Slack and Slo subunits.\",\"author\":\"Joiner WJ\",\"pubdate\":\"1998 Oct\",\"source\":\"Nat Neurosci\",\"uid\":\"10196543\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\",\"evidence\":{\"publications\":{\"1516637702528\":{\"title\":\"Quinidine in the treatment of KCNT1-positive epilepsies.\",\"author\":\"Mikati MA\",\"pubdate\":\"2015 Dec\",\"source\":\"Ann Neurol\",\"uid\":\"26369628\"},\"1516638377946\":{\"title\":\"KCNT1 gain of function in 2 epilepsy phenotypes is reversed by quinidine.\",\"author\":\"Milligan CJ\",\"pubdate\":\"2014 Apr\",\"source\":\"Ann Neurol\",\"uid\":\"24591078\"}},\"notes\":{\"note\":\"\"}}},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"2\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"2\",\"EvidencePointsTotal\":\"14\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09/05/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"10/20/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1508482800,
-    "dateISO8601": "2017-10-20T00:00:00",
-    "dateFormated": "Oct 20, 2017"
-  },
   "10057": {
     "title": "FLNC:Myofibrillar myopathy",
     "label": "Myofibrillar myopathy",
