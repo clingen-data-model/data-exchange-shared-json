@@ -6125,51 +6125,6 @@
     "dateISO8601": "2017-12-20T00:00:00",
     "dateFormated": "Dec 20, 2017"
   },
-  "9522": {
-    "title": "TSPAN7: Non-Syndromic X-Linked Intellectual Disability",
-    "label": "Non-Syndromic X-Linked Intellectual Disability",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "11854": {
-        "ontology": "HGNC",
-        "curie": "HGNC:11854",
-        "uri": "HGNC11854"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0010266"
-      },
-      "OMIM300210": {
-        "ontology": "OMIM",
-        "curie": "OMIM:300210",
-        "uri": "OMIM300210",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_300210"
-      },
-      "ORPHA777": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:777",
-        "uri": "ORPHA777",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518460054\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"TSPAN7\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:11854\",\"uri\":\"HGNC11854\"},\"condition\":{\"name\":\"Non-Syndromic X-Linked Intellectual Disability\",\"MONDO\":{\"curie\":\"MONDO:0019181\",\"uri\":\"MONDO0019181\"}},\"title\":\"TSPAN7 Non-Syndromic X-Linked Intellectual Disability\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1518460405846\":{\"title\":\"A new gene involved in X-linked mental retardation identified by analysis of an X;2 balanced translocation.\",\"author\":\"Zemni R\",\"pubdate\":\"2000 Feb\",\"source\":\"Nat Genet\",\"uid\":\"10655063\"},\"1518460414927\":{\"title\":\"A novel 2 bp deletion in the TM4SF2 gene is associated with MRX58.\",\"author\":\"Abidi FE\",\"pubdate\":\"2002 Jun\",\"source\":\"J Med Genet\",\"uid\":\"12070254\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"1\":{\"evidence\":{\"publications\":{\"1518460335793\":{\"title\":\"A new gene involved in X-linked mental retardation identified by analysis of an X;2 balanced translocation.\",\"author\":\"Zemni R\",\"pubdate\":\"2000 Feb\",\"source\":\"Nat Genet\",\"uid\":\"10655063\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.00\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1518460358289\":{\"title\":\"The X-linked intellectual disability protein TSPAN7 regulates excitatory synapse development and AMPAR trafficking.\",\"author\":\"Bassani S\",\"pubdate\":\"2012 Mar 22\",\"source\":\"Neuron\",\"uid\":\"22445342\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"0\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"0.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"1.5\",\"ExperimentalEvidenceTotal\":\"0.5\",\"EvidencePointsTotal\":\"2\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"02/12/2018\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"02/08/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1518076800,
-    "dateISO8601": "2018-02-08T00:00:00",
-    "dateFormated": "Feb 08, 2018"
-  },
   "9540": {
     "title": "RPE65: Leber Congenital Amaurosis/Retinitis Pigmentosa",
     "label": "Leber Congenital Amaurosis/Retinitis Pigmentosa",
