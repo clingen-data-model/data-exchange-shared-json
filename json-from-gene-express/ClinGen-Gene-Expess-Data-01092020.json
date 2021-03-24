@@ -6080,51 +6080,6 @@
     "dateISO8601": "2017-12-20T00:00:00",
     "dateFormated": "Dec 20, 2017"
   },
-  "9540": {
-    "title": "RPE65: Leber Congenital Amaurosis/Retinitis Pigmentosa",
-    "label": "Leber Congenital Amaurosis/Retinitis Pigmentosa",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10019",
-      "name": "Harvard/Geisinger Biocuration Core"
-    },
-    "genes": {
-      "10294": {
-        "ontology": "HGNC",
-        "curie": "HGNC:10294",
-        "uri": "HGNC10294"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0018998"
-      },
-      "OMIM204100": {
-        "ontology": "OMIM",
-        "curie": "OMIM:204100",
-        "uri": "OMIM204100",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_204100"
-      },
-      "ORPHA65": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:65",
-        "uri": "ORPHA65",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_65"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518792758\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"RPE65\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:10294\",\"uri\":\"HGNC10294\"},\"condition\":{\"name\":\"Leber Congenital Amaurosis/Retinitis Pigmentosa\",\"OrphaNet\":{\"curie\":\"ORPHA:65\",\"uri\":\"ORPHA65\"},\"OMIM\":{\"curie\":\"OMIM:204100\",\"uri\":\"OMIM204100\"}},\"title\":\"RPE65 Leber Congenital Amaurosis/Retinitis Pigmentosa\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"0\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"5.50\",\"evidence\":{\"publications\":{\"1518792027065\":{\"title\":\"Homozygosity Mapping in Leber Congenital Amaurosis and Autosomal Recessive Retinitis Pigmentosa in South Indian Families.\",\"author\":\"Srilekha S\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26147992\"},\"1518792056030\":{\"title\":\"Comprehensive genotyping reveals RPE65 as the most frequently mutated gene in Leber congenital amaurosis in Denmark.\",\"author\":\"Astuti GD\",\"pubdate\":\"2016 Jul\",\"source\":\"Eur J Hum Genet\",\"uid\":\"26626312\"},\"1518792149000\":{\"title\":\"Retinal dystrophies caused by mutations in RPE65: assessment of visual functions.\",\"author\":\"Hamel CP\",\"pubdate\":\"2001 Apr\",\"source\":\"Br J Ophthalmol\",\"uid\":\"11264131\"},\"1518792278968\":{\"title\":\"Genetic analysis of Indian families with autosomal recessive retinitis pigmentosa by homozygosity screening.\",\"author\":\"Singh HP\",\"pubdate\":\"2009 Sep\",\"source\":\"Invest Ophthalmol Vis Sci\",\"uid\":\"19339744\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"12.5\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"7.00\",\"evidence\":{\"publications\":{\"1518791990465\":{\"title\":\"Novel RPE65 mutations associated with Leber congenital amaurosis in Chinese patients.\",\"author\":\"Xu F\",\"pubdate\":\"2012\",\"source\":\"Mol Vis\",\"uid\":\"22509104\"},\"1518792032283\":{\"title\":\"Homozygosity Mapping in Leber Congenital Amaurosis and Autosomal Recessive Retinitis Pigmentosa in South Indian Families.\",\"author\":\"Srilekha S\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26147992\"},\"1518792061160\":{\"title\":\"Comprehensive genotyping reveals RPE65 as the most frequently mutated gene in Leber congenital amaurosis in Denmark.\",\"author\":\"Astuti GD\",\"pubdate\":\"2016 Jul\",\"source\":\"Eur J Hum Genet\",\"uid\":\"26626312\"},\"1518792155438\":{\"title\":\"Retinal dystrophies caused by mutations in RPE65: assessment of visual functions.\",\"author\":\"Hamel CP\",\"pubdate\":\"2001 Apr\",\"source\":\"Br J Ophthalmol\",\"uid\":\"11264131\"},\"1518792257577\":{\"title\":\"A homozygosity-based search for mutations in patients with autosomal recessive retinitis pigmentosa, using microsatellite markers.\",\"author\":\"Kondo H\",\"pubdate\":\"2004 Dec\",\"source\":\"Invest Ophthalmol Vis Sci\",\"uid\":\"15557452\"}},\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"0\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518792638530\":{\"title\":\"Rpe65 is the retinoid isomerase in bovine retinal pigment epithelium.\",\"author\":\"Jin M\",\"pubdate\":\"2005 Aug 12\",\"source\":\"Cell\",\"uid\":\"16096063\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518792332521\":{\"title\":\"Temperature-sensitive retinoid isomerase activity of RPE65 mutants associated with Leber Congenital Amaurosis.\",\"author\":\"Li S\",\"pubdate\":\"2015 Aug\",\"source\":\"J Biochem\",\"uid\":\"25752820\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1518792350391\":{\"title\":\"Retinal degeneration 12 (rd12): a new, spontaneously arising mouse model for human Leber congenital amaurosis (LCA).\",\"author\":\"Pang JJ\",\"pubdate\":\"2005 Feb 28\",\"source\":\"Mol Vis\",\"uid\":\"15765048\"},\"1518792437999\":{\"title\":\"Congenital stationary night blindness in the dog: common mutation in the RPE65 gene indicates founder effect.\",\"author\":\"Aguirre GD\",\"pubdate\":\"1998 Oct 30\",\"source\":\"Mol Vis\",\"uid\":\"9808841\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1518792488136\":{\"title\":\"Safety and durability of effect of contralateral-eye administration of AAV2 gene therapy in patients with childhood-onset blindness caused by RPE65 mutations: a follow-on phase 1 trial.\",\"author\":\"Bennett J\",\"pubdate\":\"2016 Aug 13\",\"source\":\"Lancet\",\"uid\":\"27375040\"},\"1518792512480\":{\"title\":\"Efficacy and safety of voretigene neparvovec (AAV2-hRPE65v2) in patients with RPE65-mediated inherited retinal dystrophy: a randomised, controlled, open-label, phase 3 trial.\",\"author\":\"Russell S\",\"pubdate\":\"2017 Aug 26\",\"source\":\"Lancet\",\"uid\":\"28712537\"}},\"notes\":{\"note\":\"Successful rescue of blindness in patients using gene therapy.\"}}},\"RescueInNonHumanModelOrganism\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1518792469649\":{\"title\":\"Gene therapy restores vision in a canine model of childhood blindness.\",\"author\":\"Acland GM\",\"pubdate\":\"2001 May\",\"source\":\"Nat Genet\",\"uid\":\"11326284\"},\"1518792552867\":{\"title\":\"Lentiviral gene transfer of RPE65 rescues survival and function of cones in a mouse model of Leber congenital amaurosis.\",\"author\":\"Bemelmans AP\",\"pubdate\":\"2006 Oct\",\"source\":\"PLoS Med\",\"uid\":\"17032058\"}},\"notes\":{\"note\":\"\"}}},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/13/2018\",\"FinalClassificationNotes\":\"Approved by experts at Massachusetts Eye and Ear Infirmary. Variants in the RPE65 gene have been seen in patients diagnosed with both retinitis pigmentosa and Leber congenital amaurosis. It is possible that some variants influence the onset of blindness, which lead to the characterization of two separate diseases, though a correlation has yet to be proven. Patients diagnosed with LCA often have congenital blindness, while patients diagnosed with RP have very variable, progressive blindness. Night blindness has been characterized in patients diagnosed with both diseases.  After reviewing the published literature of patients diagnosed with either disease, there is no phenotype/genotype correlation; although there is a possible spectrum. The variant association with late onset RP is unknown.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1518541200,
-    "dateISO8601": "2018-02-13T09:00:00",
-    "dateFormated": "Feb 13, 2018"
-  },
   "9543": {
     "title": "TRIOBP: nonsyndromic sensorineural deafness",
     "label": "nonsyndromic sensorineural deafness",
@@ -6709,51 +6664,6 @@
     "date": 1521615600,
     "dateISO8601": "2018-03-21T00:00:00",
     "dateFormated": "Mar 21, 2018"
-  },
-  "9616": {
-    "title": "RPE65: Retinitis Pigmentosa",
-    "label": "Retinitis Pigmentosa",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10019",
-      "name": "Harvard/Geisinger Biocuration Core"
-    },
-    "genes": {
-      "HGNC:10294": {
-        "ontology": "HGNC",
-        "curie": "HGNC:10294",
-        "uri": "HGNC10294"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019200"
-      },
-      "OMIM613794": {
-        "ontology": "OMIM",
-        "curie": "OMIM:613794",
-        "uri": "OMIM613794",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_613794"
-      },
-      "ORPHA791": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:791",
-        "uri": "ORPHA791",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_791"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1522268994\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"RPE65\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:10294\",\"uri\":\"HGNC10294\"},\"condition\":{\"name\":\"Retinitis pigmentosa\",\"OrphaNet\":{\"curie\":\"ORPHA:791\",\"uri\":\"ORPHA791\"},\"MONDO\":{\"curie\":\"MONDO:0013425\",\"uri\":\"MONDO0013425\"},\"OMIM\":{\"curie\":\"OMIM:613794\",\"uri\":\"OMIM613794\"}},\"title\":\"RPE65 Retinitis pigmentosa\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.75\",\"Tally\":\"0.75\",\"evidence\":{\"publications\":{\"1522268808755\":{\"title\":\"Four novel mutations in the RPE65 gene in patients with Leber congenital amaurosis.\",\"author\":\"Simovich MJ\",\"pubdate\":\"2001 Aug\",\"source\":\"Hum Mutat\",\"uid\":\"11462243\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.00\",\"Tally\":\"2\",\"evidence\":{\"publications\":{\"1522268735560\":{\"title\":\"A dominant mutation in RPE65 identified by whole-exome sequencing causes retinitis pigmentosa with choroidal involvement.\",\"author\":\"Bowne SJ\",\"pubdate\":\"2011 Oct\",\"source\":\"Eur J Hum Genet\",\"uid\":\"21654732\"},\"1522268777006\":{\"title\":\"Comprehensive genotyping reveals RPE65 as the most frequently mutated gene in Leber congenital amaurosis in Denmark.\",\"author\":\"Astuti GD\",\"pubdate\":\"2016 Jul\",\"source\":\"Eur J Hum Genet\",\"uid\":\"26626312\"},\"1522268835959\":{\"title\":\"Evaluation of genotype-phenotype associations in leber congenital amaurosis.\",\"author\":\"Galvin JA\",\"pubdate\":\"2005 Oct-Nov\",\"source\":\"Retina\",\"uid\":\"16205573\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"1\":{\"evidence\":{\"publications\":{\"1522268894487\":{\"title\":\"A dominant mutation in RPE65 identified by whole-exome sequencing causes retinitis pigmentosa with choroidal involvement.\",\"author\":\"Bowne SJ\",\"pubdate\":\"2011 Oct\",\"source\":\"Eur J Hum Genet\",\"uid\":\"21654732\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"3.75\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1522268952687\":{\"title\":\"A Dominant Mutation in Rpe65, D477G, Delays Dark Adaptation and Disturbs the Visual Cycle in the Mutant Knock-In Mice.\",\"author\":\"Shin Y\",\"pubdate\":\"2017 Mar\",\"source\":\"Am J Pathol\",\"uid\":\"28041994\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1522268918592\":{\"title\":\"A Dominant Mutation in Rpe65, D477G, Delays Dark Adaptation and Disturbs the Visual Cycle in the Mutant Knock-In Mice.\",\"author\":\"Shin Y\",\"pubdate\":\"2017 Mar\",\"source\":\"Am J Pathol\",\"uid\":\"28041994\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1522268971297\":{\"title\":\"A Dominant Mutation in Rpe65, D477G, Delays Dark Adaptation and Disturbs the Visual Cycle in the Mutant Knock-In Mice.\",\"author\":\"Shin Y\",\"pubdate\":\"2017 Mar\",\"source\":\"Am J Pathol\",\"uid\":\"28041994\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"1.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"1\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1522268938006\":{\"title\":\"A Dominant Mutation in Rpe65, D477G, Delays Dark Adaptation and Disturbs the Visual Cycle in the Mutant Knock-In Mice.\",\"author\":\"Shin Y\",\"pubdate\":\"2017 Mar\",\"source\":\"Am J Pathol\",\"uid\":\"28041994\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"3\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"3.75\",\"ExperimentalEvidenceTotal\":\"3\",\"EvidencePointsTotal\":\"6.75\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"02/14/2018\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"03/05/2018\",\"FinalClassificationNotes\":\"The gene-disease association for RPE65 and autosomal dominant retinitis pigmentosa has been classified as Moderate. A p.Asp477Gly variant in the RPE65 gene has been observed as heterozygous in four probands in the literature, all of Irish descent. Notably, the variant segregates in one family with 20 affected individuals, however there are four individuals carrying the variant without retinitis pigmentosa. The variability of onset, typically in the 2nd to 5th decade, may contribute. Three additional probands with the p.D477G variant have been reported internally at Massachusetts Eye and Ear Infirmary (MEEI). All affected individuals experienced progressive night vision problems starting the 2nd- 3rd decade and clinical evaluation was consistent with a clinical diagnosis of retinitis pigmentosa. All affected individuals reported a family history of night vision loss. Additional heterozygous probands with variants other than p.D477G have been observed in the RPE65 gene in patients diagnosed with LCA, however, there is no segregation information provided in these cases.  A mouse model with a heterozygous knock-in p.D477G variant was generated by Shin et al. 2017, who suggest that the p.D477G variant suppresses isomerase activity in the wild-type RPE65 protein. While limitations of founder variant scoring conclude a total evidence point count of 6.75, an expert panel at MEEI has used expert opinion to increase the classification to Moderate.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1520236800,
-    "dateISO8601": "2018-03-05T00:00:00",
-    "dateFormated": "Mar 05, 2018"
   },
 
   "9807": {
