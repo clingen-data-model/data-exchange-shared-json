@@ -5000,51 +5000,6 @@
     "dateISO8601": "2016-10-26T00:00:00",
     "dateFormated": "Oct 26, 2016"
   },
-  "8752": {
-    "title": "RYR2: Catecholaminergic Polymorphic Ventricular Tachycardia",
-    "label": "Catecholaminergic Polymorphic Ventricular Tachycardia",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10008",
-      "name": "Hypertrophic Cardiomyopathy"
-    },
-    "genes": {
-      "HGNC:10484": {
-        "ontology": "HGNC",
-        "curie": "HGNC:10484",
-        "uri": "HGNC10484"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011484"
-      },
-      "OMIM604772": {
-        "ontology": "OMIM",
-        "curie": "OMIM:604772",
-        "uri": "OMIM604772",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_604772"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"RYR2\",\"Hgnc\":\"10484\",\"OrphaNet\":\"3286\",\"Disease\":\"Catecholaminergic Polymorphic Ventricular Tachycardia\",\"Omim\":\"604772\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"A novel variant in RyR2 causes familiar catecholaminergic polymorphic ventricular tachycardia.\",\"author\":\"Bosch C\",\"pubdate\":\"2017 Jan\",\"source\":\"Forensic Sci Int\",\"uid\":\"27988446\"},{\"title\":\"Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia.\",\"author\":\"Laitinen PJ\",\"pubdate\":\"2001 Jan 30\",\"source\":\"Circulation\",\"uid\":\"11157710\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"8.0\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the cardiac ryanodine receptor gene (hRyR2) underlie catecholaminergic polymorphic ventricular tachycardia.\",\"author\":\"Priori SG\",\"pubdate\":\"2001 Jan 16\",\"source\":\"Circulation\",\"uid\":\"11208676\"}],\"notes\":{\"note\":\"\"}}},\"VariantIsDeNovo\":{\"value\":\"0.0\",\"tally\":\"0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"9.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"A novel variant in RyR2 causes familiar catecholaminergic polymorphic ventricular tachycardia.\",\"author\":\"Bosch C\",\"pubdate\":\"2017 Jan\",\"source\":\"Forensic Sci Int\",\"uid\":\"27988446\"},{\"title\":\"Mutations of the cardiac ryanodine receptor (RyR2) gene in familial polymorphic ventricular tachycardia.\",\"author\":\"Laitinen PJ\",\"pubdate\":\"2001 Jan 30\",\"source\":\"Circulation\",\"uid\":\"11157710\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"PKA phosphorylation dissociates FKBP12.6 from the calcium release channel (ryanodine receptor): defective regulation in failing hearts.\",\"author\":\"Marx SO\",\"pubdate\":\"2000 May 12\",\"source\":\"Cell\",\"uid\":\"10830164\"},{\"title\":\"Molecular cloning of cDNA encoding the Ca2+ release channel (ryanodine receptor) of rabbit cardiac muscle sarcoplasmic reticulum.\",\"author\":\"Otsu K\",\"pubdate\":\"1990 Aug 15\",\"source\":\"J Biol Chem\",\"uid\":\"2380170\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"FKBP12.6 deficiency and defective calcium release channel (ryanodine receptor) function linked to exercise-induced sudden cardiac death.\",\"author\":\"Wehrens XH\",\"pubdate\":\"2003 Jun 27\",\"source\":\"Cell\",\"uid\":\"12837242\"},{\"title\":\"Enhanced basal activity of a cardiac Ca2+ release channel (ryanodine receptor) mutant associated with ventricular tachycardia and sudden death.\",\"author\":\"Jiang D\",\"pubdate\":\"2002 Aug 9\",\"source\":\"Circ Res\",\"uid\":\"12169647\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Mutation-linked defective interdomain interactions within ryanodine receptor cause aberrant Ca\\u00b2\\u207arelease leading to catecholaminergic polymorphic ventricular tachycardia.\",\"author\":\"Suetomi T\",\"pubdate\":\"2011 Aug 9\",\"source\":\"Circulation\",\"uid\":\"21768539\"},{\"title\":\"Leaky Ca2+ release channel/ryanodine receptor 2 causes seizures and sudden cardiac death in mice.\",\"author\":\"Lehnart SE\",\"pubdate\":\"2008 Jun\",\"source\":\"J Clin Invest\",\"uid\":\"18483626\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02/24/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"03/08/2017\",\"FinalClassificationNotes\":\"Approved by Jonathan S. Berg, M.D., Ph.D.\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1488960000,
-    "dateISO8601": "2017-03-08T00:00:00",
-    "dateFormated": "Mar 08, 2017"
-  },
   "8760": {
     "title": "TNNC2: Hypertrophic cardiomyopathy",
     "label": "Hypertrophic cardiomyopathy",
