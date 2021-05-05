@@ -5585,51 +5585,6 @@
     "dateISO8601": "2017-10-20T00:00:00",
     "dateFormated": "Oct 20, 2017"
   },
-  "9509": {
-    "title": "AP1S2: X-Linked Intellectual Disability",
-    "label": "X-Linked Intellectual Disability",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "560": {
-        "ontology": "HGNC",
-        "curie": "HGNC:560",
-        "uri": "HGNC560"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019181"
-      },
-      "OMIM300629": {
-        "ontology": "OMIM",
-        "curie": "OMIM:300629",
-        "uri": "OMIM300629",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_300629"
-      },
-      "ORPHA777": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:777",
-        "uri": "ORPHA777",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518185938\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"AP1S2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:560\",\"uri\":\"HGNC560\"},\"condition\":{\"name\":\"X-Linked Intellectual Disability\",\"OrphaNet\":{\"curie\":\"ORPHA:777\",\"uri\":\"ORPHA777\"},\"MONDO\":{\"curie\":\"MONDO:0060309\",\"uri\":\"MONDO0060309\"},\"OMIM\":{\"curie\":\"OMIM:300629\",\"uri\":\"OMIM300629\"}},\"title\":\"AP1S2 X-Linked Intellectual Disability\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"5.50\",\"Tally\":\"5.5\",\"evidence\":{\"publications\":{\"1518185202623\":{\"title\":\"Next-generation sequencing in X-linked intellectual disability.\",\"author\":\"Tzschach A\",\"pubdate\":\"2015 Nov\",\"source\":\"Eur J Hum Genet\",\"uid\":\"25649377\"},\"1518185214765\":{\"title\":\"AP1S2 is mutated in X-linked Dandy-Walker malformation with intellectual disability, basal ganglia disease and seizures (Pettigrew syndrome).\",\"author\":\"Cacciagli P\",\"pubdate\":\"2014 Mar\",\"source\":\"Eur J Hum Genet\",\"uid\":\"23756445\"},\"1518185243269\":{\"title\":\"Clinical, cellular, and neuropathological consequences of AP1S2 mutations: further delineation of a recognizable X-linked mental retardation syndrome.\",\"author\":\"Borck G\",\"pubdate\":\"2008 Jul\",\"source\":\"Hum Mutat\",\"uid\":\"18428203\"},\"1518185262789\":{\"title\":\"Deletion of the AP1S2 gene in a child with psychomotor delay and hypotonia.\",\"author\":\"Ballarati L\",\"pubdate\":\"2012 Feb\",\"source\":\"Eur J Med Genet\",\"uid\":\"22210230\"},\"1518185274060\":{\"title\":\"Mutations in the AP1S2 gene encoding the sigma 2 subunit of the adaptor protein 1 complex are associated with syndromic X-linked mental retardation with hydrocephalus and calcifications in basal ganglia.\",\"author\":\"Saillour Y\",\"pubdate\":\"2007 Nov\",\"source\":\"J Med Genet\",\"uid\":\"17617514\"},\"1518185286644\":{\"title\":\"Mutations in the gene encoding the Sigma 2 subunit of the adaptor protein 1 complex, AP1S2, cause X-linked mental retardation.\",\"author\":\"Tarpey PS\",\"pubdate\":\"2006 Dec\",\"source\":\"Am J Hum Genet\",\"uid\":\"17186471\"},\"1518185299196\":{\"title\":\"Regional localization of a nonspecific X-linked mental retardation gene (MRX59) to Xp21.2-p22.2.\",\"author\":\"Carpenter NJ\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Am J Med Genet\",\"uid\":\"10398241\"},\"1518185306964\":{\"title\":\"Syndromic form of X-linked mental retardation with marked hypotonia in early life, severe mental handicap, and difficult adult behavior maps to Xp22.\",\"author\":\"Turner G\",\"pubdate\":\"2003 Mar 15\",\"source\":\"Am J Med Genet A\",\"uid\":\"12599187\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"7.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1518185380228\":{\"title\":\"Mutations in the gene encoding the Sigma 2 subunit of the adaptor protein 1 complex, AP1S2, cause X-linked mental retardation.\",\"author\":\"Tarpey PS\",\"pubdate\":\"2006 Dec\",\"source\":\"Am J Hum Genet\",\"uid\":\"17186471\"},\"1518185451402\":{\"title\":\"Clinical, cellular, and neuropathological consequences of AP1S2 mutations: further delineation of a recognizable X-linked mental retardation syndrome.\",\"author\":\"Borck G\",\"pubdate\":\"2008 Jul\",\"source\":\"Hum Mutat\",\"uid\":\"18428203\"},\"1518185470682\":{\"title\":\"Mutations in the AP1S2 gene encoding the sigma 2 subunit of the adaptor protein 1 complex are associated with syndromic X-linked mental retardation with hydrocephalus and calcifications in basal ganglia.\",\"author\":\"Saillour Y\",\"pubdate\":\"2007 Nov\",\"source\":\"J Med Genet\",\"uid\":\"17617514\"}},\"notes\":{\"note\":\"\"}}},\"3\":{\"evidence\":{\"publications\":{\"1518185412115\":{\"title\":\"Syndromic form of X-linked mental retardation with marked hypotonia in early life, severe mental handicap, and difficult adult behavior maps to Xp22.\",\"author\":\"Turner G\",\"pubdate\":\"2003 Mar 15\",\"source\":\"Am J Med Genet A\",\"uid\":\"12599187\"},\"1518185427091\":{\"title\":\"New X-linked mental retardation disorder with Dandy-Walker malformation, basal ganglia disease, and seizures.\",\"author\":\"Pettigrew AL\",\"pubdate\":\"1991 Feb-Mar\",\"source\":\"Am J Med Genet\",\"uid\":\"2018058\"},\"1518185436882\":{\"title\":\"AP1S2 is mutated in X-linked Dandy-Walker malformation with intellectual disability, basal ganglia disease and seizures (Pettigrew syndrome).\",\"author\":\"Cacciagli P\",\"pubdate\":\"2014 Mar\",\"source\":\"Eur J Hum Genet\",\"uid\":\"23756445\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"8.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518185344148\":{\"title\":\"AP-1/\\u03c31B-Dependent SV Protein Recycling Is Regulated in Early Endosomes and Is Coupled to AP-2 Endocytosis.\",\"author\":\"Kratzke M\",\"pubdate\":\"2015 Aug\",\"source\":\"Mol Neurobiol\",\"uid\":\"25128028\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"2\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1518185324661\":{\"title\":\"AP-1/sigma1B-adaptin mediates endosomal synaptic vesicle recycling, learning and memory.\",\"author\":\"Glyvuk N\",\"pubdate\":\"2010 Apr 21\",\"source\":\"EMBO J\",\"uid\":\"20203623\"},\"1518185358203\":{\"title\":\"AP-1/\\u03c31A and AP-1/\\u03c31B adaptor-proteins differentially regulate neuronal early endosome maturation via the Rab5/Vps34-pathway.\",\"author\":\"Candiello E\",\"pubdate\":\"2016 Jul 14\",\"source\":\"Sci Rep\",\"uid\":\"27411398\"}},\"notes\":{\"note\":\"\"}}},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"3\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"8.5\",\"ExperimentalEvidenceTotal\":\"3\",\"EvidencePointsTotal\":\"11.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08/16/2017\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"08/16/2017\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"10/20/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1508482800,
-    "dateISO8601": "2017-10-20T00:00:00",
-    "dateFormated": "Oct 20, 2017"
-  },
   "9510": {
     "title": "ATP7A: Menkes Disease",
     "label": "Menkes Disease",
