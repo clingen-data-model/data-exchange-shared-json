@@ -5630,51 +5630,6 @@
     "dateISO8601": "2018-02-07T00:00:00",
     "dateFormated": "Feb 07, 2018"
   },
-  "9511": {
-    "title": "ATRX: ATRX-Related Syndrome",
-    "label": "ATRX-Related Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "886": {
-        "ontology": "HGNC",
-        "curie": "HGNC:886",
-        "uri": "HGNC886"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0010663"
-      },
-      "OMIM309580": {
-        "ontology": "OMIM",
-        "curie": "OMIM:309580",
-        "uri": "OMIM309580",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_309580"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518188698\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"ATRX\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:886\",\"uri\":\"HGNC886\"},\"condition\":{\"name\":\"ATR-X-Related Syndrome\",\"MONDO\":{\"curie\":\"MONDO:0016980\",\"uri\":\"MONDO0016980\"},\"OMIM\":{\"curie\":\"OMIM:309580\",\"uri\":\"OMIM309580\"}},\"title\":\"ATRX ATR-X-Related Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"evidence\":{\"publications\":{\"1518187593925\":{\"title\":\"ATRX syndrome in a girl with a heterozygous mutation in the ATRX Zn finger domain and a totally skewed X-inactivation pattern.\",\"author\":\"Badens C\",\"pubdate\":\"2006 Oct 15\",\"source\":\"Am J Med Genet A\",\"uid\":\"16955409\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"4.00\",\"Tally\":\"4\",\"evidence\":{\"publications\":{\"1518187570060\":{\"title\":\"Alpha-thalassemia intellectual disability: variable phenotypic expression among males with a recurrent nonsense mutation\\u00a0-\\u00a0c.109C>T (p.R37X).\",\"author\":\"Basehore MJ\",\"pubdate\":\"2015 May\",\"source\":\"Clin Genet\",\"uid\":\"24805811\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.50\",\"Tally\":\"1.5\",\"evidence\":{\"publications\":{\"1518187542975\":{\"title\":\"Evaluation of a mutation screening strategy for sporadic cases of ATR-X syndrome.\",\"author\":\"Villard L\",\"pubdate\":\"1999 Mar\",\"source\":\"J Med Genet\",\"uid\":\"10204841\"},\"1518187557125\":{\"title\":\"First case of dizygous twins with X-linked alpha-thalassemia/mental retardation syndrome showing wide clinical variability.\",\"author\":\"Pavone P\",\"pubdate\":\"2010 Apr\",\"source\":\"Pediatr Int\",\"uid\":\"20500465\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"8.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1518187708300\":{\"title\":\"Alpha-thalassemia intellectual disability: variable phenotypic expression among males with a recurrent nonsense mutation\\u00a0-\\u00a0c.109C>T (p.R37X).\",\"author\":\"Basehore MJ\",\"pubdate\":\"2015 May\",\"source\":\"Clin Genet\",\"uid\":\"24805811\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"11.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"1.5\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518187660442\":{\"title\":\"Interaction between chromatin proteins MECP2 and ATRX is disrupted by mutations that cause inherited mental retardation.\",\"author\":\"Nan X\",\"pubdate\":\"2007 Feb 20\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"17296936\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1518187620805\":{\"title\":\"Altered visual function and interneuron survival in Atrx knockout mice: inference for the human syndrome.\",\"author\":\"Medina CF\",\"pubdate\":\"2009 Mar 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"19088125\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"3.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"3\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1518189758585\":{\"title\":\"Reduced expression of the ATRX gene, a chromatin-remodeling factor, causes hippocampal dysfunction in mice.\",\"author\":\"Nogami T\",\"pubdate\":\"2011 Jun\",\"source\":\"Hippocampus\",\"uid\":\"20865721\"}}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"11.5\",\"ExperimentalEvidenceTotal\":\"4.5\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02/09/2018\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"02/07/2018\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/07/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1517990400,
-    "dateISO8601": "2018-02-07T00:00:00",
-    "dateFormated": "Feb 07, 2018"
-  },
   "9512": {
     "title": "CLCN4: X-Linked Intellectual Disability",
     "label": "X-Linked Intellectual Disability",
