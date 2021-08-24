@@ -5450,51 +5450,6 @@
     "dateISO8601": "2016-12-20T16:00:00",
     "dateFormated": "Dec 20, 2016"
   },
-  "9506": {
-    "title": "ABCD1: X-Linked Adrenoleukodystrophy",
-    "label": "X-linked Adrenoleukodystrophy",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "61": {
-        "ontology": "HGNC",
-        "curie": "HGNC:61",
-        "uri": "HGNC61"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0010247"
-      },
-      "OMIM300100": {
-        "ontology": "OMIM",
-        "curie": "OMIM:300100",
-        "uri": "OMIM300100",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_300100"
-      },
-      "ORPHA139396": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:139396",
-        "uri": "ORPHA139396",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_139396"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518464008\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"ABCD1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:61\",\"uri\":\"HGNC61\"},\"condition\":{\"name\":\"Adrenoleukodystrophy\",\"OrphaNet\":{\"curie\":\"ORPHA:139396\",\"uri\":\"ORPHA139396\"},\"MONDO\":{\"curie\":\"MONDO:0018544\",\"uri\":\"MONDO0018544\"},\"OMIM\":{\"curie\":\"OMIM:300100\",\"uri\":\"OMIM300100\"}},\"title\":\"ABCD1 Adrenoleukodystrophy\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"12.00\",\"Tally\":\"12\",\"evidence\":{\"publications\":{\"1518111502546\":{\"title\":\"X-linked adrenoleukodystrophy: ABCD1 de novo mutations and mosaicism.\",\"author\":\"Wang Y\",\"pubdate\":\"2011 Sep-Oct\",\"source\":\"Mol Genet Metab\",\"uid\":\"21700483\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"10.50\",\"Tally\":\"10\",\"evidence\":{\"publications\":{\"1518111479515\":{\"title\":\"X-linked adrenoleukodystrophy in Spain. Identification of 26 novel mutations in the ABCD1 gene in 80 patients. Improvement of genetic counseling in 162 relative females.\",\"author\":\"Coll MJ\",\"pubdate\":\"2005 May\",\"source\":\"Clin Genet\",\"uid\":\"15811009\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"7.50\",\"Tally\":\"7\",\"evidence\":{\"publications\":{\"1518111434443\":{\"title\":\"X-linked adrenoleukodystrophy in Spain. Identification of 26 novel mutations in the ABCD1 gene in 80 patients. Improvement of genetic counseling in 162 relative females.\",\"author\":\"Coll MJ\",\"pubdate\":\"2005 May\",\"source\":\"Clin Genet\",\"uid\":\"15811009\"},\"1518111458753\":{\"title\":\"Mutational and protein analysis of patients and heterozygous women with X-linked adrenoleukodystrophy.\",\"author\":\"Feigenbaum V\",\"pubdate\":\"1996 Jun\",\"source\":\"Am J Hum Genet\",\"uid\":\"8651290\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1518111538025\":{\"title\":\"X-linked adrenoleukodystrophy in Spain. Identification of 26 novel mutations in the ABCD1 gene in 80 patients. Improvement of genetic counseling in 162 relative females.\",\"author\":\"Coll MJ\",\"pubdate\":\"2005 May\",\"source\":\"Clin Genet\",\"uid\":\"15811009\"},\"1518111547768\":{\"title\":\"Altered expression of ALDP in X-linked adrenoleukodystrophy.\",\"author\":\"Watkins PA\",\"pubdate\":\"1995 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"7668254\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"4\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518111595104\":{\"title\":\"Retroviral-mediated gene transfer corrects very-long-chain fatty acid metabolism in adrenoleukodystrophy fibroblasts.\",\"author\":\"Cartier N\",\"pubdate\":\"1995 Feb 28\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"7878038\"}},\"notes\":{\"note\":\"\"}}}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"02/06/2018\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/07/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1518040800,
-    "dateISO8601": "2018-02-07T14:00:00",
-    "dateFormated": "Feb 07, 2018"
-  },
   "9507": {
     "title": "ACSL4: X-Linked Intellectual Disability",
     "label": "X-Linked Intellectual Disability",
