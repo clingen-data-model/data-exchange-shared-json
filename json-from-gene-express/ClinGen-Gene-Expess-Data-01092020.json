@@ -2969,51 +2969,6 @@
     "dateISO8601": "2017-03-02T00:00:00",
     "dateFormated": "Mar 02, 2017"
   },
-  "8402": {
-    "title": "PNPT1: Nonsyndromic sensorineural hearing loss",
-    "label": "Nonsyndromic sensorineural hearing loss",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10007",
-      "name": "Hearing Loss"
-    },
-    "genes": {
-      "23166": {
-        "ontology": "HGNC",
-        "curie": "HGNC:23166",
-        "uri": "HGNC23166"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
-      },
-      "OMIM614934": {
-        "ontology": "OMIM",
-        "curie": "OMIM:614934",
-        "uri": "OMIM614934",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_614934"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"PNPT1\",\"Hgnc\":\"23166\",\"OrphaNet\":\"90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"614934\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in PNPT1, encoding mitochondrial-RNA-import protein PNPase, causes hereditary hearing loss.\",\"author\":\"von Ameln S\",\"pubdate\":\"2012 Nov 2\",\"source\":\"Am J Hum Genet\",\"uid\":\"23084290\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in PNPT1, encoding mitochondrial-RNA-import protein PNPase, causes hereditary hearing loss.\",\"author\":\"von Ameln S\",\"pubdate\":\"2012 Nov 2\",\"source\":\"Am J Hum Genet\",\"uid\":\"23084290\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in PNPT1, encoding mitochondrial-RNA-import protein PNPase, causes hereditary hearing loss.\",\"author\":\"von Ameln S\",\"pubdate\":\"2012 Nov 2\",\"source\":\"Am J Hum Genet\",\"uid\":\"23084290\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1.5\",\"GeneticEvidenceTotal\":\"4\",\"GeneticEvidencePointsTotal\":\"4\",\"ExperimentalEvidencePointsTotal\":\"1.5\",\"EvidencePointsTotal\":\"5.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/18/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"02/23/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hereditary Hearing Loss Working Group\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1487836800,
-    "dateISO8601": "2017-02-23T00:00:00",
-    "dateFormated": "Feb 23, 2017"
-  },
   "8404": {
     "title": "PTPRQ: Nonsyndromic sensorineural hearing loss",
     "label": "Nonsyndromic sensorineural hearing loss",
@@ -5900,51 +5855,6 @@
     "dateISO8601": "2017-06-06T00:00:00",
     "dateFormated": "Jun 06, 2017"
   },
-  "9545": {
-    "title": "CLIC5: nonsyndromic sensorineural deafness",
-    "label": "nonsyndromic sensorineural deafness",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10007",
-      "name": "Hearing Loss"
-    },
-    "genes": {
-      "HGNC:13517": {
-        "ontology": "HGNC",
-        "curie": "HGNC:13517",
-        "uri": "HGNC13517"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019588"
-      },
-      "OMIM616042": {
-        "ontology": "OMIM",
-        "curie": "OMIM:616042",
-        "uri": "OMIM616042",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_616042"
-      },
-      "ORPHA90636": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90636",
-        "uri": "ORPHA90636",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90636"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520284767\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CLIC5\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:13517\",\"uri\":\"HGNC13517\"},\"condition\":{\"name\":\"nonsyndromic sensorineural deafness\",\"OrphaNet\":{\"curie\":\"ORPHA:90636\",\"uri\":\"ORPHA90636\"},\"MONDO\":{\"curie\":\"MONDO:0014469\",\"uri\":\"MONDO0014469\"},\"OMIM\":{\"curie\":\"OMIM:616042\",\"uri\":\"OMIM616042\"}},\"title\":\"CLIC5 nonsyndromic sensorineural deafness\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"0\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1519335203964\":{\"title\":\"Progressive hearing loss and vestibular dysfunction caused by a homozygous nonsense mutation in CLIC5.\",\"author\":\"Seco CZ\",\"pubdate\":\"2015 Feb\",\"source\":\"Eur J Hum Genet\",\"uid\":\"24781754\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"0\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"2\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1519335668425\":{\"title\":\"The chloride intracellular channel protein CLIC5 is expressed at high levels in hair cell stereocilia and is essential for normal inner ear function.\",\"author\":\"Gagnon LH\",\"pubdate\":\"2006 Oct 4\",\"source\":\"J Neurosci\",\"uid\":\"17021174\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1519335649179\":{\"title\":\"Progressive hearing loss and vestibular dysfunction caused by a homozygous nonsense mutation in CLIC5.\",\"author\":\"Seco CZ\",\"pubdate\":\"2015 Feb\",\"source\":\"Eur J Hum Genet\",\"uid\":\"24781754\"},\"1519335674297\":{\"title\":\"The chloride intracellular channel protein CLIC5 is expressed at high levels in hair cell stereocilia and is essential for normal inner ear function.\",\"author\":\"Gagnon LH\",\"pubdate\":\"2006 Oct 4\",\"source\":\"J Neurosci\",\"uid\":\"17021174\"},\"1519335702735\":{\"title\":\"CLIC5 stabilizes membrane-actin filament linkages at the base of hair cell stereocilia in a molecular complex with radixin, taperin, and myosin VI.\",\"author\":\"Salles FT\",\"pubdate\":\"2014 Jan\",\"source\":\"Cytoskeleton (Hoboken)\",\"uid\":\"24285636\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"3.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"3\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1519335670969\":{\"title\":\"The chloride intracellular channel protein CLIC5 is expressed at high levels in hair cell stereocilia and is essential for normal inner ear function.\",\"author\":\"Gagnon LH\",\"pubdate\":\"2006 Oct 4\",\"source\":\"J Neurosci\",\"uid\":\"17021174\"},\"1519335692599\":{\"title\":\"CLIC5 stabilizes membrane-actin filament linkages at the base of hair cell stereocilia in a molecular complex with radixin, taperin, and myosin VI.\",\"author\":\"Salles FT\",\"pubdate\":\"2014 Jan\",\"source\":\"Cytoskeleton (Hoboken)\",\"uid\":\"24285636\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"2\",\"ExperimentalEvidenceTotal\":\"5\",\"EvidencePointsTotal\":\"7\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"10/26/2016\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"11/21/2017\",\"FinalClassificationNotes\":\"The CLIC5 gene has been associated with ARNSHL in 1 proband and 4 publications. 1 unique variant (nonsense) has been reported in humans, and variants in this gene segregated with disease in 1 additional family member. CLIC5 was first associated with this disease in humans in 2015 (Seco et al.). The mechanism for disease appears to be homozygous LOF but this has only been demonstrated in one case. This gene-disease association is supported by expression studies in human and mouse inner ear, a spontaneous mouse model (jbg), and studies supporting that this protein interacts with RDX and TPRN whose products are associated with hearing loss. In summary, there is moderate evidence to support this gene-disease association. While more evidence is needed to establish this association definitively, no convincing contradictory evidence has emerged. This classification was approved by the ClinGen Hearing Loss Working Group on 11/21/2017.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1511251200,
-    "dateISO8601": "2017-11-21T00:00:00",
-    "dateFormated": "Nov 21, 2017"
-  },
   "9547": {
     "title": "TMEM132E: nonsyndromic sensorineural deafness",
     "label": "nonsyndromic sensorineural deafness",
@@ -6169,51 +6079,6 @@
     "date": 1515052800,
     "dateISO8601": "2018-01-04T00:00:00",
     "dateFormated": "Jan 04, 2018"
-  },
-  "9594": {
-    "title": "CRYM: nonsyndromic sensorineural hearing loss",
-    "label": "nonsyndromic sensorineural hearing loss",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10007",
-      "name": "Hearing Loss"
-    },
-    "genes": {
-      "HGNC:2418": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2418",
-        "uri": "HGNC2418"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014603"
-      },
-      "OMIM616357": {
-        "ontology": "OMIM",
-        "curie": "OMIM:616357",
-        "uri": "OMIM616357",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_616357"
-      },
-      "ORPHA90635": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90635",
-        "uri": "ORPHA90635",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90635"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520286282\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CRYM\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:2418\",\"uri\":\"HGNC2418\"},\"condition\":{\"name\":\"nonsyndromic sensorineural hearing loss\",\"OrphaNet\":{\"curie\":\"ORPHA:90635\",\"uri\":\"ORPHA90635\"},\"MONDO\":{\"curie\":\"MONDO:0014603\",\"uri\":\"MONDO0014603\"},\"OMIM\":{\"curie\":\"OMIM:616357\",\"uri\":\"OMIM616357\"}},\"title\":\"CRYM nonsyndromic sensorineural hearing loss\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"2.00\",\"Tally\":\"2\",\"evidence\":{\"publications\":{\"1520286427974\":{\"title\":\"Identification of CRYM as a candidate responsible for nonsyndromic deafness, through cDNA microarray analysis of human cochlear and vestibular tissues.\",\"author\":\"Abe S\",\"pubdate\":\"2003 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"12471561\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1520286426806\":{\"title\":\"Identification of CRYM as a candidate responsible for nonsyndromic deafness, through cDNA microarray analysis of human cochlear and vestibular tissues.\",\"author\":\"Abe S\",\"pubdate\":\"2003 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"12471561\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"0\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"2.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1520286443252\":{\"title\":\"Identification of CRYM as a candidate responsible for nonsyndromic deafness, through cDNA microarray analysis of human cochlear and vestibular tissues.\",\"author\":\"Abe S\",\"pubdate\":\"2003 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"12471561\"},\"1520286472549\":{\"title\":\"CRYM mutations cause deafness through thyroid hormone binding properties in the fibrocytes of the cochlea.\",\"author\":\"Oshima A\",\"pubdate\":\"2006 Jun\",\"source\":\"J Med Genet\",\"uid\":\"16740909\"},\"1520286521097\":{\"title\":\"The localization of proteins encoded by CRYM, KIAA1199, UBA52, COL9A3, and COL9A1, genes highly expressed in the cochlea.\",\"author\":\"Usami S\",\"pubdate\":\"2008 Jun 12\",\"source\":\"Neuroscience\",\"uid\":\"18448257\"},\"1520286539669\":{\"title\":\"Deafness gene expression patterns in the mouse cochlea found by microarray analysis.\",\"author\":\"Yoshimura H\",\"pubdate\":\"2014\",\"source\":\"PLoS One\",\"uid\":\"24676347\"},\"1520286549773\":{\"title\":\"Distinct Expression Patterns Of Causative Genes Responsible For Hereditary Progressive Hearing Loss In Non-Human Primate Cochlea.\",\"author\":\"Hosoya M\",\"pubdate\":\"2016 Feb 26\",\"source\":\"Sci Rep\",\"uid\":\"26915689\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520286468339\":{\"title\":\"CRYM mutations cause deafness through thyroid hormone binding properties in the fibrocytes of the cochlea.\",\"author\":\"Oshima A\",\"pubdate\":\"2006 Jun\",\"source\":\"J Med Genet\",\"uid\":\"16740909\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520286444356\":{\"title\":\"Identification of CRYM as a candidate responsible for nonsyndromic deafness, through cDNA microarray analysis of human cochlear and vestibular tissues.\",\"author\":\"Abe S\",\"pubdate\":\"2003 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"12471561\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"0\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1520286492363\":{\"title\":\"micro-Crystallin as an intracellular 3,5,3\",\"author\":\"Suzuki S\",\"pubdate\":\"2007 Apr\",\"source\":\"Mol Endocrinol\",\"uid\":\"17264173\"}},\"notes\":{\"note\":\"Normal hearing in homozygous knockout mouse\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"3\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"2.5\",\"ExperimentalEvidenceTotal\":\"3\",\"EvidencePointsTotal\":\"5.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"12/16/2016\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"02/16/2017\",\"FinalClassificationNotes\":\"The CRYM gene has been associated with ADNSHL in (at least) 2 probands in 5 publications. 2 unique variants (stop-loss, missense) have been reported in humans, and variants in this gene segregated with disease in 1 additional family member. CRYM was first associated with this disease in humans in 2003 (Abe et al.). This gene-disease association is supported by its expression in mouse and rat inner ear  as well as functional alteration of human variants in COS-7 cells (Usami 2008, Yoshimura 2014, Hosoyoa 2016, and Abe 2003) In summary, there is limited evidence to support this gene-disease association. Although more evidence is needed to support a causal role, no convincing evidence has emerged that contradicts the gene-disease association. Of note, all publications have authors from the same group in Japan. This classification was approved by the ClinGen Hearing Loss Working Group on 2/16/2017.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1487203200,
-    "dateISO8601": "2017-02-16T00:00:00",
-    "dateFormated": "Feb 16, 2017"
   },
   "9595": {
     "title": "CUL4B; X-Linked Intellectual Disability, Cabezas Type",
