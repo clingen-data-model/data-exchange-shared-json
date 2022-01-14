@@ -3602,51 +3602,6 @@
     "dateISO8601": "2016-10-11T00:00:00",
     "dateFormated": "Oct 11, 2016"
   },
-  "8492": {
-    "title": "DNM1: Infantile Epilepsy Syndrome",
-    "label": "Infantile Epilepsy Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10005",
-      "name": "Epilepsy"
-    },
-    "genes": {
-      "HGNC:2972": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2972",
-        "uri": "HGNC2972"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016021"
-      },
-      "OMIM602377": {
-        "ontology": "OMIM",
-        "curie": "OMIM:602377",
-        "uri": "OMIM602377",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_602377"
-      },
-      "ORPHA1934": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:1934",
-        "uri": "ORPHA1934",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_1934"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"DNM1\",\"Hgnc\":\"2972\",\"OrphaNet\":\"ORPHA1934\",\"Disease\":\"Infantile Epilepsy Syndrome \",\"Omim\":\"602377\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"18.0\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"De novo mutations in synaptic transmission genes including DNM1 cause epileptic encephalopathies.\",\"author\":\"EuroEPINOMICS-RES Consortium.\",\"pubdate\":\"2014 Oct 2\",\"source\":\"Am J Hum Genet\",\"uid\":\"25262651\"},{\"title\":\"Early myoclonic encephalopathy in 9q33-q34 deletion encompassing STXBP1 and SPTAN1.\",\"author\":\"Nicita F\",\"pubdate\":\"2015 May\",\"source\":\"Ann Hum Genet\",\"uid\":\"25779878\"},{\"title\":\"De novo mutations in epileptic encephalopathies.\",\"author\":\"Allen AS\",\"pubdate\":\"2013 Sep 12\",\"source\":\"Nature\",\"uid\":\"23934111\"},{\"title\":\"De novo DNM1 mutations in two cases of epileptic encephalopathy.\",\"author\":\"Nakashima M\",\"pubdate\":\"2016 Jan\",\"source\":\"Epilepsia\",\"uid\":\"26611353\"},{\"title\":\"Unexplained early onset epileptic encephalopathy: Exome screening and phenotype expansion.\",\"author\":\"Allen NM\",\"pubdate\":\"2016 Jan\",\"source\":\"Epilepsia\",\"uid\":\"26648591\"},{\"title\":\"Diagnostic exome sequencing provides a molecular diagnosis for a significant proportion of patients with epilepsy.\",\"author\":\"Helbig KL\",\"pubdate\":\"2016 Sep\",\"source\":\"Genet Med\",\"uid\":\"26795593\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in human dynamin block an intermediate stage in coated vesicle formation.\",\"author\":\"van der Bliek AM\",\"pubdate\":\"1993 Aug\",\"source\":\"J Cell Biol\",\"uid\":\"8101525\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Epileptic encephalopathy-causing mutations in DNM1 impair synaptic vesicle endocytosis.\",\"author\":\"Dhindsa RS\",\"pubdate\":\"2015 Jun\",\"source\":\"Neurol Genet\",\"uid\":\"27066543\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.5\",\"tally\":\"2.5\",\"pmid\":{\"publications\":[{\"title\":\"Independent Neuronal Origin of Seizures and Behavioral Comorbidities in an Animal Model of a Severe Childhood Genetic Epileptic Encephalopathy.\",\"author\":\"Asinof SK\",\"pubdate\":\"2015 Jun\",\"source\":\"PLoS Genet\",\"uid\":\"26125563\"},{\"title\":\"A missense mutation in a highly conserved alternate exon of dynamin-1 causes epilepsy in fitful mice.\",\"author\":\"Boumil RM\",\"pubdate\":\"2010 Aug 5\",\"source\":\"PLoS Genet\",\"uid\":\"20700442\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"4.5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"4.5\",\"EvidencePointsTotal\":\"16.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"12/12/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12/13/2016\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1481616000,
-    "dateISO8601": "2016-12-13T00:00:00",
-    "dateFormated": "Dec 13, 2016"
-  },
   "8499": {
     "title": "MYL3: Hypertrophic cardiomyopathy",
     "label": "Hypertrophic cardiomyopathy",
