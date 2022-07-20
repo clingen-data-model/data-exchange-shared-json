@@ -5405,51 +5405,6 @@
     "dateISO8601": "2017-10-20T00:00:00",
     "dateFormated": "Oct 20, 2017"
   },
-  "9508": {
-    "title": "AFF2: Non-Syndromic X-Linked Intellectual Disability",
-    "label": "Non-Syndromic X-Linked Intellectual Disability",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "3776": {
-        "ontology": "HGNC",
-        "curie": "HGNC:3776",
-        "uri": "HGNC3776"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0010659"
-      },
-      "OMIM309548": {
-        "ontology": "OMIM",
-        "curie": "OMIM:309548",
-        "uri": "OMIM309548",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_309548"
-      },
-      "ORPHA777": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:777",
-        "uri": "ORPHA777",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518123607\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"AFF2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:3776\",\"uri\":\"HGNC3776\"},\"condition\":{\"name\":\"Non-Syndromic X-Linked Intellectual Disability\",\"OrphaNet\":{\"curie\":\"ORPHA:777\",\"uri\":\"ORPHA777\"},\"MONDO\":{\"curie\":\"MONDO:100973\",\"uri\":\"MONDO100973\"},\"OMIM\":{\"curie\":\"OMIM:309548\",\"uri\":\"OMIM309548\"}},\"title\":\"AFF2 Non-Syndromic X-Linked Intellectual Disability\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"10.00\",\"Tally\":\"10\",\"evidence\":{\"publications\":{\"1518124260611\":{\"title\":\"Trinucleotide repeat amplification and hypermethylation of a CpG island in FRAXE mental retardation.\",\"author\":\"Knight SJ\",\"pubdate\":\"1993 Jul 16\",\"source\":\"Cell\",\"uid\":\"8334699\"},\"1518124359048\":{\"title\":\"FRAXE and mental retardation.\",\"author\":\"Mulley JC\",\"pubdate\":\"1995 Mar\",\"source\":\"J Med Genet\",\"uid\":\"7783162\"},\"1518124378528\":{\"title\":\"Clinical, cytogenetic, and molecular analysis of three families with FRAXE.\",\"author\":\"Barnicoat AJ\",\"pubdate\":\"1997 Jan\",\"source\":\"J Med Genet\",\"uid\":\"9032643\"},\"1518124392624\":{\"title\":\"Overlapping submicroscopic deletions in Xq28 in two unrelated boys with developmental disorders: identification of a gene near FRAXE.\",\"author\":\"Gedeon AK\",\"pubdate\":\"1995 Apr\",\"source\":\"Am J Hum Genet\",\"uid\":\"7536393\"},\"1518124407432\":{\"title\":\"Screening for FMR1 and FMR2 mutations in 222 individuals from Spanish special schools: identification of a case of FRAXE-associated mental retardation.\",\"author\":\"Mil\\u00e0 M\",\"pubdate\":\"1997 Oct\",\"source\":\"Hum Genet\",\"uid\":\"9341861\"},\"1518124440520\":{\"title\":\"Molecular characterization of FRAXE-positive subjects with mental impairement in two unrelated Italian families.\",\"author\":\"Russo S\",\"pubdate\":\"1998 Jan 23\",\"source\":\"Am J Med Genet\",\"uid\":\"9475603\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"7.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1518124202691\":{\"title\":\"Trinucleotide repeat amplification and hypermethylation of a CpG island in FRAXE mental retardation.\",\"author\":\"Knight SJ\",\"pubdate\":\"1993 Jul 16\",\"source\":\"Cell\",\"uid\":\"8334699\"},\"1518124280362\":{\"title\":\"Triplet repeat expansion at the FRAXE locus and X-linked mild mental handicap.\",\"author\":\"Knight SJ\",\"pubdate\":\"1994 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"8023854\"},\"1518124425760\":{\"title\":\"Molecular characterization of FRAXE-positive subjects with mental impairement in two unrelated Italian families.\",\"author\":\"Russo S\",\"pubdate\":\"1998 Jan 23\",\"source\":\"Am J Med Genet\",\"uid\":\"9475603\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1518124293640\":{\"title\":\"Triplet repeat expansion at the FRAXE locus and X-linked mild mental handicap.\",\"author\":\"Knight SJ\",\"pubdate\":\"1994 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"8023854\"},\"1518124335457\":{\"title\":\"FRAXE and mental retardation.\",\"author\":\"Mulley JC\",\"pubdate\":\"1995 Mar\",\"source\":\"J Med Genet\",\"uid\":\"7783162\"},\"1518124550294\":{\"title\":\"Identification of FMR2, a novel gene associated with the FRAXE CCG repeat and CpG island.\",\"author\":\"Gu Y\",\"pubdate\":\"1996 May\",\"source\":\"Nat Genet\",\"uid\":\"8673086\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518124562390\":{\"title\":\"Loss of FMR2 further emphasizes the link between deregulation of immediate early response genes FOS and JUN and intellectual disability.\",\"author\":\"Melko M\",\"pubdate\":\"2013 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"23562910\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"1.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"1\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1518124574533\":{\"title\":\"FMR2 function: insight from a mouse knockout model.\",\"author\":\"Gu Y\",\"pubdate\":\"2003\",\"source\":\"Cytogenet Genome Res\",\"uid\":\"14526173\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"2.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"2.5\",\"EvidencePointsTotal\":\"14.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08/03/2017\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"08/03/2017\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"10/20/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1508482800,
-    "dateISO8601": "2017-10-20T00:00:00",
-    "dateFormated": "Oct 20, 2017"
-  },
   "9510": {
     "title": "ATP7A: Menkes Disease",
     "label": "Menkes Disease",
