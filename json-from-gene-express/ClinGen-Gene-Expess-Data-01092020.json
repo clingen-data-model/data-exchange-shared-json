@@ -5855,51 +5855,6 @@
     "dateISO8601": "2018-02-21T00:00:00",
     "dateFormated": "Feb 21, 2018"
   },
-  "9554": {
-    "title": "CREBBP; Rubinstein-Taybi Syndrome",
-    "label": "Rubinstein-Taybi Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "2348": {
-        "ontology": "HGNC",
-        "curie": "HGNC:2348",
-        "uri": "HGNC2348"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008393"
-      },
-      "OMIM180849": {
-        "ontology": "OMIM",
-        "curie": "OMIM:180849",
-        "uri": "OMIM180849",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_180849"
-      },
-      "ORPHA783": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:783",
-        "uri": "ORPHA783",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_783"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1519656352\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CREBBP\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:2348\",\"uri\":\"HGNC2348\"},\"condition\":{\"name\":\"Rubinstein-Taybi Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:783\",\"uri\":\"ORPHA783\"},\"MONDO\":{\"curie\":\"MONDO:0019188\",\"uri\":\"MONDO0019188\"},\"OMIM\":{\"curie\":\"OMIM:180849\",\"uri\":\"OMIM180849\"}},\"title\":\"CREBBP Rubinstein-Taybi syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"14.00\",\"Tally\":\"12\",\"evidence\":{\"publications\":{\"1519656454099\":{\"title\":\"Genotype-phenotype correlations in Rubinstein-Taybi syndrome.\",\"author\":\"Schorry EK\",\"pubdate\":\"2008 Oct 1\",\"source\":\"Am J Med Genet A\",\"uid\":\"18792986\"},\"1519656469130\":{\"title\":\"Loss of CBP acetyltransferase activity by PHD finger mutations in Rubinstein-Taybi syndrome.\",\"author\":\"Kalkhoven E\",\"pubdate\":\"2003 Feb 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"12566391\"},\"1519656485994\":{\"title\":\"Molecular analysis of the CBP gene in 60 patients with Rubinstein-Taybi syndrome.\",\"author\":\"Coupry I\",\"pubdate\":\"2002 Jun\",\"source\":\"J Med Genet\",\"uid\":\"12070251\"},\"1519656497122\":{\"title\":\"Defect of histone acetyltransferase activity of the nuclear transcriptional coactivator CBP in Rubinstein-Taybi syndrome.\",\"author\":\"Murata T\",\"pubdate\":\"2001 May 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"11331617\"}}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1519656445907\":{\"title\":\"Genotype-phenotype correlations in Rubinstein-Taybi syndrome.\",\"author\":\"Schorry EK\",\"pubdate\":\"2008 Oct 1\",\"source\":\"Am J Med Genet A\",\"uid\":\"18792986\"}}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"0.00\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"2.50\",\"evidence\":{\"publications\":{\"1519656535298\":{\"title\":\"Loss of CBP acetyltransferase activity by PHD finger mutations in Rubinstein-Taybi syndrome.\",\"author\":\"Kalkhoven E\",\"pubdate\":\"2003 Feb 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"12566391\"},\"1519656553116\":{\"title\":\"Defect of histone acetyltransferase activity of the nuclear transcriptional coactivator CBP in Rubinstein-Taybi syndrome.\",\"author\":\"Murata T\",\"pubdate\":\"2001 May 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"11331617\"}}}},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.00\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"2.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1519656567954\":{\"title\":\"Abnormal skeletal patterning in embryos lacking a single Cbp allele: a partial similarity with Rubinstein-Taybi syndrome.\",\"author\":\"Tanaka Y\",\"pubdate\":\"1997 Sep 16\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"9294190\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1519656604393\":{\"title\":\"A mouse model of Rubinstein-Taybi syndrome: defective long-term memory is ameliorated by inhibitors of phosphodiesterase 4.\",\"author\":\"Bourtchouladze R\",\"pubdate\":\"2003 Sep 2\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"12930888\"}}}},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02/26/2018\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"02/21/2018\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02/21/2018\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1519200000,
-    "dateISO8601": "2018-02-21T00:00:00",
-    "dateFormated": "Feb 21, 2018"
-  },
   "9555": {
     "title": "PHF6; Borjeson-Forssman-Lehmann syndrome",
     "label": "Borjeson-Forssman-Lehmann syndrome",
