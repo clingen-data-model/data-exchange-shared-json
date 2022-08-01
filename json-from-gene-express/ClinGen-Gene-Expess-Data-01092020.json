@@ -584,51 +584,6 @@
     "dateISO8601": "2017-01-09T00:00:00",
     "dateFormated": "Jan 09, 2017"
   },
-  "3217": {
-    "title": "CD3E  Severe combined immunodeficiency",
-    "label": "Severe combined immunodeficiency",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10026",
-      "name": "General Gene Curation"
-    },
-    "genes": {
-      "HGNC:1674": {
-        "ontology": "HGNC",
-        "curie": "HGNC:1674",
-        "uri": "HGNC1674"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015974"
-      },
-      "OMIM615615": {
-        "ontology": "OMIM",
-        "curie": "OMIM:615615",
-        "uri": "OMIM615615",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_615615"
-      },
-      "ORPHA183660": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:183660",
-        "uri": "ORPHA183660",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_183660"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"CD3E\",\"Hgnc\":\"1674\",\"OrphaNet\":\"ORPHA183660\",\"Disease\":\"Severe combined immunodeficiency\",\"Omim\":\"615615\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"6\",\"pmid\":{\"publications\":[{\"title\":\"Independent mutations of the human CD3-epsilon gene resulting in a T cell receptor/CD3 complex immunodeficiency.\",\"author\":\"Soudais C\",\"pubdate\":\"1993 Jan\",\"source\":\"Nat Genet\",\"uid\":\"8490660\"},{\"title\":\"Severe combined immunodeficiency caused by deficiency in either the delta or the epsilon subunit of CD3.\",\"author\":\"de Saint Basile G\",\"pubdate\":\"2004 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"15546002\"},{\"title\":\"Successful haploidentical hematopoietic stem cell transplantation in a patient with SCID due to CD3\\u03b5 deficiency: need for IgG-substitution 6 years later.\",\"author\":\"Fuehrer M\",\"pubdate\":\"2014 May\",\"source\":\"Klin Padiatr\",\"uid\":\"24515816\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"6.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"0.0\",\"tally\":\"0\"}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Pairwise, cooperative and inhibitory interactions describe the assembly and probable structure of the T-cell antigen receptor.\",\"author\":\"Manolios N\",\"pubdate\":\"1991 Jul\",\"source\":\"EMBO J\",\"uid\":\"1828760\"},{\"title\":\"Structural analysis of low TCR-CD3 complex expression in T cells of an immunodeficient patient.\",\"author\":\"Thoenes G\",\"pubdate\":\"1992 Jan 5\",\"source\":\"J Biol Chem\",\"uid\":\"1370449\"},{\"title\":\"Successful haploidentical hematopoietic stem cell transplantation in a patient with SCID due to CD3\\u03b5 deficiency: need for IgG-substitution 6 years later.\",\"author\":\"Fuehrer M\",\"pubdate\":\"2014 May\",\"source\":\"Klin Padiatr\",\"uid\":\"24515816\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Severe combined immunodeficiency caused by deficiency in either the delta or the epsilon subunit of CD3.\",\"author\":\"de Saint Basile G\",\"pubdate\":\"2004 Nov\",\"source\":\"J Clin Invest\",\"uid\":\"15546002\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"A block in both early T lymphocyte and natural killer cell development in transgenic mice with high-copy numbers of the human CD3E gene.\",\"author\":\"Wang B\",\"pubdate\":\"1994 Sep 27\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"7937778\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5.5\",\"GeneticEvidenceTotal\":\"6\",\"GeneticEvidencePointsTotal\":\"6\",\"ExperimentalEvidencePointsTotal\":\"5.5\",\"EvidencePointsTotal\":\"11.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"05/26/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01/09/2017\",\"FinalClassificationNotes\":\"Expert agrees with decision to round up to \\\"Definitive,\\\" and is aware of additional unpublished genetic evidence to corroborate this claim.\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1483948800,
-    "dateISO8601": "2017-01-09T00:00:00",
-    "dateFormated": "Jan 09, 2017"
-  },
   "3220": {
     "title": "CHD1L  Renal or urinary tract malformation (CAKUT)",
     "label": "Renal or urinary tract malformation (CAKUT)",
@@ -1168,51 +1123,6 @@
     "date": 1482048000,
     "dateISO8601": "2016-12-18T00:00:00",
     "dateFormated": "Dec 18, 2016"
-  },
-  "5479": {
-    "title": "SMARCA1 Coffin-Siris syndrome",
-    "label": "Coffin-Siris syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10026",
-      "name": "General Gene Curation"
-    },
-    "genes": {
-      "HGNC:11097": {
-        "ontology": "HGNC",
-        "curie": "HGNC:11097",
-        "uri": "HGNC11097"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0015452"
-      },
-      "OMIM": {
-        "ontology": "OMIM",
-        "curie": "OMIM:",
-        "uri": "OMIM",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_"
-      },
-      "ORPHA1465": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:1465",
-        "uri": "ORPHA1465",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_1465"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"SMARCA1\",\"Hgnc\":\"HGNC:11097\",\"OrphaNet\":\"ORPHA:1465\",\"Disease\":\"Coffin-Siris Syndrome\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Genes that Affect Brain Structure and Function Identified by Rare Variant Analyses of Mendelian Neurologic Disease.\",\"author\":\"Karaca E\",\"pubdate\":\"2015 Nov 4\",\"source\":\"Neuron\",\"uid\":\"26539891\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Identification of novel genetic causes of Rett syndrome-like phenotypes.\",\"author\":\"Lopes F\",\"pubdate\":\"2016 Mar\",\"source\":\"J Med Genet\",\"uid\":\"26740508\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Identification of novel genetic causes of Rett syndrome-like phenotypes.\",\"author\":\"Lopes F\",\"pubdate\":\"2016 Mar\",\"source\":\"J Med Genet\",\"uid\":\"26740508\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"1.5\",\"GeneticEvidencePointsTotal\":\"1.5\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"4.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"06/14/2016\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"06/14/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"11/15/2016\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1479196800,
-    "dateISO8601": "2016-11-15T00:00:00",
-    "dateFormated": "Nov 15, 2016"
   },
   "5610": {
     "title": "CDH23 Usher Syndrome Type 1",
@@ -5900,51 +5810,6 @@
     "dateISO8601": "2018-02-21T00:00:00",
     "dateFormated": "Feb 21, 2018"
   },
-  "9593": {
-    "title": "MCM2: nonsyndromic sensorineural deafness",
-    "label": "nonsyndromic sensorineural deafness",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10007",
-      "name": "Hearing Loss"
-    },
-    "genes": {
-      "6944": {
-        "ontology": "HGNC",
-        "curie": "HGNC:6944",
-        "uri": "HGNC6944"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0014853"
-      },
-      "OMIM616968": {
-        "ontology": "OMIM",
-        "curie": "OMIM:616968",
-        "uri": "OMIM616968",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_616968"
-      },
-      "ORPHA90635": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:90635",
-        "uri": "ORPHA90635",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_90635"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1520282954\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"MCM2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:6944\",\"uri\":\"HGNC6944\"},\"condition\":{\"name\":\"autosomal dominant nonsyndromic deafness 70 \",\"OrphaNet\":{\"curie\":\"ORPHA:90635\",\"uri\":\"ORPHA90635\"},\"MONDO\":{\"curie\":\"MONDO:0014853\",\"uri\":\"MONDO0014853\"},\"OMIM\":{\"curie\":\"OMIM:616968\",\"uri\":\"OMIM616968\"}},\"title\":\"MCM2 autosomal dominant nonsyndromic deafness 70 \",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1520282803619\":{\"title\":\"Whole Exome Sequencing Identified MCM2 as a Novel Causative Gene for Autosomal Dominant Nonsyndromic Deafness in a Chinese Family.\",\"author\":\"Gao J\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26196677\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"1\":{\"evidence\":{\"publications\":{\"1520282815738\":{\"title\":\"Whole Exome Sequencing Identified MCM2 as a Novel Causative Gene for Autosomal Dominant Nonsyndromic Deafness in a Chinese Family.\",\"author\":\"Gao J\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26196677\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"0\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"2\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520282835969\":{\"title\":\"Whole Exome Sequencing Identified MCM2 as a Novel Causative Gene for Autosomal Dominant Nonsyndromic Deafness in a Chinese Family.\",\"author\":\"Gao J\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26196677\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1520282841857\":{\"title\":\"Whole Exome Sequencing Identified MCM2 as a Novel Causative Gene for Autosomal Dominant Nonsyndromic Deafness in a Chinese Family.\",\"author\":\"Gao J\",\"pubdate\":\"2015\",\"source\":\"PLoS One\",\"uid\":\"26196677\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"0\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"2\",\"ExperimentalEvidenceTotal\":\"1\",\"EvidencePointsTotal\":\"3\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10/18/2016\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"03/29/2017\",\"FinalClassificationNotes\":\"The MCM2 gene has been associated with ADNSHL in 1 probands in 1 publication. 1 unique variant (missense) has been reported in humans, and the variant in this gene segregated with disease in 8 additional family members. MCM2 was first associated with this disease in humans in 2015 (Gao et al.). This gene-disease association is supported by its expression in guinea pig cochlea and the increase in apoptotic activity reported by Gao et al. resulting from variation induced by the human p.R44C variant in HEK293 cells. While this indicates the impact of the variant on the protien, this change in the apoptotic pathway's relation to auditory pathways is not clear. In summary, there is limited evidence to support this gene-disease association. Although more evidence is needed to support a causal role, no convincing evidence has emerged that contradicts the gene-disease association. This classification was approved by the ClinGen Hearing Loss Working Group on 3/29/2017.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1515052800,
-    "dateISO8601": "2018-01-04T00:00:00",
-    "dateFormated": "Jan 04, 2018"
-  },
   "9595": {
     "title": "CUL4B; X-Linked Intellectual Disability, Cabezas Type",
     "label": "X-Linked Intellectual Disability, Cabezas Type",
@@ -6216,51 +6081,6 @@
     "dateISO8601": "2018-03-26T00:00:00",
     "dateFormated": "Mar 26, 2018"
   },
-  "9848": {
-    "title": "MLH1: Lynch Syndrome",
-    "label": "Lynch Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "7127": {
-        "ontology": "HGNC",
-        "curie": "HGNC:7127",
-        "uri": "HGNC7127"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0012249"
-      },
-      "OMIM609310": {
-        "ontology": "OMIM",
-        "curie": "OMIM:609310",
-        "uri": "OMIM609310",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_609310"
-      },
-      "ORPHA144": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:144",
-        "uri": "ORPHA144",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_144"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MLH1\",\"Hgnc\":\"7127\",\"OrphaNet\":\"144\",\"Disease\":\"Lynch Syndrome\",\"Omim\":\"609310\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"5.5\",\"tally\":\"5.5\",\"pmid\":{\"publications\":[{\"title\":\"Aberrant splicing in MLH1 and MSH2 due to exonic and intronic variants.\",\"author\":\"Pagenstecher C\",\"pubdate\":\"2006 Mar\",\"source\":\"Hum Genet\",\"uid\":\"16341550\"},{\"title\":\"Mutation in the DNA mismatch repair gene homologue hMLH1 is associated with hereditary non-polyposis colon cancer.\",\"author\":\"Bronner CE\",\"pubdate\":\"1994 Mar 17\",\"source\":\"Nature\",\"uid\":\"8145827\"}],\"notes\":{\"note\":\"\"}}},\"VariantIsDeNovo\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Germ line mutations of hMSH2 and hMLH1 genes in Japanese families with hereditary nonpolyposis colorectal cancer (HNPCC): usefulness of DNA analysis for screening and diagnosis of HNPCC patients.\",\"author\":\"Miyaki M\",\"pubdate\":\"1995 Oct\",\"source\":\"J Mol Med (Berl)\",\"uid\":\"8581513\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Mutation in the DNA mismatch repair gene homologue hMLH1 is associated with hereditary non-polyposis colon cancer.\",\"author\":\"Bronner CE\",\"pubdate\":\"1994 Mar 17\",\"source\":\"Nature\",\"uid\":\"8145827\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"5.0\",\"tally\":\"5\",\"pmid\":{\"publications\":[{\"title\":\"Rare disruptive mutations and their contribution to the heritable risk of colorectal cancer.\",\"author\":\"Chubb D\",\"pubdate\":\"2016 Jun 22\",\"source\":\"Nat Commun\",\"uid\":\"27329137\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Characterization of MLH1 and MSH2 alternative splicing and its relevance to molecular testing of colorectal cancer susceptibility.\",\"author\":\"Genuardi M\",\"pubdate\":\"1998 Jan\",\"source\":\"Hum Genet\",\"uid\":\"9490293\"},{\"title\":\"The interaction of the human MutL homologues in hereditary nonpolyposis colon cancer.\",\"author\":\"Guerrette S\",\"pubdate\":\"1999 Mar 5\",\"source\":\"J Biol Chem\",\"uid\":\"10037723\"},{\"title\":\"Endonucleolytic function of MutLalpha in human mismatch repair.\",\"author\":\"Kadyrov FA\",\"pubdate\":\"2006 Jul 28\",\"source\":\"Cell\",\"uid\":\"16873062\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Tumour susceptibility and spontaneous mutation in mice deficient in Mlh1, Pms1 and Pms2 DNA mismatch repair.\",\"author\":\"Prolla TA\",\"pubdate\":\"1998 Mar\",\"source\":\"Nat Genet\",\"uid\":\"9500552\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Tumour susceptibility and spontaneous mutation in mice deficient in Mlh1, Pms1 and Pms2 DNA mismatch repair.\",\"author\":\"Prolla TA\",\"pubdate\":\"1998 Mar\",\"source\":\"Nat Genet\",\"uid\":\"9500552\"},{\"title\":\"Restoration of mismatch repair to nuclear extracts of H6 colorectal tumor cells by a heterodimer of human MutL homologs.\",\"author\":\"Li GM\",\"pubdate\":\"1995 Mar 14\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"7892206\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"07/10/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"07/10/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1499670000,
-    "dateISO8601": "2017-07-10T00:00:00",
-    "dateFormated": "Jul 10, 2017"
-  },
   "9849": {
     "title": "MSH2: Lynch Syndrome",
     "label": "Lynch Syndrome",
@@ -6390,51 +6210,6 @@
     "dateISO8601": "2017-06-26T00:00:00",
     "dateFormated": "Jun 26, 2017"
   },
-  "9852": {
-    "title": "EPCAM: Lynch Syndrome",
-    "label": "Lynch Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "11529": {
-        "ontology": "HGNC",
-        "curie": "HGNC:11529",
-        "uri": "HGNC11529"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0013196"
-      },
-      "OMIM613244": {
-        "ontology": "OMIM",
-        "curie": "OMIM:613244",
-        "uri": "OMIM613244",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_613244"
-      },
-      "ORPHA144": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:144",
-        "uri": "ORPHA144",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_144"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"EPCAM\",\"Hgnc\":\"11529\",\"OrphaNet\":\"144\",\"Disease\":\"Lynch Syndrome\",\"Omim\":\"613244\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"8.0\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"Heritable somatic methylation and inactivation of MSH2 in families with Lynch syndrome due to deletion of the 3\",\"author\":\"Ligtenberg MJ\",\"pubdate\":\"2009 Jan\",\"source\":\"Nat Genet\",\"uid\":\"19098912\"},{\"title\":\"Heritable germline epimutation of MSH2 in a family with hereditary nonpolyposis colorectal cancer.\",\"author\":\"Chan TL\",\"pubdate\":\"2006 Oct\",\"source\":\"Nat Genet\",\"uid\":\"16951683\"},{\"title\":\"Deletions removing the last exon of TACSTD1 constitute a distinct class of mutations predisposing to Lynch syndrome.\",\"author\":\"Kovacs ME\",\"pubdate\":\"2009 Feb\",\"source\":\"Hum Mutat\",\"uid\":\"19177550\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Identification of a founder EPCAM deletion in Spanish Lynch syndrome families.\",\"author\":\"Mur P\",\"pubdate\":\"2014 Mar\",\"source\":\"Clin Genet\",\"uid\":\"23530899\"},{\"title\":\"Heritable somatic methylation and inactivation of MSH2 in families with Lynch syndrome due to deletion of the 3\",\"author\":\"Ligtenberg MJ\",\"pubdate\":\"2009 Jan\",\"source\":\"Nat Genet\",\"uid\":\"19098912\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics.\",\"author\":\"Fagerberg L\",\"pubdate\":\"2014 Feb\",\"source\":\"Mol Cell Proteomics\",\"uid\":\"24309898\"},{\"title\":\"Epithelial cell adhesion molecule regulation is associated with the maintenance of the undifferentiated phenotype of human embryonic stem cells.\",\"author\":\"Lu TY\",\"pubdate\":\"2010 Mar 19\",\"source\":\"J Biol Chem\",\"uid\":\"20064925\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Heritable somatic methylation and inactivation of MSH2 in families with Lynch syndrome due to deletion of the 3\",\"author\":\"Ligtenberg MJ\",\"pubdate\":\"2009 Jan\",\"source\":\"Nat Genet\",\"uid\":\"19098912\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"4\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"4\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09/11/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09/11/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1505113200,
-    "dateISO8601": "2017-09-11T00:00:00",
-    "dateFormated": "Sep 11, 2017"
-  },
   "9853": {
     "title": "PMS1: Colorectal cancer Susceptibility",
     "label": "Colorectal cancer Susceptibility",
@@ -6479,51 +6254,6 @@
     "date": 1495436400,
     "dateISO8601": "2017-05-22T00:00:00",
     "dateFormated": "May 22, 2017"
-  },
-  "9854": {
-    "title": "APC: Familial Adenomatous Polyposis",
-    "label": "Familial Adenomatous Polyposis",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "583": {
-        "ontology": "HGNC",
-        "curie": "HGNC:583",
-        "uri": "HGNC583"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016613"
-      },
-      "OMIM175100": {
-        "ontology": "OMIM",
-        "curie": "OMIM:175100",
-        "uri": "OMIM175100",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_175100"
-      },
-      "ORPHA247806": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:247806",
-        "uri": "ORPHA247806",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_247806"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"APC\",\"Hgnc\":\"583\",\"OrphaNet\":\"247806\",\"Disease\":\"Familial Adenomatous  Polyposis\",\"Omim\":\"175100\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"10.0\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Regionally clustered APC mutations are associated with a severe phenotype and occur at a high frequency in new mutation cases of adenomatous polyposis coli.\",\"author\":\"Gayther SA\",\"pubdate\":\"1994 Jan\",\"source\":\"Hum Mol Genet\",\"uid\":\"8162051\"}],\"notes\":{\"note\":\"\"}}},\"VariantIsDeNovo\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Regionally clustered APC mutations are associated with a severe phenotype and occur at a high frequency in new mutation cases of adenomatous polyposis coli.\",\"author\":\"Gayther SA\",\"pubdate\":\"1994 Jan\",\"source\":\"Hum Mol Genet\",\"uid\":\"8162051\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"The APC gene product in normal and tumor cells.\",\"author\":\"Smith KJ\",\"pubdate\":\"1993 Apr 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8385345\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Alteration of beta-catenin expression in colonic epithelial cells of familial adenomatous polyposis patients.\",\"author\":\"Inomata M\",\"pubdate\":\"1996 May 1\",\"source\":\"Cancer Res\",\"uid\":\"8616874\"},{\"title\":\"The tumour suppressor gene product APC blocks cell cycle progression from G0/G1 to S phase.\",\"author\":\"Baeg GH\",\"pubdate\":\"1995 Nov 15\",\"source\":\"EMBO J\",\"uid\":\"8521819\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"A targeted chain-termination mutation in the mouse Apc gene results in multiple intestinal tumors.\",\"author\":\"Fodde R\",\"pubdate\":\"1994 Sep 13\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8090754\"},{\"title\":\"Loss of Apc heterozygosity and abnormal tissue building in nascent intestinal polyps in mice carrying a truncated Apc gene.\",\"author\":\"Oshima M\",\"pubdate\":\"1995 May 9\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"7753829\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09/11/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09/11/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1505113200,
-    "dateISO8601": "2017-09-11T00:00:00",
-    "dateFormated": "Sep 11, 2017"
   },
   "9855": {
     "title": "MUTYH: MUTYH associated Polyposis",
@@ -6704,51 +6434,6 @@
     "date": 1512979200,
     "dateISO8601": "2017-12-11T00:00:00",
     "dateFormated": "Dec 11, 2017"
-  },
-  "9860": {
-    "title": "MLH3: Colorectal cancer Susceptibility",
-    "label": "Colorectal cancer Susceptibility",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "7128": {
-        "ontology": "HGNC",
-        "curie": "HGNC:7128",
-        "uri": "HGNC7128"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
-      },
-      "OMIM614385": {
-        "ontology": "OMIM",
-        "curie": "OMIM:614385",
-        "uri": "OMIM614385",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_614385"
-      },
-      "ORPHA443909": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:443909",
-        "uri": "ORPHA443909",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_443909"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"MLH3\",\"Hgnc\":\"7128\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"614385\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"2.0\",\"tally\":\"2\"},\"VariantIsDeNovo\":{\"value\":\"3.0\",\"tally\":\"3\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Evidence that hMLH3 functions primarily in meiosis and in hMSH2-hMSH3 mismatch repair.\",\"author\":\"Charbonneau N\",\"pubdate\":\"2009 Jul\",\"source\":\"Cancer Biol Ther\",\"uid\":\"19483466\"},{\"title\":\"Conditional nuclear localization of hMLH3 suggests a minor activity in mismatch repair and supports its role as a low-risk gene in HNPCC.\",\"author\":\"Korhonen MK\",\"pubdate\":\"2007 Feb\",\"source\":\"Oncol Rep\",\"uid\":\"17203173\"},{\"title\":\"Expression of the MutL homologue hMLH3 in human cells and its role in DNA mismatch repair.\",\"author\":\"Cannavo E\",\"pubdate\":\"2005 Dec 1\",\"source\":\"Cancer Res\",\"uid\":\"16322221\"},{\"title\":\"Expression of the MutL homologue hMLH3 in human cells and its role in DNA mismatch repair.\",\"author\":\"Cannavo E\",\"pubdate\":\"2005 Dec 1\",\"source\":\"Cancer Res\",\"uid\":\"16322221\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Biochemical characterization of MLH3 missense mutations does not reveal an apparent role of MLH3 in Lynch syndrome.\",\"author\":\"Ou J\",\"pubdate\":\"2009 Apr\",\"source\":\"Genes Chromosomes Cancer\",\"uid\":\"19156873\"},{\"title\":\"The first functional study of MLH3 mutations found in cancer patients.\",\"author\":\"Korhonen MK\",\"pubdate\":\"2008 Sep\",\"source\":\"Genes Chromosomes Cancer\",\"uid\":\"18521850\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Contributions by MutL homologues Mlh3 and Pms2 to DNA mismatch repair and tumor suppression in the mouse.\",\"author\":\"Chen PC\",\"pubdate\":\"2005 Oct 1\",\"source\":\"Cancer Res\",\"uid\":\"16204034\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5\",\"GeneticEvidenceTotal\":\"5\",\"GeneticEvidencePointsTotal\":\"5\",\"ExperimentalEvidencePointsTotal\":\"5\",\"EvidencePointsTotal\":\"10\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"02/14/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"02/14/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1487059200,
-    "dateISO8601": "2017-02-14T00:00:00",
-    "dateFormated": "Feb 14, 2017"
   },
   "9861": {
     "title": "ATM: Colorectal cancer Susceptibility",
@@ -8459,51 +8144,6 @@
     "date": 1507752000,
     "dateISO8601": "2017-10-11T13:00:00",
     "dateFormated": "Oct 11, 2017"
-  },
-  "10061": {
-    "title": "MYBPC3:Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10008",
-      "name": "Hypertrophic Cardiomyopathy"
-    },
-    "genes": {
-      "HGNC:7551": {
-        "ontology": "HGNC",
-        "curie": "HGNC:7551",
-        "uri": "HGNC7551"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0007268"
-      },
-      "OMIM115197": {
-        "ontology": "OMIM",
-        "curie": "OMIM:115197",
-        "uri": "OMIM115197",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_115197"
-      },
-      "ORPHA": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:",
-        "uri": "ORPHA",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1527819372\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"MYBPC3\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:7551\",\"uri\":\"HGNC7551\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:115197\",\"uri\":\"OMIM115197\"}},\"title\":\"MYBPC3 Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"6.50\",\"Tally\":\"6.5\",\"evidence\":{\"publications\":{\"1527819606023\":{\"title\":\"Myofilament protein gene mutation screening and outcome of patients with hypertrophic cardiomyopathy.\",\"author\":\"Olivotto I\",\"pubdate\":\"2008 Jun\",\"source\":\"Mayo Clin Proc\",\"uid\":\"18533079\"},\"1527819643988\":{\"title\":\"Mutations in the gene for cardiac myosin-binding protein C and late-onset familial hypertrophic cardiomyopathy.\",\"author\":\"Niimura H\",\"pubdate\":\"1998 Apr 30\",\"source\":\"N Engl J Med\",\"uid\":\"9562578\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1527819620860\":{\"title\":\"Mutations in the cardiac myosin binding protein-C gene on chromosome 11 cause familial hypertrophic cardiomyopathy.\",\"author\":\"Watkins H\",\"pubdate\":\"1995 Dec\",\"source\":\"Nat Genet\",\"uid\":\"7493025\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.50\",\"Tally\":\"1.5\",\"1\":{\"evidence\":{\"publications\":{\"1527819684930\":{\"title\":\"Mutations in the cardiac myosin binding protein-C gene on chromosome 11 cause familial hypertrophic cardiomyopathy.\",\"author\":\"Watkins H\",\"pubdate\":\"1995 Dec\",\"source\":\"Nat Genet\",\"uid\":\"7493025\"}},\"notes\":{\"note\":\"eLOD= 1.8, candidate\"}}},\"2\":{\"evidence\":{\"publications\":{\"1527819736414\":{\"title\":\"Mutations in the gene for cardiac myosin-binding protein C and late-onset familial hypertrophic cardiomyopathy.\",\"author\":\"Niimura H\",\"pubdate\":\"1998 Apr 30\",\"source\":\"N Engl J Med\",\"uid\":\"9562578\"}},\"notes\":{\"note\":\"Published LOD= 7.12, candidate\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"2\",\"AggregateVariantAnalysis\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1527819774678\":{\"title\":\"Reassessment of Mendelian gene pathogenicity using 7,855 cardiomyopathy cases and 60,706 reference samples.\",\"author\":\"Walsh R\",\"pubdate\":\"2017 Feb\",\"source\":\"Genet Med\",\"uid\":\"27532257\"}},\"notes\":{\"note\":\"\"}}}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"10.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527819837898\":{\"title\":\"Cardiac myosin-binding protein C (MYBPC3) in cardiac pathophysiology.\",\"author\":\"Carrier L\",\"pubdate\":\"2015 Dec 1\",\"source\":\"Gene\",\"uid\":\"26358504\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527819807921\":{\"title\":\"Cardiac myosin-binding protein C (MYBPC3) in cardiac pathophysiology.\",\"author\":\"Carrier L\",\"pubdate\":\"2015 Dec 1\",\"source\":\"Gene\",\"uid\":\"26358504\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527819856823\":{\"title\":\"Cardiac myosin binding protein C gene is specifically expressed in heart during murine and human development.\",\"author\":\"Fougerousse F\",\"pubdate\":\"1998 Jan 9-23\",\"source\":\"Circ Res\",\"uid\":\"9440712\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1527819973528\":{\"title\":\"Contractile dysfunction in a mouse model expressing a heterozygous MYBPC3 mutation associated with hypertrophic cardiomyopathy.\",\"author\":\"Barefield D\",\"pubdate\":\"2014 Mar\",\"source\":\"Am J Physiol Heart Circ Physiol\",\"uid\":\"24464755\"},\"1527820029106\":{\"title\":\"Comparison of two murine models of familial hypertrophic cardiomyopathy.\",\"author\":\"McConnell BK\",\"pubdate\":\"2001 Mar 2\",\"source\":\"Circ Res\",\"uid\":\"11230104\"},\"1527820072413\":{\"title\":\"Asymmetric septal hypertrophy in heterozygous cMyBP-C null mice.\",\"author\":\"Carrier L\",\"pubdate\":\"2004 Aug 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"15249187\"},\"1527820111832\":{\"title\":\"Hypertrophic cardiomyopathy in cardiac myosin binding protein-C knockout mice.\",\"author\":\"Harris SP\",\"pubdate\":\"2002 Mar 22\",\"source\":\"Circ Res\",\"uid\":\"11909824\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"10.5\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"16.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"12/18/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09/05/2017\",\"FinalClassificationNotes\":\"Approved by the ClinGen Hypertrophic cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1504641600,
-    "dateISO8601": "2017-09-05T13:00:00",
-    "dateFormated": "Sep 05, 2017"
   },
   "10062": {
     "title": "SLC25A4: Mitochondrial syndrome",
