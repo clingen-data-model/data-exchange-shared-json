@@ -6390,51 +6390,6 @@
     "dateISO8601": "2017-10-23T00:00:00",
     "dateFormated": "Oct 23, 2017"
   },
-  "9859": {
-    "title": "ENG: Colorectal cancer/Polyposis Susceptibility",
-    "label": "Colorectal cancer/Polyposis Susceptibility",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "3349": {
-        "ontology": "HGNC",
-        "curie": "HGNC:3349",
-        "uri": "HGNC3349"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008276"
-      },
-      "OMIM": {
-        "ontology": "OMIM",
-        "curie": "OMIM:",
-        "uri": "OMIM",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_"
-      },
-      "ORPHA329971": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:329971",
-        "uri": "ORPHA329971",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_329971"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"ENG\",\"Hgnc\":\"3349\",\"OrphaNet\":\"329971\",\"Disease\":\"Colorectal cancer/Polyposis Susceptbility\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.0\",\"tally\":\"0.2\",\"pmid\":{\"publications\":[{\"title\":\"Prevalence of germline PTEN, BMPR1A, SMAD4, STK11, and ENG mutations in patients with moderate-load colorectal polyps.\",\"author\":\"Ngeow J\",\"pubdate\":\"2013 Jun\",\"source\":\"Gastroenterology\",\"uid\":\"23399955\"},{\"title\":\"Molecular classification of patients with unexplained hamartomatous and hyperplastic polyposis.\",\"author\":\"Sweet K\",\"pubdate\":\"2005 Nov 16\",\"source\":\"JAMA\",\"uid\":\"16287957\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Syndecan-1, Epithelial-Mesenchymal Transition Markers (E-cadherin/\\u03b2-catenin) and Neoangiogenesis-related Proteins (PCAM-1 and Endoglin) in Colorectal Cancer.\",\"author\":\"Mitselou A\",\"pubdate\":\"2016 May\",\"source\":\"Anticancer Res\",\"uid\":\"27127133\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"0.2\",\"GeneticEvidencePointsTotal\":\"0.2\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"1.2\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"12/11/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"12/11/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1512979200,
-    "dateISO8601": "2017-12-11T00:00:00",
-    "dateFormated": "Dec 11, 2017"
-  },
   "9861": {
     "title": "ATM: Colorectal cancer Susceptibility",
     "label": "Colorectal cancer Susceptibility",
