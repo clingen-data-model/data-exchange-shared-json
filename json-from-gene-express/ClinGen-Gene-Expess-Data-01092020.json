@@ -5450,51 +5450,6 @@
     "dateISO8601": "2017-12-06T00:00:00",
     "dateFormated": "Dec 06, 2017"
   },
-  "9515": {
-    "title": "FTSJ1: Non-Syndromic X-Linked Intellectual Disability",
-    "label": "Non-Syndromic X-Linked Intellectual Disability",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10006",
-      "name": "Intellectual Disability and Autism"
-    },
-    "genes": {
-      "13254": {
-        "ontology": "HGNC",
-        "curie": "HGNC:13254",
-        "uri": "HGNC13254"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019181"
-      },
-      "OMIM309549": {
-        "ontology": "OMIM",
-        "curie": "OMIM:309549",
-        "uri": "OMIM309549",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_309549"
-      },
-      "ORPHA777": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:777",
-        "uri": "ORPHA777",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_777"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1518471237\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"FTSJ1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:13254\",\"uri\":\"HGNC13254\"},\"condition\":{\"name\":\"Non-sydromic X-Linked Intellectual Disability\",\"OrphaNet\":{\"curie\":\"ORPHA:777\",\"uri\":\"ORPHA777\"},\"MONDO\":{\"curie\":\"MONDO:0019181\",\"uri\":\"MONDO0019181\"},\"OMIM\":{\"curie\":\"OMIM:309549\",\"uri\":\"OMIM309549\"}},\"title\":\"FTSJ1 Non-sydromic X-Linked Intellectual Disability\",\"scoreJson\":{\"ModeOfInheritance\":\"X-linked inheritance (HP:0001417)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"7.00\",\"Tally\":\"7\",\"evidence\":{\"publications\":{\"1518448477243\":{\"title\":\"A splice site mutation in the methyltransferase gene FTSJ1 in Xp11.23 is associated with non-syndromic mental retardation in a large Belgian family (MRX9).\",\"author\":\"Ramser J\",\"pubdate\":\"2004 Sep\",\"source\":\"J Med Genet\",\"uid\":\"15342698\"},\"1518448484178\":{\"title\":\"Localization of a gene responsible for nonspecific mental retardation (MRX9) to the pericentromeric region of the X chromosome.\",\"author\":\"Willems P\",\"pubdate\":\"1993 Nov\",\"source\":\"Genomics\",\"uid\":\"8288232\"},\"1518448495186\":{\"title\":\"Family MRX9 revisited: further evidence for locus heterogeneity in MRX.\",\"author\":\"Winnepenninckx B\",\"pubdate\":\"2002 Sep 15\",\"source\":\"Am J Med Genet\",\"uid\":\"12239714\"},\"1518448897278\":{\"title\":\"A loss-of-function mutation in the FTSJ1 gene causes nonsyndromic X-linked mental retardation in a Japanese family.\",\"author\":\"Takano K\",\"pubdate\":\"2008 Jun 5\",\"source\":\"Am J Med Genet B Neuropsychiatr Genet\",\"uid\":\"18081026\"}},\"notes\":{\"note\":\"\"}}},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1518448608992\":{\"title\":\"Four families (MRX43, MRX44, MRX45, MRX52) with nonspecific X-linked mental retardation: clinical and psychometric data and results of linkage analysis.\",\"author\":\"Hamel BC\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Am J Med Genet\",\"uid\":\"10398246\"},\"1518448851464\":{\"title\":\"Mutations in the FTSJ1 gene coding for a novel S-adenosylmethionine-binding protein cause nonsyndromic X-linked mental retardation.\",\"author\":\"Freude K\",\"pubdate\":\"2004 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"15162322\"},\"1518448865208\":{\"title\":\"Defects in tRNA Anticodon Loop 2\",\"author\":\"Guy MP\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26310293\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"0.00\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"7.00\",\"Tally\":\"3\",\"1\":{\"evidence\":{\"publications\":{\"1518448517857\":{\"title\":\"A splice site mutation in the methyltransferase gene FTSJ1 in Xp11.23 is associated with non-syndromic mental retardation in a large Belgian family (MRX9).\",\"author\":\"Ramser J\",\"pubdate\":\"2004 Sep\",\"source\":\"J Med Genet\",\"uid\":\"15342698\"},\"1518448530856\":{\"title\":\"Four families (MRX43, MRX44, MRX45, MRX52) with nonspecific X-linked mental retardation: clinical and psychometric data and results of linkage analysis.\",\"author\":\"Hamel BC\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Am J Med Genet\",\"uid\":\"10398246\"},\"1518448815113\":{\"title\":\"Mutations in the FTSJ1 gene coding for a novel S-adenosylmethionine-binding protein cause nonsyndromic X-linked mental retardation.\",\"author\":\"Freude K\",\"pubdate\":\"2004 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"15162322\"}},\"notes\":{\"note\":\"\"}}},\"2\":{\"evidence\":{\"publications\":{\"1518448599394\":{\"title\":\"Four families (MRX43, MRX44, MRX45, MRX52) with nonspecific X-linked mental retardation: clinical and psychometric data and results of linkage analysis.\",\"author\":\"Hamel BC\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Am J Med Genet\",\"uid\":\"10398246\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"0.00\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"11\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.00\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"0.00\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1518448724464\":{\"title\":\"Mutations in the FTSJ1 gene coding for a novel S-adenosylmethionine-binding protein cause nonsyndromic X-linked mental retardation.\",\"author\":\"Freude K\",\"pubdate\":\"2004 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"15162322\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1518448692568\":{\"title\":\"Defects in tRNA Anticodon Loop 2\",\"author\":\"Guy MP\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26310293\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"NonPatientCells\":{\"Value\":\"0.00\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.00\"},\"CellCultureModel\":{\"Value\":\"0.00\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"0.00\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.00\"},\"RescueInCellCultureModel\":{\"Value\":\"0.00\"},\"RescueInPatientCell\":{\"Value\":\"0.00\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"11\",\"ExperimentalEvidenceTotal\":\"1.5\",\"EvidencePointsTotal\":\"12.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02/12/2018\",\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"01/17/2018\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"01/17/2018\",\"FinalClassificationNotes\":\"The segregation evidence in the curation was provided in two publications. The first publication (PMID: 15342698) in family MRX9 is calculated by GCI with LOD 1.8. The second publication (PMID: 15162322) in family MRX44 has author-generated LOD 2.9 by a previous publication studying the same family (PMID:10398246). Because the two LOD scores calculated were by sequencing of candidate gene, instead of exome/genome or sequencing all genes in the linkage regions, the LOD score should be adjusted according to the revised SOP. The segregation point given to the corrected summed LOD (4.7) should be 1 point. This will bring to total score of the curation to 10.5, which should be categorized as MODERATE.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1516176000,
-    "dateISO8601": "2018-01-17T00:00:00",
-    "dateFormated": "Jan 17, 2018"
-  },
   "9518": {
     "title": "HUWE1: Syndromic X-Linked Intellectual Disability",
     "label": "Syndromic X-Linked Intellectual Disability",
