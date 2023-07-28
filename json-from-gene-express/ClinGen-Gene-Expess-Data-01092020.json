@@ -8370,51 +8370,6 @@
     "dateISO8601": "2018-04-02T00:00:00",
     "dateFormated": "Apr 02, 2018"
   },
-  "10077": {
-    "title": "TTN: Hypertrophic cardiomyopathy",
-    "label": "Hypertrophic cardiomyopathy",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10008",
-      "name": "Hypertrophic Cardiomyopathy"
-    },
-    "genes": {
-      "HGNC:12403": {
-        "ontology": "HGNC",
-        "curie": "HGNC:12403",
-        "uri": "HGNC12403"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0005045"
-      },
-      "OMIM191039": {
-        "ontology": "OMIM",
-        "curie": "OMIM:191039",
-        "uri": "OMIM191039",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_191039"
-      },
-      "ORPHA217569": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:217569",
-        "uri": "ORPHA217569",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_217569"
-      }
-    },
-    "scores": {
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "",
-    "scoreJsonSerializedSop5": "{\"iri\":\"http://www.clinicalgenome.org/gci-lite/1528164512\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"TTN\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:12403\",\"uri\":\"HGNC12403\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:191039\",\"uri\":\"OMIM191039\"}},\"title\":\"TTN Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1528164577413\":{\"title\":\"Combination of Whole Genome Sequencing, Linkage, and Functional Studies Implicates a Missense Mutation in Titin as a Cause of Autosomal Dominant Cardiomyopathy With Features of Left Ventricular Noncompaction.\",\"author\":\"Hastings R\",\"pubdate\":\"2016 Oct\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"27625337\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"1\":{\"evidence\":{\"publications\":{\"1528164585508\":{\"title\":\"Combination of Whole Genome Sequencing, Linkage, and Functional Studies Implicates a Missense Mutation in Titin as a Cause of Autosomal Dominant Cardiomyopathy With Features of Left Ventricular Noncompaction.\",\"author\":\"Hastings R\",\"pubdate\":\"2016 Oct\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"27625337\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528164913267\":{\"title\":\"Molecular mechanisms of sarcomere dysfunction in dilated and hypertrophic cardiomyopathy.\",\"author\":\"Frazier AH\",\"pubdate\":\"2011 Jan 1\",\"source\":\"Prog Pediatr Cardiol\",\"uid\":\"21297871\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1528164673542\":{\"title\":\"A molecular map of the interactions between titin and myosin-binding protein C. Implications for sarcomeric assembly in familial hypertrophic cardiomyopathy.\",\"author\":\"Freiburg A\",\"pubdate\":\"1996 Jan 15\",\"source\":\"Eur J Biochem\",\"uid\":\"8631348\"},\"1528164783814\":{\"title\":\"Tcap gene mutations in hypertrophic cardiomyopathy and dilated cardiomyopathy.\",\"author\":\"Hayashi T\",\"pubdate\":\"2004 Dec 7\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"15582318\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"1.50\",\"evidence\":{\"publications\":{\"1528165070518\":{\"title\":\"Proteomics. Tissue-based map of the human proteome.\",\"author\":\"Uhl\\u00e9n M\",\"pubdate\":\"2015 Jan 23\",\"source\":\"Science\",\"uid\":\"25613900\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"1.5\",\"NonPatientCells\":{\"Value\":\"1.50\",\"evidence\":{\"publications\":{\"1528164718688\":{\"title\":\"Structural analysis of the titin gene in hypertrophic cardiomyopathy: identification of a novel disease gene.\",\"author\":\"Satoh M\",\"pubdate\":\"1999 Aug 27\",\"source\":\"Biochem Biophys Res Commun\",\"uid\":\"10462489\"},\"1528165106221\":{\"title\":\"Cardiac ankyrin repeat protein gene (ANKRD1) mutations in hypertrophic cardiomyopathy.\",\"author\":\"Arimura T\",\"pubdate\":\"2009 Jul 21\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"19608031\"},\"1528165135110\":{\"title\":\"Combination of Whole Genome Sequencing, Linkage, and Functional Studies Implicates a Missense Mutation in Titin as a Cause of Autosomal Dominant Cardiomyopathy With Features of Left Ventricular Noncompaction.\",\"author\":\"Hastings R\",\"pubdate\":\"2016 Oct\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"27625337\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"1.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"1\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1528164850781\":{\"title\":\"Cardiac hypertrophy and reduced contractility in hearts deficient in the titin kinase region.\",\"author\":\"Peng J\",\"pubdate\":\"2007 Feb 13\",\"source\":\"Circulation\",\"uid\":\"17261657\"},\"1528164876039\":{\"title\":\"Truncation of titin\",\"author\":\"Granzier HL\",\"pubdate\":\"2009 Sep 11\",\"source\":\"Circ Res\",\"uid\":\"19679835\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"4.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"1.5\",\"ExperimentalEvidenceTotal\":\"4.5\",\"EvidencePointsTotal\":\"6\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"12/14/2017\",\"FinalClassificationNotes\":\"This classification was approved by the Hypertrophic Cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}",
-    "file": null,
-    "date": 1513238400,
-    "dateISO8601": "2017-12-14T00:00:00",
-    "dateFormated": "Dec 14, 2017"
-  },
   "10080": {
     "title": "ATM: Familial ovarian cancer",
     "label": "Familial ovarian cancer",
