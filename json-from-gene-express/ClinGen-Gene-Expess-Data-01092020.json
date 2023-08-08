@@ -404,51 +404,6 @@
     "dateISO8601": "2016-11-30T00:00:00",
     "dateFormated": "Nov 30, 2016"
   },
-  "3212": {
-    "title": "DICER1  Pleuropulmonary blastoma",
-    "label": "Pleuropulmonary blastoma",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10026",
-      "name": "General Gene Curation"
-    },
-    "genes": {
-      "HGNC:17098": {
-        "ontology": "HGNC",
-        "curie": "HGNC:17098",
-        "uri": "HGNC17098"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0011014"
-      },
-      "OMIM601200": {
-        "ontology": "OMIM",
-        "curie": "OMIM:601200",
-        "uri": "OMIM601200",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_601200"
-      },
-      "ORPHA64742": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:64742",
-        "uri": "ORPHA64742",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_64742"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"DICER1\",\"Hgnc\":\"17098\",\"OrphaNet\":\"ORPHA64742\",\"Disease\":\"Pleuropulmonary Blastoma\",\"Omim\":\"601200\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"12.0\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"DICER1 mutations in familial pleuropulmonary blastoma.\",\"author\":\"Hill DA\",\"pubdate\":\"2009 Aug 21\",\"source\":\"Science\",\"uid\":\"19556464\"},{\"title\":\"DICER1 mutations in embryonal rhabdomyosarcomas from children with and without familial PPB-tumor predisposition syndrome.\",\"author\":\"Doros L\",\"pubdate\":\"2012 Sep\",\"source\":\"Pediatr Blood Cancer\",\"uid\":\"22180160\"},{\"title\":\"Nasal chondromesenchymal hamartomas arise secondary to germline and somatic mutations of DICER1 in the pleuropulmonary blastoma tumor predisposition disorder.\",\"author\":\"Stewart DR\",\"pubdate\":\"2014 Nov\",\"source\":\"Hum Genet\",\"uid\":\"25118636\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"DICER1 mutations in familial pleuropulmonary blastoma.\",\"author\":\"Hill DA\",\"pubdate\":\"2009 Aug 21\",\"source\":\"Science\",\"uid\":\"19556464\"},{\"title\":\"Dicer function is essential for lung epithelium morphogenesis.\",\"author\":\"Harris KS\",\"pubdate\":\"2006 Feb 14\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"16452165\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Dicer function is essential for lung epithelium morphogenesis.\",\"author\":\"Harris KS\",\"pubdate\":\"2006 Feb 14\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"16452165\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"4\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"4\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"05/06/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01/08/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1483862400,
-    "dateISO8601": "2017-01-08T00:00:00",
-    "dateFormated": "Jan 08, 2017"
-  },
   "3213": {
     "title": "PALB2  Hereditary breast cancer",
     "label": "Hereditary breast cancer",
