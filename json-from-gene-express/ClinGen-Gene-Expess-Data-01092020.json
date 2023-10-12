@@ -6120,51 +6120,6 @@
     "dateISO8601": "2017-06-12T00:00:00",
     "dateFormated": "Jun 12, 2017"
   },
-  "9856": {
-    "title": "SMAD4: Juvenile Polyposis Syndrome",
-    "label": "Juvenile Polyposis Syndrome",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "6770": {
-        "ontology": "HGNC",
-        "curie": "HGNC:6770",
-        "uri": "HGNC6770"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0008276"
-      },
-      "OMIM174900": {
-        "ontology": "OMIM",
-        "curie": "OMIM:174900",
-        "uri": "OMIM174900",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_174900"
-      },
-      "ORPHA329971": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:329971",
-        "uri": "ORPHA329971",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_329971"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"SMAD4\",\"Hgnc\":\"6770\",\"OrphaNet\":\"329971\",\"Disease\":\"Juvenile Polyposis Syndrome\",\"Omim\":\"174900\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"The prevalence of MADH4 and BMPR1A mutations in juvenile polyposis and absence of BMPR2, BMPR1B, and ACVR1 mutations.\",\"author\":\"Howe JR\",\"pubdate\":\"2004 Jul\",\"source\":\"J Med Genet\",\"uid\":\"15235019\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"7.5\",\"tally\":\"7.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the SMAD4/DPC4 gene in juvenile polyposis.\",\"author\":\"Howe JR\",\"pubdate\":\"1998 May 15\",\"source\":\"Science\",\"uid\":\"9582123\"},{\"title\":\"A gene for familial juvenile polyposis maps to chromosome 18q21.1.\",\"author\":\"Howe JR\",\"pubdate\":\"1998 May\",\"source\":\"Am J Hum Genet\",\"uid\":\"9545410\"},{\"title\":\"The prevalence of MADH4 and BMPR1A mutations in juvenile polyposis and absence of BMPR2, BMPR1B, and ACVR1 mutations.\",\"author\":\"Howe JR\",\"pubdate\":\"2004 Jul\",\"source\":\"J Med Genet\",\"uid\":\"15235019\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the SMAD4/DPC4 gene in juvenile polyposis.\",\"author\":\"Howe JR\",\"pubdate\":\"1998 May 15\",\"source\":\"Science\",\"uid\":\"9582123\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Smad4 acts as tumor suppressor by antagonizing lymphangiogenesis in colorectal cancer.\",\"author\":\"Liu Y\",\"pubdate\":\"2015 Apr\",\"source\":\"Pathol Res Pract\",\"uid\":\"25680269\"},{\"title\":\"Smad-dependent and Smad-independent pathways in TGF-beta family signalling.\",\"author\":\"Derynck R\",\"pubdate\":\"2003 Oct 9\",\"source\":\"Nature\",\"uid\":\"14534577\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Targeted deletion of Smad4 shows it is required for transforming growth factor beta and activin signaling in colorectal cancer cells.\",\"author\":\"Zhou S\",\"pubdate\":\"1998 Mar 3\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"9482899\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Intestinal tumorigenesis in compound mutant mice of both Dpc4 (Smad4) and Apc genes.\",\"author\":\"Takaku K\",\"pubdate\":\"1998 Mar 6\",\"source\":\"Cell\",\"uid\":\"9506519\"},{\"title\":\"Smad4 acts as tumor suppressor by antagonizing lymphangiogenesis in colorectal cancer.\",\"author\":\"Liu Y\",\"pubdate\":\"2015 Apr\",\"source\":\"Pathol Res Pract\",\"uid\":\"25680269\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"06/26/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"06/26/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1498460400,
-    "dateISO8601": "2017-06-26T00:00:00",
-    "dateFormated": "Jun 26, 2017"
-  },
   "9857": {
     "title": "RNF43: Sessile Serrated Polyposis Cancer Syndrome",
     "label": "Sessile Serrated Polyposis Cancer Syndrome",
