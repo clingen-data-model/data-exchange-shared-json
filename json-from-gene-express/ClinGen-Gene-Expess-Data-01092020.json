@@ -44,51 +44,6 @@
     "dateISO8601": "2017-01-25T00:00:00",
     "dateFormated": "Jan 25, 2017"
   },
-  "3202": {
-    "title": "RAD51C  Fanconi anemia",
-    "label": "Fanconi anemia",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10026",
-      "name": "General Gene Curation"
-    },
-    "genes": {
-      "HGNC:9820": {
-        "ontology": "HGNC",
-        "curie": "HGNC:9820",
-        "uri": "HGNC9820"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0019391"
-      },
-      "OMIM613390": {
-        "ontology": "OMIM",
-        "curie": "OMIM:613390",
-        "uri": "OMIM613390",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_613390"
-      },
-      "ORPHA84": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:84",
-        "uri": "ORPHA84",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_84"
-      }
-    },
-    "scores": {
-      "3976": {
-        "label": "Moderate"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"RAD51C\",\"Hgnc\":\"9820\",\"OrphaNet\":\"ORPHA84\",\"Disease\":\"Fanconi anemia\",\"Omim\":\"613390\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of the RAD51C gene in a Fanconi anemia-like disorder.\",\"author\":\"Vaz F\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400963\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of the RAD51C gene in a Fanconi anemia-like disorder.\",\"author\":\"Vaz F\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400963\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Distinct roles of FANCO/RAD51C protein in DNA damage signaling and repair: implications for Fanconi anemia and breast cancer susceptibility.\",\"author\":\"Somyajit K\",\"pubdate\":\"2012 Jan 27\",\"source\":\"J Biol Chem\",\"uid\":\"22167183\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"3.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of the RAD51C gene in a Fanconi anemia-like disorder.\",\"author\":\"Vaz F\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400963\"},{\"title\":\"Distinct roles of FANCO/RAD51C protein in DNA damage signaling and repair: implications for Fanconi anemia and breast cancer susceptibility.\",\"author\":\"Somyajit K\",\"pubdate\":\"2012 Jan 27\",\"source\":\"J Biol Chem\",\"uid\":\"22167183\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of the RAD51C gene in a Fanconi anemia-like disorder.\",\"author\":\"Vaz F\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400963\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5.5\",\"GeneticEvidenceTotal\":\"2\",\"GeneticEvidencePointsTotal\":\"2\",\"ExperimentalEvidencePointsTotal\":\"5.5\",\"EvidencePointsTotal\":\"7.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"06/01/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"01/05/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1483603200,
-    "dateISO8601": "2017-01-05T00:00:00",
-    "dateFormated": "Jan 05, 2017"
-  },
   "3205": {
     "title": "RPS10  Diamond-Blackfan anemia",
     "label": "Diamond-Blackfan anemia",
@@ -3059,54 +3014,6 @@
     "dateISO8601": "2016-11-08T00:00:00",
     "dateFormated": "Nov 08, 2016"
   },
-  "8432": {
-    "title": "EXO1: Colorectal cancer Susceptibility",
-    "label": "Colorectal cancer Susceptibility",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10043",
-      "name": "Colon Cancer"
-    },
-    "genes": {
-      "HGNC:3511": {
-        "ontology": "HGNC",
-        "curie": "HGNC:3511",
-        "uri": "HGNC3511"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0018630"
-      },
-      "OMIM": {
-        "ontology": "OMIM",
-        "curie": "OMIM:",
-        "uri": "OMIM",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_"
-      },
-      "ORPHA443909": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:443909",
-        "uri": "ORPHA443909",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_443909"
-      }
-    },
-    "scores": {
-      "3980": {
-        "label": "Contradictory (disputed)"
-      },
-      "3974": {
-        "label": "Limited"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"EXO1\",\"Hgnc\":\"3511\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Identification of factors interacting with hMSH2 in the fetal liver utilizing the yeast two-hybrid system. In vivo interaction through the C-terminal domains of hEXO1 and hMSH2 and comparative expression analysis.\",\"author\":\"Rasmussen LJ\",\"pubdate\":\"2000 Jun 30\",\"source\":\"Mutat Res\",\"uid\":\"10856833\"},{\"title\":\"HNPCC mutations in the human DNA mismatch repair gene hMLH1 influence assembly of hMutLalpha and hMLH1-hEXO1 complexes.\",\"author\":\"J\\u00e4ger AC\",\"pubdate\":\"2001 Jun 14\",\"source\":\"Oncogene\",\"uid\":\"11429708\"},{\"title\":\"Functional alterations of human exonuclease 1 mutants identified in atypical hereditary nonpolyposis colorectal cancer syndrome.\",\"author\":\"Sun X\",\"pubdate\":\"2002 Nov 1\",\"source\":\"Cancer Res\",\"uid\":\"12414623\"},{\"title\":\"Molecular characteristics of mismatch repair genes in sporadic colorectal tumors in Czech patients.\",\"author\":\"Vymetalkova VP\",\"pubdate\":\"2014 Jan 31\",\"source\":\"BMC Med Genet\",\"uid\":\"24484585\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Tumor progression in Apc(1638N) mice with Exo1 and Fen1 deficiencies.\",\"author\":\"Kucherlapati M\",\"pubdate\":\"2007 Sep 20\",\"source\":\"Oncogene\",\"uid\":\"17452984\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"ValidContradictoryEvidence\":{\"YesNo\":\"YES\",\"pmid\":{\"publications\":{\"1523543953916\":{\"title\":\"EXO1 variants occur commonly in normal population: evidence against a role in hereditary nonpolyposis colorectal cancer.\",\"author\":\"Jagmohan-Changur S\",\"pubdate\":\"2003 Jan 1\",\"source\":\"Cancer Res\",\"uid\":\"12517792\"}},\"notes\":{\"note\":\"\"}}},\"summary\":{\"ExperimentalEvidenceTotal\":\"2.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"2.5\",\"EvidencePointsTotal\":\"2.5\",\"CalculatedClassification\":\"CONFLICTING EVIDENCE REPORTED\",\"CalculatedClassificationDate\":\"11/22/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11/22/2016\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1496905200,
-    "dateISO8601": "2017-06-08T00:00:00",
-    "dateFormated": "Jun 08, 2017"
-  },
   "8433": {
     "title": "CDH1: Hereditary colorectal cancer",
     "label": "Hereditary colorectal cancer",
@@ -3421,51 +3328,6 @@
     "date": 1475564400,
     "dateISO8601": "2016-10-04T00:00:00",
     "dateFormated": "Oct 04, 2016"
-  },
-  "8502": {
-    "title": "CDH1: Hereditary breast cancer",
-    "label": "Hereditary breast cancer",
-    "type": "clinicalValidity",
-    "affiliation": {
-      "id": "10042",
-      "name": "Breast/Ovarian Cancer"
-    },
-    "genes": {
-      "1748": {
-        "ontology": "HGNC",
-        "curie": "HGNC:1748",
-        "uri": "HGNC1748"
-      }
-    },
-    "conditions": {
-      "MONDO": {
-        "ontology": "MONDO",
-        "iri": "http://purl.obolibrary.org/obo/MONDO_0016419"
-      },
-      "OMIM114480": {
-        "ontology": "OMIM",
-        "curie": "OMIM:114480",
-        "uri": "OMIM114480",
-        "iri": "http://purl.obolibrary.org/obo/OMIM_114480"
-      },
-      "ORPHA26106": {
-        "ontology": "ORPHA",
-        "curie": "ORPHA:26106",
-        "uri": "ORPHA26106",
-        "iri": "http://www.orpha.net/ORDO/Orphanet_26106"
-      }
-    },
-    "scores": {
-      "3979": {
-        "label": "Definitive"
-      }
-    },
-    "scoreJsonSerialized": "{\"data\":{\"Gene\":\"CDH1\",\"Hgnc\":\"1748\",\"OrphaNet\":\"26106\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"114480\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"10.0\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutations of the E-cadherin gene in families with inherited invasive lobular breast carcinoma but no diffuse gastric cancer.\",\"author\":\"Xie ZM\",\"pubdate\":\"2011 Jul 15\",\"source\":\"Cancer\",\"uid\":\"21271559\"},{\"title\":\"Hereditary Diffuse Gastric Cancer Syndrome: CDH1 Mutations and Beyond.\",\"author\":\"Hansford S\",\"pubdate\":\"2015 Apr\",\"source\":\"JAMA Oncol\",\"uid\":\"26182300\"},{\"title\":\"CDH1 germline mutations and the hereditary diffuse gastric and lobular breast cancer syndrome: a multicentre study.\",\"author\":\"Benusiglio PR\",\"pubdate\":\"2013 Jul\",\"source\":\"J Med Genet\",\"uid\":\"23709761\"},{\"title\":\"Germline CDH1 mutations in bilateral lobular carcinoma in situ.\",\"author\":\"Petridis C\",\"pubdate\":\"2014 Feb 18\",\"source\":\"Br J Cancer\",\"uid\":\"24366306\"},{\"title\":\"Germline E-cadherin mutations in familial lobular breast cancer.\",\"author\":\"Masciari S\",\"pubdate\":\"2007 Nov\",\"source\":\"J Med Genet\",\"uid\":\"17660459\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutations of the E-cadherin gene in families with inherited invasive lobular breast carcinoma but no diffuse gastric cancer.\",\"author\":\"Xie ZM\",\"pubdate\":\"2011 Jul 15\",\"source\":\"Cancer\",\"uid\":\"21271559\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Clinical evaluation of a multiple-gene sequencing panel for hereditary cancer risk assessment.\",\"author\":\"Kurian AW\",\"pubdate\":\"2014 Jul 1\",\"source\":\"J Clin Oncol\",\"uid\":\"24733792\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Point mutation of the E-cadherin gene in invasive lobular carcinoma of the breast.\",\"author\":\"Kanai Y\",\"pubdate\":\"1994 Oct\",\"source\":\"Jpn J Cancer Res\",\"uid\":\"7961105\"},{\"title\":\"E-cadherin-mediated cell-cell adhesion prevents invasiveness of human carcinoma cells.\",\"author\":\"Frixen UH\",\"pubdate\":\"1991 Apr\",\"source\":\"J Cell Biol\",\"uid\":\"2007622\"},{\"title\":\"Inhibitory phosphorylation of the APC regulator Hct1 is controlled by the kinase Cdc28 and the phosphatase Cdc14.\",\"author\":\"Jaspersen SL\",\"pubdate\":\"1999 Mar 11\",\"source\":\"Curr Biol\",\"uid\":\"10074450\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"E-cadherin promotor methylation and mutation are inversely related to motility capacity of breast cancer cells.\",\"author\":\"van Horssen R\",\"pubdate\":\"2012 Nov\",\"source\":\"Breast Cancer Res Treat\",\"uid\":\"23053649\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"E-cadherin-mediated cell-cell adhesion prevents invasiveness of human carcinoma cells.\",\"author\":\"Frixen UH\",\"pubdate\":\"1991 Apr\",\"source\":\"J Cell Biol\",\"uid\":\"2007622\"},{\"title\":\"Somatic inactivation of E-cadherin and p53 in mice leads to metastatic lobular mammary carcinoma through induction of anoikis resistance and angiogenesis.\",\"author\":\"Derksen PW\",\"pubdate\":\"2006 Nov\",\"source\":\"Cancer Cell\",\"uid\":\"17097565\"},{\"title\":\"The importance of E-cadherin binding partners to evaluate the pathogenicity of E-cadherin missense mutations associated to HDGC.\",\"author\":\"Figueiredo J\",\"pubdate\":\"2013 Mar\",\"source\":\"Eur J Hum Genet\",\"uid\":\"22850631\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"01/25/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01/25/2017\",\"FinalClassificationNotes\":\"\"}}",
-    "scoreJsonSerializedSop5": "",
-    "file": null,
-    "date": 1485331200,
-    "dateISO8601": "2017-01-25T00:00:00",
-    "dateFormated": "Jan 25, 2017"
   },
   "8503": {
     "title": "CDH1: Familial ovarian cancer",
