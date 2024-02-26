@@ -1,6 +1,8 @@
 # ATTENTION - GENE EXPRESS JSON DATA
 This repo needs to remain availbale without changes to the name (URL) to ensure the Gene Express Data is abilable.  The legacy data is available https://github.com/clingen-data-model/data-exchange-shared-json/blob/master/json-from-gene-express/ClinGen-Gene-Expess-Data-03272019.json
 
+A new file has been added with the above data decorated with entrez_ids to facilitate genegraph 2 implementation: gci-express-with-entrez-ids.json Please update both files until Genegraph 2 rollout is complete.
+
 # Overview
 This repository has been developed to collaborate on the data schema that is share data from the interfaces to the ClinGen website based on the current display and existing database structure.  A goal is to harmonize the data structure between existing manually entered data structure with data curated in the interfaces in an effort to expedite the work.  Note, a robust Common ClinGen Data Model is planned for phase 2. 
 
