@@ -154,37 +154,6 @@
   "dateFormated":"Nov 21, 2017",
   "scoreJsonSerializedSop5":
   "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530666718\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"TRPM4\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:17993\",\"uri\":\"HGNC17993\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"TRPM4 Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.25\",\"Tally\":\"2.25\",\"evidence\":{\"publications\":{\"1530666462400\":{\"title\":\"Brugada ECG pattern: a physiopathological prospective study based on clinical, electrophysiological, angiographic, and genetic findings.\",\"author\":\"Duthoit G\",\"pubdate\":\"2012\",\"source\":\"Front Physiol\",\"uid\":\"23293604\"},\"1530666491255\":{\"title\":\"Molecular genetics and functional anomalies in a series of 248 Brugada cases with 11 mutations in the TRPM4 channel.\",\"author\":\"Liu H\",\"pubdate\":\"2013\",\"source\":\"PLoS One\",\"uid\":\"23382873\"},\"1530666520819\":{\"title\":\"Mutation Load of Multiple Ion Channel Gene Mutations in Brugada Syndrome.\",\"author\":\"Gualandi F\",\"pubdate\":\"2017\",\"source\":\"Cardiology\",\"uid\":\"28494446\"},\"1530666668437\":{\"title\":\"Mutational spectrum in the Ca(2+)\u2014activated cation channel gene TRPM4 in patients with cardiac conductance disturbances.\",\"author\":\"Stallmeyer B\",\"pubdate\":\"2012 Jan\",\"source\":\"Hum Mutat\",\"uid\":\"21887725\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"2.25\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.50\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"0.5\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530666559902\":{\"title\":\"Increased \\u03b2-adrenergic inotropy in ventricular myocardium from Trpm4-\/- mice.\",\"author\":\"Mathar I\",\"pubdate\":\"2014 Jan 17\",\"source\":\"Circ Res\",\"uid\":\"24226423\"},\"1530666578764\":{\"title\":\"TRPM4 channels in the cardiovascular system.\",\"author\":\"Kruse M\",\"pubdate\":\"2014 Apr\",\"source\":\"Curr Opin Pharmacol\",\"uid\":\"24721656\"},\"1530666703731\":{\"title\":\"Trpm4 gene invalidation leads to cardiac hypertrophy and electrophysiological alterations.\",\"author\":\"Demion M\",\"pubdate\":\"2014\",\"source\":\"PLoS One\",\"uid\":\"25531103\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"0.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"2.25\",\"ExperimentalEvidenceTotal\":\"0.5\",\"EvidencePointsTotal\":\"2.75\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"07\/09\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "8696":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"HGNC:9816":
-   {"ontology":"HGNC", "curie":"HGNC:9816", "uri":"HGNC9816"}},
-  "title":"RAD50: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"RAD50\",\"Hgnc\":\"9816\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"ValidContradictoryEvidence\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"0\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"0\",\"EvidencePointsTotal\":\"0\",\"CalculatedClassification\":\"CONFLICTING EVIDENCE REPORTED\",\"CalculatedClassificationDate\":\"10\/26\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"12\/13\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1477465200,
-  "file":null,
-  "dateISO8601":"2016-10-26T00:00:00",
-  "entrez_id":"10111",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Oct 26, 2016",
-  "scoreJsonSerializedSop5":""},
  "8257":
  {"affiliation":
   {"id":"10044",
@@ -1410,37 +1379,6 @@
   "scores":{"3975":{"label":"No Reported Evidence"}},
   "dateFormated":"Feb 08, 2017",
   "scoreJsonSerializedSop5":""},
- "9864":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"10729":
-   {"ontology":"HGNC", "curie":"HGNC:10729", "uri":"HGNC10729"}},
-  "title":"SEMA4A: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"SEMA4A\",\"Hgnc\":\"10729\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.6\",\"tally\":\"0.6\",\"pmid\":{\"publications\":[{\"title\":\"Germline variants in the SEMA4A gene predispose to familial colorectal cancer type X.\",\"author\":\"Schulz E\",\"pubdate\":\"2014 Oct 13\",\"source\":\"Nat Commun\",\"uid\":\"25307848\"}],\"notes\":{\"note\":\"\"}}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Germline variants in the SEMA4A gene predispose to familial colorectal cancer type X.\",\"author\":\"Schulz E\",\"pubdate\":\"2014 Oct 13\",\"source\":\"Nat Commun\",\"uid\":\"25307848\"}],\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Exome Sequencing Identifies Biallelic MSH3 Germline Mutations as a Recessive Subtype of Colorectal Adenomatous Polyposis.\",\"author\":\"Adam R\",\"pubdate\":\"2016 Aug 4\",\"source\":\"Am J Hum Genet\",\"uid\":\"27476653\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Germline variants in the SEMA4A gene predispose to familial colorectal cancer type X.\",\"author\":\"Schulz E\",\"pubdate\":\"2014 Oct 13\",\"source\":\"Nat Commun\",\"uid\":\"25307848\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"2.6\",\"GeneticEvidencePointsTotal\":\"2.6\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"3.6\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"11\/13\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"11\/13\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1510560000,
-  "file":null,
-  "dateISO8601":"2017-11-13T00:00:00",
-  "entrez_id":"64218",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Nov 13, 2017",
-  "scoreJsonSerializedSop5":""},
  "8524":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Hereditary breast cancer",
@@ -1567,37 +1505,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 15, 2017",
-  "scoreJsonSerializedSop5":""},
- "9991":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"11998":
-   {"ontology":"HGNC", "curie":"HGNC:11998", "uri":"HGNC11998"}},
-  "title":"TP53: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"TP53\",\"Hgnc\":\"11998\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Inherited Mutations in Women With Ovarian Carcinoma.\",\"author\":\"Norquist BM\",\"pubdate\":\"2016 Apr\",\"source\":\"JAMA Oncol\",\"uid\":\"26720728\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.5\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the p53 Tumor Suppressor Gene: Important Milestones at the Various Steps of Tumorigenesis.\",\"author\":\"Rivlin N\",\"pubdate\":\"2011 Apr\",\"source\":\"Genes Cancer\",\"uid\":\"21779514\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Dominant-negative features of mutant TP53 in germline carriers have limited impact on cancer outcomes.\",\"author\":\"Monti P\",\"pubdate\":\"2011 Mar\",\"source\":\"Mol Cancer Res\",\"uid\":\"21343334\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"A Designed Inhibitor of p53 Aggregation Rescues p53 Tumor Suppression in Ovarian Carcinomas.\",\"author\":\"Soragni A\",\"pubdate\":\"2016 Jan 11\",\"source\":\"Cancer Cell\",\"uid\":\"26748848\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"2\",\"GeneticEvidencePointsTotal\":\"2\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"5.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"01\/10\/2018\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"01\/10\/2018\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1515571200,
-  "file":null,
-  "dateISO8601":"2018-01-10T00:00:00",
-  "entrez_id":"7157",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jan 10, 2018",
   "scoreJsonSerializedSop5":""},
  "8768":
  {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
@@ -2323,37 +2230,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Oct 23, 2017",
   "scoreJsonSerializedSop5":""},
- "8436":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"HGNC:10405":
-   {"ontology":"HGNC", "curie":"HGNC:10405", "uri":"HGNC10405"}},
-  "title":"RPS20: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"RPS20\",\"Hgnc\":\"10405\",\"OrphaNet\":\"ORPHA443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutation of RPS20, encoding a ribosomal protein, causes predisposition to hereditary nonpolyposis colorectal carcinoma without DNA mismatch repair deficiency.\",\"author\":\"Nieminen TT\",\"pubdate\":\"2014 Sep\",\"source\":\"Gastroenterology\",\"uid\":\"24941021\"},{\"title\":\"Validation of Recently Proposed Colorectal Cancer Susceptibility Gene Variants in an Analysis of Families and Patients-a Systematic Review.\",\"author\":\"Broderick P\",\"pubdate\":\"2017 Jan\",\"source\":\"Gastroenterology\",\"uid\":\"27713038\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutation of RPS20, encoding a ribosomal protein, causes predisposition to hereditary nonpolyposis colorectal carcinoma without DNA mismatch repair deficiency.\",\"author\":\"Nieminen TT\",\"pubdate\":\"2014 Sep\",\"source\":\"Gastroenterology\",\"uid\":\"24941021\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutation of RPS20, encoding a ribosomal protein, causes predisposition to hereditary nonpolyposis colorectal carcinoma without DNA mismatch repair deficiency.\",\"author\":\"Nieminen TT\",\"pubdate\":\"2014 Sep\",\"source\":\"Gastroenterology\",\"uid\":\"24941021\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"0.5\",\"GeneticEvidenceTotal\":\"4.5\",\"GeneticEvidencePointsTotal\":\"4.5\",\"ExperimentalEvidencePointsTotal\":\"0.5\",\"EvidencePointsTotal\":\"5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"11\/08\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"06\/08\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1496905200,
-  "file":null,
-  "dateISO8601":"2017-06-08T00:00:00",
-  "entrez_id":"6224",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jun 08, 2017",
-  "scoreJsonSerializedSop5":""},
  "5463":
  {"affiliation":{"id":"10026", "name":"General Gene Curation"},
   "label":"Arthrogryposis",
@@ -2924,37 +2800,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Jun 08, 2017",
   "scoreJsonSerializedSop5":""},
- "8433":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Hereditary colorectal cancer",
-  "genes":
-  {"HGNC:1748":
-   {"ontology":"HGNC", "curie":"HGNC:1748", "uri":"HGNC1748"}},
-  "title":"CDH1: Hereditary colorectal cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"CDH1\",\"Hgnc\":\"1748\",\"OrphaNet\":\"ORPHA443909\",\"Disease\":\"Colorectal Cancer\",\"Omim\":\"OMIM: 192090\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"E-cadherin germline mutations in familial gastric cancer.\",\"author\":\"Guilford P\",\"pubdate\":\"1998 Mar 26\",\"source\":\"Nature\",\"uid\":\"9537325\"},{\"title\":\"Germline E-cadherin gene (CDH1) mutations predispose to familial gastric cancer and colorectal cancer.\",\"author\":\"Richards FM\",\"pubdate\":\"1999 Apr\",\"source\":\"Hum Mol Genet\",\"uid\":\"10072428\"},{\"title\":\"Identification of seven novel germline mutations in the human E-cadherin (CDH1) gene.\",\"author\":\"More H\",\"pubdate\":\"2007 Feb\",\"source\":\"Hum Mutat\",\"uid\":\"17221870\"},{\"title\":\"Screening E-cadherin in gastric cancer families reveals germline mutations only in hereditary diffuse gastric cancer kindred.\",\"author\":\"Oliveira C\",\"pubdate\":\"2002 May\",\"source\":\"Hum Mutat\",\"uid\":\"11968083\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Loss of CDH1 (E-cadherin) expression is associated with infiltrative tumour growth and lymph node metastasis.\",\"author\":\"Kim SA\",\"pubdate\":\"2016 Jan 19\",\"source\":\"Br J Cancer\",\"uid\":\"26742007\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutated epithelial cadherin is associated with increased tumorigenicity and loss of adhesion and of responsiveness to the motogenic trefoil factor 2 in colon carcinoma cells.\",\"author\":\"Efstathiou JA\",\"pubdate\":\"1999 Mar 2\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"10051639\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"2\",\"GeneticEvidencePointsTotal\":\"2\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"3\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"10\/25\/2016\",\"FinalClassificationNotes\":\"Assertion made by the Hereditary Cancer Working Group\"}}",
-  "date":1496905200,
-  "file":null,
-  "dateISO8601":"2017-06-08T00:00:00",
-  "entrez_id":"999",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM192090":
-   {"ontology":"OMIM",
-    "curie":"OMIM:192090",
-    "uri":"OMIM192090",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_192090"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jun 08, 2017",
-  "scoreJsonSerializedSop5":""},
  "8255":
  {"affiliation":
   {"id":"10044",
@@ -3392,66 +3237,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Jan 09, 2017",
   "scoreJsonSerializedSop5":""},
- "9901":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"7230":{"ontology":"HGNC", "curie":"HGNC:7230", "uri":"HGNC7230"}},
-  "title":"MRE11: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"MRE11\",\"Hgnc\":\"7230\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The 3\",\"author\":\"Paull TT\",\"pubdate\":\"1998 Jun\",\"source\":\"Mol Cell\",\"uid\":\"9651580\"},{\"title\":\"Association of BRCA1 with the hRad50-hMre11-p95 complex and the DNA damage response.\",\"author\":\"Zhong Q\",\"pubdate\":\"1999 Jul 30\",\"source\":\"Science\",\"uid\":\"10426999\"},{\"title\":\"Altered expression of DNA double-strand break detection and repair proteins in breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2003 Oct\",\"source\":\"Histopathology\",\"uid\":\"14511253\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Lack of MRE11-RAD50-NBS1 (MRN) complex detection occurs frequently in low-grade epithelial ovarian cancer.\",\"author\":\"Brandt S\",\"pubdate\":\"2017 Jan 10\",\"source\":\"BMC Cancer\",\"uid\":\"28073364\"},{\"title\":\"Checkpoint failure and chromosomal instability without lymphomagenesis in Mre11(ATLD1\/ATLD1) mice.\",\"author\":\"Theunissen JW\",\"pubdate\":\"2003 Dec\",\"source\":\"Mol Cell\",\"uid\":\"14690604\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10\/25\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"10\/25\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1508914800,
-  "file":null,
-  "dateISO8601":"2017-10-25T00:00:00",
-  "entrez_id":"4361",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Oct 25, 2017",
-  "scoreJsonSerializedSop5":""},
- "9897":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"7326":{"ontology":"HGNC", "curie":"HGNC:7326", "uri":"HGNC7326"}},
-  "title":"MSH3: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"MSH3\",\"Hgnc\":\"7326\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.0\",\"tally\":\"0.1\",\"pmid\":{\"publications\":[{\"title\":\"Association of low-risk MSH3 and MSH2 variant alleles with Lynch syndrome: probability of synergistic effects.\",\"author\":\"Duraturo F\",\"pubdate\":\"2011 Oct 1\",\"source\":\"Int J Cancer\",\"uid\":\"21128252\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"hMSH2 forms specific mispair-binding complexes with hMSH3 and hMSH6.\",\"author\":\"Acharya S\",\"pubdate\":\"1996 Nov 26\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8942985\"},{\"title\":\"Exome Sequencing Identifies Biallelic MSH3 Germline Mutations as a Recessive Subtype of Colorectal Adenomatous Polyposis.\",\"author\":\"Adam R\",\"pubdate\":\"2016 Aug 4\",\"source\":\"Am J Hum Genet\",\"uid\":\"27476653\"},{\"title\":\"Tissue-specific mismatch repair protein expression: MSH3 is higher than MSH6 in multiple mouse tissues.\",\"author\":\"Tom\\u00e9 S\",\"pubdate\":\"2013 Jan 1\",\"source\":\"DNA Repair (Amst)\",\"uid\":\"23228367\"},{\"title\":\"hMutSbeta, a heterodimer of hMSH2 and hMSH3, binds to insertion\/deletion loops in DNA.\",\"author\":\"Palombo F\",\"pubdate\":\"1996 Sep 1\",\"source\":\"Curr Biol\",\"uid\":\"8805365\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"The DNA mismatch repair genes Msh3 and Msh6 cooperate in intestinal tumor suppression.\",\"author\":\"Edelmann W\",\"pubdate\":\"2000 Feb 15\",\"source\":\"Cancer Res\",\"uid\":\"10706084\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"The DNA mismatch repair genes Msh3 and Msh6 cooperate in intestinal tumor suppression.\",\"author\":\"Edelmann W\",\"pubdate\":\"2000 Feb 15\",\"source\":\"Cancer Res\",\"uid\":\"10706084\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"0.1\",\"GeneticEvidencePointsTotal\":\"0.1\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"3.1\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"11\/13\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"11\/13\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1510560000,
-  "file":null,
-  "dateISO8601":"2017-11-13T00:00:00",
-  "entrez_id":"4437",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Nov 13, 2017",
-  "scoreJsonSerializedSop5":""},
  "3220":
  {"affiliation":{"id":"10026", "name":"General Gene Curation"},
   "label":"Renal or urinary tract malformation (CAKUT)",
@@ -3824,36 +3609,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_49382"}},
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Nov 16, 2016",
-  "scoreJsonSerializedSop5":""},
- "9990":
- {"affiliation":{"id":"10012", "name":"PTEN"},
-  "label":"PTEN Hamartoma Tumor Syndrome",
-  "genes":
-  {"9588":{"ontology":"HGNC", "curie":"HGNC:9588", "uri":"HGNC9588"}},
-  "title":"PTEN: PTEN Hamartoma Tumor Syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"PTEN\",\"Hgnc\":\"9588\",\"OrphaNet\":\"306498\",\"Disease\":\"PTEN Hamartoma Tumor Syndrome\",\"Omim\":\"601728\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"3.0\",\"tally\":\"3.1\",\"pmid\":{\"publications\":[{\"title\":\"Prevalence of germline PTEN, BMPR1A, SMAD4, STK11, and ENG mutations in patients with moderate-load colorectal polyps.\",\"author\":\"Ngeow J\",\"pubdate\":\"2013 Jun\",\"source\":\"Gastroenterology\",\"uid\":\"23399955\"}],\"notes\":{\"note\":\"\"}}},\"VariantIsDeNovo\":{\"value\":\"11.0\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Frequent gastrointestinal polyps and colorectal adenocarcinomas in a prospective series of PTEN mutation carriers.\",\"author\":\"Heald B\",\"pubdate\":\"2010 Dec\",\"source\":\"Gastroenterology\",\"uid\":\"20600018\"}],\"notes\":{\"note\":\"\"}}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"6.0\",\"tally\":\"6\",\"pmid\":{\"publications\":[{\"title\":\"Lifetime cancer risks in individuals with germline PTEN mutations.\",\"author\":\"Tan MH\",\"pubdate\":\"2012 Jan 15\",\"source\":\"Clin Cancer Res\",\"uid\":\"22252256\"},{\"title\":\"High cumulative risks of cancer in patients with PTEN hamartoma tumour syndrome.\",\"author\":\"Bubien V\",\"pubdate\":\"2013 Apr\",\"source\":\"J Med Genet\",\"uid\":\"23335809\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"PTEN mutations are common in sporadic microsatellite stable colorectal cancer.\",\"author\":\"Nassif NT\",\"pubdate\":\"2004 Jan 15\",\"source\":\"Oncogene\",\"uid\":\"14724591\"},{\"title\":\"LKB1 interacts with and phosphorylates PTEN: a functional link between two proteins involved in cancer predisposing syndromes.\",\"author\":\"Mehenni H\",\"pubdate\":\"2005 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"15987703\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Ubiquitination regulates PTEN nuclear import and tumor suppression.\",\"author\":\"Trotman LC\",\"pubdate\":\"2007 Jan 12\",\"source\":\"Cell\",\"uid\":\"17218261\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"5.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Pten is essential for embryonic development and tumour suppression.\",\"author\":\"Di Cristofano A\",\"pubdate\":\"1998 Aug\",\"source\":\"Nat Genet\",\"uid\":\"9697695\"},{\"title\":\"Ubiquitination regulates PTEN nuclear import and tumor suppression.\",\"author\":\"Trotman LC\",\"pubdate\":\"2007 Jan 12\",\"source\":\"Cell\",\"uid\":\"17218261\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"10\/09\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"10\/09\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1507532400,
-  "file":null,
-  "dateISO8601":"2017-10-09T00:00:00",
-  "entrez_id":"5728",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0017623"},
-   "OMIM601728":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601728",
-    "uri":"OMIM601728",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601728"},
-   "ORPHA306498":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:306498",
-    "uri":"ORPHA306498",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_306498"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Oct 09, 2017",
   "scoreJsonSerializedSop5":""},
  "8431":
  {"affiliation":{"id":"10043", "name":"Colon Cancer"},
