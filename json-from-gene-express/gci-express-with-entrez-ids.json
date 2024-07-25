@@ -280,36 +280,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 15, 2017",
   "scoreJsonSerializedSop5":""},
- "9896":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Polyposis susceptibility",
-  "genes":
-  {"7326":{"ontology":"HGNC", "curie":"HGNC:7326", "uri":"HGNC7326"}},
-  "title":"MSH3: Polyposis susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"MSH3\",\"Hgnc\":\"7326\",\"OrphaNet\":\"480536\",\"Disease\":\"Polyposis susceptibility\",\"Omim\":\"617100\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Exome Sequencing Identifies Biallelic MSH3 Germline Mutations as a Recessive Subtype of Colorectal Adenomatous Polyposis.\",\"author\":\"Adam R\",\"pubdate\":\"2016 Aug 4\",\"source\":\"Am J Hum Genet\",\"uid\":\"27476653\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"4.0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Exome Sequencing Identifies Biallelic MSH3 Germline Mutations as a Recessive Subtype of Colorectal Adenomatous Polyposis.\",\"author\":\"Adam R\",\"pubdate\":\"2016 Aug 4\",\"source\":\"Am J Hum Genet\",\"uid\":\"27476653\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"The DNA mismatch repair genes Msh3 and Msh6 cooperate in intestinal tumor suppression.\",\"author\":\"Edelmann W\",\"pubdate\":\"2000 Feb 15\",\"source\":\"Cancer Res\",\"uid\":\"10706084\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"The DNA mismatch repair genes Msh3 and Msh6 cooperate in intestinal tumor suppression.\",\"author\":\"Edelmann W\",\"pubdate\":\"2000 Feb 15\",\"source\":\"Cancer Res\",\"uid\":\"10706084\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3.5\",\"GeneticEvidenceTotal\":\"4\",\"GeneticEvidencePointsTotal\":\"4\",\"ExperimentalEvidencePointsTotal\":\"3.5\",\"EvidencePointsTotal\":\"7.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"12\/13\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"12\/13\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1481616000,
-  "file":null,
-  "dateISO8601":"2016-12-13T00:00:00",
-  "entrez_id":"4437",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018812"},
-   "OMIM617100":
-   {"ontology":"OMIM",
-    "curie":"OMIM:617100",
-    "uri":"OMIM617100",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_617100"},
-   "ORPHA480536":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:480536",
-    "uri":"ORPHA480536",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_480536"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Dec 13, 2016",
-  "scoreJsonSerializedSop5":""},
  "8525":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Familial ovarian cancer",
@@ -851,37 +821,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Dec 22, 2016",
   "scoreJsonSerializedSop5":""},
- "10058":
- {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
-  "label":"Friedreich ataxia",
-  "genes":
-  {"HGNC:3951":
-   {"ontology":"HGNC", "curie":"HGNC:3951", "uri":"HGNC3951"}},
-  "title":"FXN: Friedreich ataxia",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1513972800,
-  "file":null,
-  "dateISO8601":"2017-12-22T12:00:00",
-  "entrez_id":"2395",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0009245"},
-   "OMIM229300":
-   {"ontology":"OMIM",
-    "curie":"OMIM:229300",
-    "uri":"OMIM229300",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_229300"},
-   "ORPHA95":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:95",
-    "uri":"ORPHA95",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_95"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 22, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1527816865\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"FXN\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:3951\",\"uri\":\"HGNC3951\"},\"condition\":{\"name\":\"Friedreich ataxia\",\"OrphaNet\":{\"curie\":\"ORPHA:95\",\"uri\":\"ORPHA95\"},\"MONDO\":{\"curie\":\"MONDO:0009245\",\"uri\":\"MONDO0009245\"},\"OMIM\":{\"curie\":\"OMIM:229300\",\"uri\":\"OMIM229300\"}},\"title\":\"FXN Friedreich ataxia\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"\",\"Tally\":\"\"}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"10.00\",\"evidence\":{\"publications\":{\"1527817165126\":{\"title\":\"Friedreich\",\"author\":\"Campuzano V\",\"pubdate\":\"1996 Mar 8\",\"source\":\"Science\",\"uid\":\"8596916\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"10\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\",\"1\":{\"evidence\":{\"publications\":{\"1527817405349\":{\"title\":\"Friedreich\",\"author\":\"Campuzano V\",\"pubdate\":\"1996 Mar 8\",\"source\":\"Science\",\"uid\":\"8596916\"}},\"notes\":{\"note\":\"eLOD= 1.32\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"10\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527817547611\":{\"title\":\"Human frataxin maintains mitochondrial iron homeostasis in Saccharomyces cerevisiae.\",\"author\":\"Cavadini P\",\"pubdate\":\"2000 Oct 12\",\"source\":\"Hum Mol Genet\",\"uid\":\"11030757\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1.5\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527817433285\":{\"title\":\"Friedreich\",\"author\":\"Campuzano V\",\"pubdate\":\"1996 Mar 8\",\"source\":\"Science\",\"uid\":\"8596916\"},\"1527817449391\":{\"title\":\"The Friedreich\",\"author\":\"Carvajal JJ\",\"pubdate\":\"1996 Oct\",\"source\":\"Nat Genet\",\"uid\":\"8841185\"},\"1527817465991\":{\"title\":\"Frataxin gene of Friedreich\",\"author\":\"Priller J\",\"pubdate\":\"1997 Aug\",\"source\":\"Ann Neurol\",\"uid\":\"9266741\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527817532021\":{\"title\":\"Silencing of frataxin gene expression triggers p53-dependent apoptosis in human neuron-like cells.\",\"author\":\"Palomo GM\",\"pubdate\":\"2011 Jul 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"21531789\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"4.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"4\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1527817497586\":{\"title\":\"Mouse models for Friedreich ataxia exhibit cardiomyopathy, sensory nerve defect and Fe-S enzyme deficiency followed by intramitochondrial iron deposits.\",\"author\":\"Puccio H\",\"pubdate\":\"2001 Feb\",\"source\":\"Nat Genet\",\"uid\":\"11175786\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1527817516841\":{\"title\":\"Rescue of the Friedreich\",\"author\":\"Pook MA\",\"pubdate\":\"2001 Oct\",\"source\":\"Neurogenetics\",\"uid\":\"11714098\"}},\"notes\":{\"note\":\"\"}}},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"10\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/22\/2017\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"10\/11\/2017\",\"FinalClassificationNotes\":\"Curated by the ClinGen Hypertrophic cardiomyopathy Gene Curation Expert Panel and approved by ClinGen expert Jonathan S. Berg.\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "10082":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Familial ovarian cancer",
@@ -1976,37 +1915,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Mar 13, 2017",
   "scoreJsonSerializedSop5":""},
- "8771":
- {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
-  "label":"Hypertrophic cardiomyopathy",
-  "genes":
-  {"HGNC:12010":
-   {"ontology":"HGNC", "curie":"HGNC:12010", "uri":"HGNC12010"}},
-  "title":"TPM1: Hypertrophic cardiomyopathy",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1482278400,
-  "file":null,
-  "dateISO8601":"2016-12-20T16:00:00",
-  "entrez_id":"7168",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0005045"},
-   "OMIM115196":
-   {"ontology":"OMIM",
-    "curie":"OMIM:115196",
-    "uri":"OMIM115196",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_115196"},
-   "ORPHA217569":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:217569",
-    "uri":"ORPHA217569",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_217569"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 20, 2016",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1527787076\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"TPM1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:12010\",\"uri\":\"HGNC12010\"},\"condition\":{\"name\":\"Hypertrophic Cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:115196\",\"uri\":\"OMIM115196\"}},\"title\":\"TPM1 Hypertrophic Cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1527787181983\":{\"title\":\"A de novo mutation in alpha-tropomyosin that causes hypertrophic cardiomyopathy.\",\"author\":\"Watkins H\",\"pubdate\":\"1995 May 1\",\"source\":\"Circulation\",\"uid\":\"7729014\"}}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"0.00\",\"Tally\":\"0\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"7.00\",\"Tally\":\"7\",\"evidence\":{\"publications\":{\"0\":{\"title\":\"Alpha-tropomyosin and cardiac troponin T mutations cause familial hypertrophic cardiomyopathy: a disease of the sarcomere.\",\"author\":\"Thierfelder L\",\"pubdate\":\"1994 Jun 3\",\"source\":\"Cell\",\"uid\":\"8205619\"},\"1\":{\"title\":\"A familial hypertrophic cardiomyopathy locus maps to chromosome 15q2.\",\"author\":\"Thierfelder L\",\"pubdate\":\"1993 Jul 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8327508\"},\"3\":{\"title\":\"Clinical implications of hypertrophic cardiomyopathy associated with mutations in the alpha-tropomyosin gene.\",\"author\":\"Yamauchi-Takihara K\",\"pubdate\":\"1996 Jul\",\"source\":\"Heart\",\"uid\":\"8774330\"},\"4\":{\"title\":\"Novel missense mutation in alpha-tropomyosin gene found in Japanese patients with hypertrophic cardiomyopathy.\",\"author\":\"Nakajima-Taniguchi C\",\"pubdate\":\"1995 Sep\",\"source\":\"J Mol Cell Cardiol\",\"uid\":\"8523464\"},\"5\":{\"title\":\"The cardiac beta-myosin heavy chain gene is not the predominant gene for hypertrophic cardiomyopathy in the Finnish population.\",\"author\":\"J\\u00e4\\u00e4skel\\u00e4inen P\",\"pubdate\":\"1998 Nov 15\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"9822100\"},\"6\":{\"title\":\"Hypertrophic cardiomyopathy caused by a novel alpha-tropomyosin mutation (V95A) is associated with mild cardiac phenotype, abnormal calcium binding to troponin, abnormal myosin cycling, and poor prognosis.\",\"author\":\"Karibe A\",\"pubdate\":\"2001 Jan 2\",\"source\":\"Circulation\",\"uid\":\"11136687\"},\"7\":{\"title\":\"Variable clinical manifestation of a novel missense mutation in the alpha-tropomyosin (TPM1) gene in familial hypertrophic cardiomyopathy.\",\"author\":\"Jongbloed RJ\",\"pubdate\":\"2003 Mar 19\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"12651045\"},\"8\":{\"title\":\"A novel TPM1 mutation in a family with hypertrophic cardiomyopathy and sudden cardiac death in childhood.\",\"author\":\"Van Driest SL\",\"pubdate\":\"2002 Nov 15\",\"source\":\"Am J Cardiol\",\"uid\":\"12423715\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"3\":{\"evidence\":{\"publications\":{\"1527787263432\":{\"title\":\"Alpha-tropomyosin and cardiac troponin T mutations cause familial hypertrophic cardiomyopathy: a disease of the sarcomere.\",\"author\":\"Thierfelder L\",\"pubdate\":\"1994 Jun 3\",\"source\":\"Cell\",\"uid\":\"8205619\"},\"1527787276731\":{\"title\":\"A familial hypertrophic cardiomyopathy locus maps to chromosome 15q2.\",\"author\":\"Thierfelder L\",\"pubdate\":\"1993 Jul 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8327508\"},\"1527787296735\":{\"title\":\"The cardiac beta-myosin heavy chain gene is not the predominant gene for hypertrophic cardiomyopathy in the Finnish population.\",\"author\":\"J\\u00e4\\u00e4skel\\u00e4inen P\",\"pubdate\":\"1998 Nov 15\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"9822100\"},\"1527787314727\":{\"title\":\"Hypertrophic cardiomyopathy caused by a novel alpha-tropomyosin mutation (V95A) is associated with mild cardiac phenotype, abnormal calcium binding to troponin, abnormal myosin cycling, and poor prognosis.\",\"author\":\"Karibe A\",\"pubdate\":\"2001 Jan 2\",\"source\":\"Circulation\",\"uid\":\"11136687\"},\"1527787332528\":{\"title\":\"Variable clinical manifestation of a novel missense mutation in the alpha-tropomyosin (TPM1) gene in familial hypertrophic cardiomyopathy.\",\"author\":\"Jongbloed RJ\",\"pubdate\":\"2003 Mar 19\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"12651045\"}},\"notes\":{\"note\":\"\"}}}}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1527787362336\":{\"title\":\"Reassessment of Mendelian gene pathogenicity using 7,855 cardiomyopathy cases and 60,706 reference samples.\",\"author\":\"Walsh R\",\"pubdate\":\"2017 Feb\",\"source\":\"Genet Med\",\"uid\":\"27532257\"}}}},\"Tally\":\"2\",\"AggregateVariantAnalysis\":{\"Value\":\"0.00\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"12\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527787491437\":{\"title\":\"Mechanistic heterogeneity in contractile properties of \\u03b1-tropomyosin (TPM1) mutants associated with inherited cardiomyopathies.\",\"author\":\"Gupte TM\",\"pubdate\":\"2015 Mar 13\",\"source\":\"J Biol Chem\",\"uid\":\"25548289\"},\"1527787804321\":{\"title\":\"Hypertrophic cardiomyopathy-causing Asp175asn and Glu180gly Tpm1 mutations shift tropomyosin strands further towards the open position during the ATPase cycle.\",\"author\":\"Borovikov YS\",\"pubdate\":\"2011 Apr 1\",\"source\":\"Biochem Biophys Res Commun\",\"uid\":\"21376702\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"2.00\",\"evidence\":{\"publications\":{\"1527787452957\":{\"title\":\"Perturbed length-dependent activation in human hypertrophic cardiomyopathy with missense sarcomeric gene mutations.\",\"author\":\"Sequeira V\",\"pubdate\":\"2013 May 24\",\"source\":\"Circ Res\",\"uid\":\"23508784\"},\"1527787470333\":{\"title\":\"Mutation-Specific Phenotypes in hiPSC-Derived Cardiomyocytes Carrying Either Myosin-Binding Protein C Or \\u03b1-Tropomyosin Mutation for Hypertrophic Cardiomyopathy.\",\"author\":\"Ojala M\",\"pubdate\":\"2016\",\"source\":\"Stem Cells Int\",\"uid\":\"27057166\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"2\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1527787438553\":{\"title\":\"Parvalbumin corrects slowed relaxation in adult cardiac myocytes expressing hypertrophic cardiomyopathy-linked alpha-tropomyosin mutations.\",\"author\":\"Coutu P\",\"pubdate\":\"2004 May 14\",\"source\":\"Circ Res\",\"uid\":\"15059934\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"2.00\"},\"CellCultureModel\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1527787786897\":{\"title\":\"Enhanced active cross-bridges during diastole: molecular pathogenesis of tropomyosin\",\"author\":\"Bai F\",\"pubdate\":\"2011 Feb 16\",\"source\":\"Biophys J\",\"uid\":\"21320446\"}},\"notes\":{\"note\":\"\"}}}},\"ModelsRescue\":{\"Tally\":\"3\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1527787391833\":{\"title\":\"A familial hypertrophic cardiomyopathy alpha-tropomyosin mutation causes severe cardiac hypertrophy and death in mice.\",\"author\":\"Prabhakar R\",\"pubdate\":\"2001 Oct\",\"source\":\"J Mol Cell Cardiol\",\"uid\":\"11603924\"},\"1527787509110\":{\"title\":\"Altered hemodynamics in transgenic mice harboring mutant tropomyosin linked to hypertrophic cardiomyopathy.\",\"author\":\"Evans CC\",\"pubdate\":\"2000 Nov\",\"source\":\"Am J Physiol Heart Circ Physiol\",\"uid\":\"11045979\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"6\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"12\",\"ExperimentalEvidenceTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"11\/14\/2016\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12\/20\/2016\",\"FinalClassificationNotes\":\"Approved by the Hypertrophic Cardiomyopathy Gene Curation Working Group\"},\"ReplicationOverTime\":\"YES\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "8522":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Hereditary breast cancer",
@@ -2548,38 +2456,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Apr 17, 2016",
   "scoreJsonSerializedSop5":""},
- "5619":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Alacrimia-choreoathetosis-liver dysfunction syndrome",
-  "genes":
-  {"17646":
-   {"ontology":"HGNC", "curie":"HGNC:17646", "uri":"HGNC17646"}},
-  "title":
-  "NGLY1 Alacrimia-choreoathetosis-liver dysfunction syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"NGLY1\",\"Hgnc\":\"17646\",\"OrphaNet\":\"ORPHA404454\",\"Disease\":\"Alacrimia-choreoathetosis-liver dysfunction syndrome\",\"Omim\":\"615273\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"0.0\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Clinical application of exome sequencing in undiagnosed genetic conditions.\",\"author\":\"Need AC\",\"pubdate\":\"2012 Jun\",\"source\":\"J Med Genet\",\"uid\":\"22581936\"},{\"title\":\"NGLY1 mutation causes neuromotor impairment, intellectual disability, and neuropathy.\",\"author\":\"Caglayan AO\",\"pubdate\":\"2015 Jan\",\"source\":\"Eur J Med Genet\",\"uid\":\"25220016\"},{\"title\":\"Mutations in NGLY1 cause an inherited disorder of the endoplasmic reticulum-associated degradation pathway.\",\"author\":\"Enns GM\",\"pubdate\":\"2014 Oct\",\"source\":\"Genet Med\",\"uid\":\"24651605\"},{\"title\":\"Novel genetic causes for cerebral visual impairment.\",\"author\":\"Bosch DG\",\"pubdate\":\"2016 May\",\"source\":\"Eur J Hum Genet\",\"uid\":\"26350515\"},{\"title\":\"Multi-systemic involvement in NGLY1-related disorder caused by two novel mutations.\",\"author\":\"Heeley J\",\"pubdate\":\"2015 Apr\",\"source\":\"Am J Med Genet A\",\"uid\":\"25707956\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"10.0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Clinical application of exome sequencing in undiagnosed genetic conditions.\",\"author\":\"Need AC\",\"pubdate\":\"2012 Jun\",\"source\":\"J Med Genet\",\"uid\":\"22581936\"},{\"title\":\"A congenital disorder of deglycosylation: Biochemical characterization of N-glycanase 1 deficiency in patient fibroblasts.\",\"author\":\"He P\",\"pubdate\":\"2015 Aug\",\"source\":\"Glycobiology\",\"uid\":\"25900930\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Clinical application of exome sequencing in undiagnosed genetic conditions.\",\"author\":\"Need AC\",\"pubdate\":\"2012 Jun\",\"source\":\"J Med Genet\",\"uid\":\"22581936\"},{\"title\":\"Mutations in NGLY1 cause an inherited disorder of the endoplasmic reticulum-associated degradation pathway.\",\"author\":\"Enns GM\",\"pubdate\":\"2014 Oct\",\"source\":\"Genet Med\",\"uid\":\"24651605\"},{\"title\":\"Multi-systemic involvement in NGLY1-related disorder caused by two novel mutations.\",\"author\":\"Heeley J\",\"pubdate\":\"2015 Apr\",\"source\":\"Am J Med Genet A\",\"uid\":\"25707956\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Endo-\\u03b2-N-acetylglucosaminidase forms N-GlcNAc protein aggregates during ER-associated degradation in Ngly1-defective cells.\",\"author\":\"Huang C\",\"pubdate\":\"2015 Feb 3\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"25605922\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"10\",\"GeneticEvidencePointsTotal\":\"10\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"16\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12\/01\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1480579200,
-  "file":null,
-  "dateISO8601":"2016-12-01T00:00:00",
-  "entrez_id":"55768",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0014109"},
-   "OMIM615273":
-   {"ontology":"OMIM",
-    "curie":"OMIM:615273",
-    "uri":"OMIM615273",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_615273"},
-   "ORPHA404454":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:404454",
-    "uri":"ORPHA404454",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_404454"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 01, 2016",
-  "scoreJsonSerializedSop5":""},
  "8505":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Hereditary breast cancer",
@@ -3018,37 +2894,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Aug 09, 2017",
   "scoreJsonSerializedSop5":""},
- "10047":
- {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
-  "label":"Hypertrophic cardiomyopathy",
-  "genes":
-  {"HGNC:129":
-   {"ontology":"HGNC", "curie":"HGNC:129", "uri":"HGNC129"}},
-  "title":"ACTA1: Hypertrophic cardiomyopathy",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1478041200,
-  "file":null,
-  "dateISO8601":"2016-11-01T16:00:00",
-  "entrez_id":"58",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0005045"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA217569":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:217569",
-    "uri":"ORPHA217569",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_217569"}},
-  "scores":{"3975":{"label":"No Reported Evidence"}},
-  "dateFormated":"Nov 01, 2016",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1527791889\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"ACTA1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:129\",\"uri\":\"HGNC129\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"}},\"title\":\"ACTA1 Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"0.00\",\"Tally\":\"\",\"evidence\":{\"publications\":{\"1527791287454\":{\"title\":\"Nemaline myopathy and non-fatal hypertrophic cardiomyopathy caused by a novel ACTA1 E239K mutation.\",\"author\":\"Kim SY\",\"pubdate\":\"2011 Aug 15\",\"source\":\"J Neurol Sci\",\"uid\":\"21570694\"},\"1527791299873\":{\"title\":\"Fatal hypertrophic cardiomyopathy and nemaline myopathy associated with ACTA1 K336E mutation.\",\"author\":\"D\",\"pubdate\":\"2006 Oct\",\"source\":\"Neuromuscul Disord\",\"uid\":\"16945537\"}},\"notes\":{\"note\":\"Both patients had nemaline myopathy in addition to HCM.\"}}},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.00\",\"Tally\":\"\",\"evidence\":{\"publications\":{\"1527791359465\":{\"title\":\"Missense mutations of ACTA1 cause dominant congenital myopathy with cores.\",\"author\":\"Kaindl AM\",\"pubdate\":\"2004 Nov\",\"source\":\"J Med Genet\",\"uid\":\"15520409\"}},\"notes\":{\"note\":\"Patient had central core disease in addition to HCM.\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"\",\"ExperimentalEvidenceTotal\":\"\",\"EvidencePointsTotal\":\"\",\"CalculatedClassification\":\"\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"NO REPORTED EVIDENCE\",\"CuratorClassificationDate\":\"10\/11\/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"NO REPORTED EVIDENCE\",\"FinalClassificationDate\":\"11\/01\/2016\",\"FinalClassificationNotes\":\"Approved by the Hypertrophic Cardiomyopathy Gene Curation Working Group\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "9940":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Familial ovarian cancer",
@@ -3142,37 +2987,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Mar 02, 2017",
   "scoreJsonSerializedSop5":""},
- "10074":
- {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
-  "label":"Hypertrophic cardiomyopathy",
-  "genes":
-  {"HGNC:7576":
-   {"ontology":"HGNC", "curie":"HGNC:7576", "uri":"HGNC7576"}},
-  "title":"MYH6: Hypertrophic cardiomyopathy",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1509519600,
-  "file":null,
-  "dateISO8601":"2017-11-01T00:00:00",
-  "entrez_id":"4624",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0005045"},
-   "OMIM160710":
-   {"ontology":"OMIM",
-    "curie":"OMIM:160710",
-    "uri":"OMIM160710",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_160710"},
-   "ORPHA217569":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:217569",
-    "uri":"ORPHA217569",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_217569"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Nov 01, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1529266175\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"MYH6\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:7576\",\"uri\":\"HGNC7576\"},\"condition\":{\"name\":\"Hypertrophic cardiomyopathy\",\"OrphaNet\":{\"curie\":\"ORPHA:217569\",\"uri\":\"ORPHA217569\"},\"MONDO\":{\"curie\":\"MONDO:0005045\",\"uri\":\"MONDO0005045\"},\"OMIM\":{\"curie\":\"OMIM:160710\",\"uri\":\"OMIM160710\"}},\"title\":\"MYH6 Hypertrophic cardiomyopathy\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.30\",\"Tally\":\"0.3\",\"evidence\":{\"publications\":{\"1528168789335\":{\"title\":\"Sarcomere protein gene mutations in hypertrophic cardiomyopathy of the elderly.\",\"author\":\"Niimura H\",\"pubdate\":\"2002 Jan 29\",\"source\":\"Circulation\",\"uid\":\"11815426\"},\"1528168821363\":{\"title\":\"A Next-Generation Sequencing Approach to Identify Gene Mutations in Early- and Late-Onset Hypertrophic Cardiomyopathy Patients of an Italian Cohort.\",\"author\":\"Rubattu S\",\"pubdate\":\"2016 Jul 30\",\"source\":\"Int J Mol Sci\",\"uid\":\"27483260\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"0.3\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528227634966\":{\"title\":\"Comparative sequence analysis of the complete human sarcomeric myosin heavy chain family: implications for functional diversity.\",\"author\":\"Weiss A\",\"pubdate\":\"1999 Jul 2\",\"source\":\"J Mol Biol\",\"uid\":\"10388558\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1528168897885\":{\"title\":\"Myosin types in the human heart. An immunofluorescence study of normal and hypertrophied atrial and ventricular myocardium.\",\"author\":\"Gorza L\",\"pubdate\":\"1984 Jun\",\"source\":\"Circ Res\",\"uid\":\"6234108\"},\"1528168918808\":{\"title\":\"Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics.\",\"author\":\"Fagerberg L\",\"pubdate\":\"2014 Feb\",\"source\":\"Mol Cell Proteomics\",\"uid\":\"24309898\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"0.3\",\"ExperimentalEvidenceTotal\":\"1\",\"EvidencePointsTotal\":\"1.3\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"\",\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"This classification was approved by the Hypertrophic Cardiomyopathy Gene Curation Expert Panel.\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "10149":
  {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
   "label":"Brugada Syndrome",
