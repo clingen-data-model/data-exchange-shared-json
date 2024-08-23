@@ -1226,36 +1226,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Jan 25, 2017",
   "scoreJsonSerializedSop5":""},
- "8399":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Nonsyndromic sensorineural hearing loss",
-  "genes":
-  {"4284":{"ontology":"HGNC", "curie":"HGNC:4284", "uri":"HGNC4284"}},
-  "title":"GJB2: Nonsyndromic sensorineural hearing loss (DFNB1)",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"GJB2\",\"Hgnc\":\"4284\",\"OrphaNet\":\"90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"220290\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"Connexin 26 mutations in hereditary non-syndromic sensorineural deafness.\",\"author\":\"Kelsell DP\",\"pubdate\":\"1997 May 1\",\"source\":\"Nature\",\"uid\":\"9139825\"},{\"title\":\"Connexin-26 mutations in sporadic and inherited sensorineural deafness.\",\"author\":\"Estivill X\",\"pubdate\":\"1998 Feb 7\",\"source\":\"Lancet\",\"uid\":\"9482292\"},{\"title\":\"A Moroccan family with autosomal recessive sensorineural hearing loss caused by a mutation in the gap junction protein gene connexin 26 (GJB2).\",\"author\":\"Lench NJ\",\"pubdate\":\"1998 Feb\",\"source\":\"J Med Genet\",\"uid\":\"9507396\"},{\"title\":\"Novel mutations in the connexin 26 gene (GJB2) that cause autosomal recessive (DFNB1) hearing loss.\",\"author\":\"Kelley PM\",\"pubdate\":\"1998 Apr\",\"source\":\"Am J Hum Genet\",\"uid\":\"9529365\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"12.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"12.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Connexin 26 mutations in hereditary non-syndromic sensorineural deafness.\",\"author\":\"Kelsell DP\",\"pubdate\":\"1997 May 1\",\"source\":\"Nature\",\"uid\":\"9139825\"},{\"title\":\"Connexin-26 mutations in sporadic and inherited sensorineural deafness.\",\"author\":\"Estivill X\",\"pubdate\":\"1998 Feb 7\",\"source\":\"Lancet\",\"uid\":\"9482292\"},{\"title\":\"A Moroccan family with autosomal recessive sensorineural hearing loss caused by a mutation in the gap junction protein gene connexin 26 (GJB2).\",\"author\":\"Lench NJ\",\"pubdate\":\"1998 Feb\",\"source\":\"J Med Genet\",\"uid\":\"9507396\"},{\"title\":\"Novel mutations in the connexin 26 gene (GJB2) that cause autosomal recessive (DFNB1) hearing loss.\",\"author\":\"Kelley PM\",\"pubdate\":\"1998 Apr\",\"source\":\"Am J Hum Genet\",\"uid\":\"9529365\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"BAAV mediated GJB2 gene transfer restores gap junction coupling in cochlear organotypic cultures from deaf Cx26Sox10Cre mice.\",\"author\":\"Crispino G\",\"pubdate\":\"2011\",\"source\":\"PLoS One\",\"uid\":\"21876744\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Altered gating properties of functional Cx26 mutants associated with recessive non-syndromic hearing loss.\",\"author\":\"Me\\u015fe G\",\"pubdate\":\"2004 Aug\",\"source\":\"Hum Genet\",\"uid\":\"15241677\"},{\"title\":\"Hearing loss: frequency and functional studies of the most common connexin26 alleles.\",\"author\":\"D\",\"pubdate\":\"2002 Aug 23\",\"source\":\"Biochem Biophys Res Commun\",\"uid\":\"12176036\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.5\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"BAAV mediated GJB2 gene transfer restores gap junction coupling in cochlear organotypic cultures from deaf Cx26Sox10Cre mice.\",\"author\":\"Crispino G\",\"pubdate\":\"2011\",\"source\":\"PLoS One\",\"uid\":\"21876744\"},{\"title\":\"Perinatal Gjb2 gene transfer rescues hearing in a mouse model of hereditary deafness.\",\"author\":\"Iizuka T\",\"pubdate\":\"2015 Jul 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"25801282\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/15\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"03\/02\/2017\",\"FinalClassificationNotes\":\"DFNB1 accounts for approximately 50% of congenital severe to profound autosomal recessive nonsyndromic hearing loss in the US, Britain, France, and Australia\/New Zealand (Angeli 2008, Azaiez 2004, Green 1999). Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1488441600,
-  "file":null,
-  "dateISO8601":"2017-03-02T00:00:00",
-  "entrez_id":"2706",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0019588"},
-   "OMIM220290":
-   {"ontology":"OMIM",
-    "curie":"OMIM:220290",
-    "uri":"OMIM220290",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_220290"},
-   "ORPHA90636":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:90636",
-    "uri":"ORPHA90636",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Mar 02, 2017",
-  "scoreJsonSerializedSop5":""},
  "8503":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Familial ovarian cancer",
