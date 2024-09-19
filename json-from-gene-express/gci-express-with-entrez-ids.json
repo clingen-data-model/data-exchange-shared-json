@@ -219,36 +219,6 @@
   "scores":{"3975":{"label":"No Reported Evidence"}},
   "dateFormated":"Jan 11, 2017",
   "scoreJsonSerializedSop5":""},
- "9861":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"795":{"ontology":"HGNC", "curie":"HGNC:795", "uri":"HGNC795"}},
-  "title":"ATM: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ATM\",\"Hgnc\":\"795\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"5.0\",\"tally\":\"5\",\"pmid\":{\"publications\":[{\"title\":\"Prevalence and Spectrum of Germline Cancer Susceptibility Gene Mutations Among Patients With Early-Onset Colorectal Cancer.\",\"author\":\"Pearlman R\",\"pubdate\":\"2017 Apr 1\",\"source\":\"JAMA Oncol\",\"uid\":\"27978560\"},{\"title\":\"Cancer Susceptibility Gene Mutations in Individuals With Colorectal Cancer.\",\"author\":\"Yurgelun MB\",\"pubdate\":\"2017 Apr 1\",\"source\":\"J Clin Oncol\",\"uid\":\"28135145\"},{\"title\":\"Germline mutations in oncogene-induced senescence pathways are associated with multiple sessile serrated adenomas.\",\"author\":\"Gala MK\",\"pubdate\":\"2014 Feb\",\"source\":\"Gastroenterology\",\"uid\":\"24512911\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Downregulated Ku70 and ATM associated to poor prognosis in colorectal cancer among Chinese patients.\",\"author\":\"Lu Y\",\"pubdate\":\"2014\",\"source\":\"Onco Targets Ther\",\"uid\":\"25368522\"},{\"title\":\"Loss of expression of the double strand break repair protein ATM is associated with worse prognosis in colorectal cancer and loss of Ku70 expression is associated with CIN.\",\"author\":\"Beggs AD\",\"pubdate\":\"2012 Nov\",\"source\":\"Oncotarget\",\"uid\":\"23154512\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"The depletion of ATM inhibits colon cancer proliferation and migration via B56\\u03b32-mediated Chk1\/p53\/CD44 cascades.\",\"author\":\"Liu R\",\"pubdate\":\"2017 Apr 1\",\"source\":\"Cancer Lett\",\"uid\":\"28093285\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"5\",\"GeneticEvidencePointsTotal\":\"5\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"7\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"08\/28\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"08\/28\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1503903600,
-  "file":null,
-  "dateISO8601":"2017-08-28T00:00:00",
-  "entrez_id":"472",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Aug 28, 2017",
-  "scoreJsonSerializedSop5":""},
  "5661":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"Usher syndrome type 2",
@@ -345,36 +315,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Jan 23, 2017",
   "scoreJsonSerializedSop5":""},
- "9908":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"795":{"ontology":"HGNC", "curie":"HGNC:795", "uri":"HGNC795"}},
-  "title":"ATM: Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ATM\",\"Hgnc\":\"795\",\"OrphaNet\":\"227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"114480\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"1.5\",\"tally\":\"1.5\"}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"2.0\",\"tally\":\"2\"},\"AggregateVariantAnalysis\":{\"value\":\"10.0\",\"tally\":\"10\"}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Requirement of ATM-dependent phosphorylation of brca1 in the DNA damage response to double-strand breaks.\",\"author\":\"Cortez D\",\"pubdate\":\"1999 Nov 5\",\"source\":\"Science\",\"uid\":\"10550055\"},{\"title\":\"Abnormal expression of the ATM and TP53 genes in sporadic breast carcinomas.\",\"author\":\"Ang\\u00e8le S\",\"pubdate\":\"2000 Sep\",\"source\":\"Clin Cancer Res\",\"uid\":\"10999741\"},{\"title\":\"Enhanced radiation late effects and cellular radiation sensitivity in an ATM heterozygous breast cancer patient.\",\"author\":\"Varghese S\",\"pubdate\":\"1999\",\"source\":\"Radiat Oncol Investig\",\"uid\":\"10492163\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mice heterozygous for mutation in Atm, the gene involved in ataxia-telangiectasia, have heightened susceptibility to cancer.\",\"author\":\"Spring K\",\"pubdate\":\"2002 Sep\",\"source\":\"Nat Genet\",\"uid\":\"12195425\"},{\"title\":\"Missense mutations but not allelic variants alter the function of ATM by dominant interference in patients with breast cancer.\",\"author\":\"Scott SP\",\"pubdate\":\"2002 Jan 22\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"11805335\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mice heterozygous for mutation in Atm, the gene involved in ataxia-telangiectasia, have heightened susceptibility to cancer.\",\"author\":\"Spring K\",\"pubdate\":\"2002 Sep\",\"source\":\"Nat Genet\",\"uid\":\"12195425\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"07\/12\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"07\/12\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1499842800,
-  "file":null,
-  "dateISO8601":"2017-07-12T00:00:00",
-  "entrez_id":"472",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM114480":
-   {"ontology":"OMIM",
-    "curie":"OMIM:114480",
-    "uri":"OMIM114480",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_114480"},
-   "ORPHA227353":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227353",
-    "uri":"ORPHA227353",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227353"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Jul 12, 2017",
-  "scoreJsonSerializedSop5":""},
  "9867":
  {"affiliation":{"id":"10043", "name":"Colon Cancer"},
   "label":"Colorectal cancer Susceptibility",
@@ -437,67 +377,6 @@
   "dateFormated":"Nov 21, 2017",
   "scoreJsonSerializedSop5":
   "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530662466\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"RANGRF\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:17679\",\"uri\":\"HGNC17679\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"RANGRF Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.50\",\"Tally\":\"0.5\",\"evidence\":{\"publications\":{\"1530662000378\":{\"title\":\"MOG1: a new susceptibility gene for Brugada syndrome.\",\"author\":\"Kattygnarath D\",\"pubdate\":\"2011 Jun\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"21447824\"},\"1530662019058\":{\"title\":\"Brugada syndrome and p.E61X_RANGRF.\",\"author\":\"Campuzano O\",\"pubdate\":\"2014\",\"source\":\"Cardiol J\",\"uid\":\"24142675\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"0.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530662409648\":{\"title\":\"Identification of a new co-factor, MOG1, required for the full function of cardiac sodium channel Nav 1.5.\",\"author\":\"Wu L\",\"pubdate\":\"2008 Mar 14\",\"source\":\"J Biol Chem\",\"uid\":\"18184654\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"1.25\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530662131555\":{\"title\":\"MOG1: a new susceptibility gene for Brugada syndrome.\",\"author\":\"Kattygnarath D\",\"pubdate\":\"2011 Jun\",\"source\":\"Circ Cardiovasc Genet\",\"uid\":\"21447824\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530662090646\":{\"title\":\"A novel nonsense variant in Nav1.5 cofactor MOG1 eliminates its sodium current increasing effect and may increase the risk of arrhythmias.\",\"author\":\"Olesen MS\",\"pubdate\":\"2011 Jul-Aug\",\"source\":\"Can J Cardiol\",\"uid\":\"21621375\"},\"1530662423156\":{\"title\":\"Identification of a new co-factor, MOG1, required for the full function of cardiac sodium channel Nav 1.5.\",\"author\":\"Wu L\",\"pubdate\":\"2008 Mar 14\",\"source\":\"J Biol Chem\",\"uid\":\"18184654\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\",\"evidence\":{\"publications\":{\"1530662337026\":{\"title\":\"MOG1 rescues defective trafficking of Na(v)1.5 mutations in Brugada syndrome and sick sinus syndrome.\",\"author\":\"Chakrabarti S\",\"pubdate\":\"2013 Apr\",\"source\":\"Circ Arrhythm Electrophysiol\",\"uid\":\"23420830\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530662097285\":{\"title\":\"A novel nonsense variant in Nav1.5 cofactor MOG1 eliminates its sodium current increasing effect and may increase the risk of arrhythmias.\",\"author\":\"Olesen MS\",\"pubdate\":\"2011 Jul-Aug\",\"source\":\"Can J Cardiol\",\"uid\":\"21621375\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.50\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"0.5\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530662110517\":{\"title\":\"Cardiac sodium channel regulator MOG1 regulates cardiac morphogenesis and rhythm.\",\"author\":\"Zhou J\",\"pubdate\":\"2016 Feb 23\",\"source\":\"Sci Rep\",\"uid\":\"26903377\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"2.25\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"0.5\",\"ExperimentalEvidenceTotal\":\"2.25\",\"EvidencePointsTotal\":\"2.75\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"01\/12\/17\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "8697":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"HGNC:9820":
-   {"ontology":"HGNC", "curie":"HGNC:9820", "uri":"HGNC9820"}},
-  "title":"RAD51C: Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"RAD51C\",\"Hgnc\":\"9820\",\"OrphaNet\":\"227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Distinct roles of FANCO\/RAD51C protein in DNA damage signaling and repair: implications for Fanconi anemia and breast cancer susceptibility.\",\"author\":\"Somyajit K\",\"pubdate\":\"2012 Jan 27\",\"source\":\"J Biol Chem\",\"uid\":\"22167183\"},{\"title\":\"Node retraction during patterning of the urinary collecting duct system.\",\"author\":\"Lindstr\\u00f6m NO\",\"pubdate\":\"2015 Jan\",\"source\":\"J Anat\",\"uid\":\"25292187\"},{\"title\":\"RAD51C germline mutations in breast and ovarian cancer cases from high-risk families.\",\"author\":\"Clague J\",\"pubdate\":\"2011\",\"source\":\"PLoS One\",\"uid\":\"21980511\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Predominance of pathogenic missense variants in the RAD51C gene occurring in breast and ovarian cancer families.\",\"author\":\"Osorio A\",\"pubdate\":\"2012 Jul 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"22451500\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene.\",\"author\":\"Meindl A\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400964\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"ValidContradictoryEvidence\":{\"YesNo\":\"YES\",\"pmid\":{\"publications\":{\"1530804519337\":{\"title\":\"Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene.\",\"author\":\"Meindl A\",\"pubdate\":\"2010 May\",\"source\":\"Nat Genet\",\"uid\":\"20400964\"},\"1530804536808\":{\"title\":\"Germline RAD51C mutations confer susceptibility to ovarian cancer.\",\"author\":\"Loveday C\",\"pubdate\":\"2012 Apr 26\",\"source\":\"Nat Genet\",\"uid\":\"22538716\"},\"1530804551744\":{\"title\":\"Associations Between Cancer Predisposition Testing Panel Genes and Breast Cancer.\",\"author\":\"Couch FJ\",\"pubdate\":\"2017 Sep 1\",\"source\":\"JAMA Oncol\",\"uid\":\"28418444\"}},\"notes\":{\"note\":\"\"}}},\"summary\":{\"ExperimentalEvidenceTotal\":\"5\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"5\",\"EvidencePointsTotal\":\"5\",\"CalculatedClassification\":\"CONFLICTING EVIDENCE REPORTED\",\"CalculatedClassificationDate\":\"05\/10\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"05\/10\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1494399600,
-  "file":null,
-  "dateISO8601":"2017-05-10T00:00:00",
-  "entrez_id":"5889",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA227535":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227535",
-    "uri":"ORPHA227535",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227535"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"May 10, 2017",
-  "scoreJsonSerializedSop5":""},
- "10081":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"952":{"ontology":"HGNC", "curie":"HGNC:952", "uri":"HGNC952"}},
-  "title":"BARD1: Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"BARD1\",\"Hgnc\":\"952\",\"OrphaNet\":\"227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"114480\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"11.0\",\"tally\":\"11\",\"pmid\":{\"publications\":[{\"title\":\"Associations Between Cancer Predisposition Testing Panel Genes and Breast Cancer.\",\"author\":\"Couch FJ\",\"pubdate\":\"2017 Sep 1\",\"source\":\"JAMA Oncol\",\"uid\":\"28418444\"},{\"title\":\"The contribution of pathogenic variants in breast cancer susceptibility genes to familial breast cancer risk.\",\"author\":\"Slavin TP\",\"pubdate\":\"2017\",\"source\":\"NPJ Breast Cancer\",\"uid\":\"28649662\"},{\"title\":\"Inherited Mutations in Women With Ovarian Carcinoma.\",\"author\":\"Norquist BM\",\"pubdate\":\"2016 Apr\",\"source\":\"JAMA Oncol\",\"uid\":\"26720728\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Functional Analysis of BARD1 Missense Variants in Homology-Directed Repair of DNA Double Strand Breaks.\",\"author\":\"Lee C\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26350354\"},{\"title\":\"Identification of BARD1 as mediator between proapoptotic stress and p53-dependent apoptosis.\",\"author\":\"Irminger-Finger I\",\"pubdate\":\"2001 Dec\",\"source\":\"Mol Cell\",\"uid\":\"11779501\"},{\"title\":\"The RING heterodimer BRCA1-BARD1 is a ubiquitin ligase inactivated by a breast cancer-derived mutation.\",\"author\":\"Hashizume R\",\"pubdate\":\"2001 May 4\",\"source\":\"J Biol Chem\",\"uid\":\"11278247\"},{\"title\":\"BARD1 induces BRCA1 intranuclear foci formation by increasing RING-dependent BRCA1 nuclear import and inhibiting BRCA1 nuclear export.\",\"author\":\"Fabbro M\",\"pubdate\":\"2002 Jun 14\",\"source\":\"J Biol Chem\",\"uid\":\"11925436\"},{\"title\":\"The BRCA1\/BARD1 heterodimer modulates ran-dependent mitotic spindle assembly.\",\"author\":\"Joukov V\",\"pubdate\":\"2006 Nov 3\",\"source\":\"Cell\",\"uid\":\"17081976\"},{\"title\":\"BARD1 homozygous deletion, a possible alternative to BRCA1 mutation in basal breast cancer.\",\"author\":\"Sabatier R\",\"pubdate\":\"2010 Dec\",\"source\":\"Genes Chromosomes Cancer\",\"uid\":\"20842729\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"The basal-like mammary carcinomas induced by Brca1 or Bard1 inactivation implicate the BRCA1\/BARD1 heterodimer in tumor suppression.\",\"author\":\"Shakya R\",\"pubdate\":\"2008 May 13\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18443292\"},{\"title\":\"Loss of Bard1, the heterodimeric partner of the Brca1 tumor suppressor, results in early embryonic lethality and chromosomal instability.\",\"author\":\"McCarthy EE\",\"pubdate\":\"2003 Jul\",\"source\":\"Mol Cell Biol\",\"uid\":\"12832489\"},{\"title\":\"Functional Analysis of BARD1 Missense Variants in Homology-Directed Repair of DNA Double Strand Breaks.\",\"author\":\"Lee C\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26350354\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"11\",\"GeneticEvidencePointsTotal\":\"11\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"17\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/09\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"08\/09\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1502262000,
-  "file":null,
-  "dateISO8601":"2017-08-09T00:00:00",
-  "entrez_id":"580",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM114480":
-   {"ontology":"OMIM",
-    "curie":"OMIM:114480",
-    "uri":"OMIM114480",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_114480"},
-   "ORPHA227535":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227535",
-    "uri":"ORPHA227535",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227535"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Aug 09, 2017",
-  "scoreJsonSerializedSop5":""},
  "8261":
  {"affiliation":
   {"id":"10044",
@@ -596,67 +475,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_91387"}},
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Dec 22, 2016",
-  "scoreJsonSerializedSop5":""},
- "10073":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"26144":
-   {"ontology":"HGNC", "curie":"HGNC:26144", "uri":"HGNC26144"}},
-  "title":"PALB2: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"PALB2\",\"Hgnc\":\"26144\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"2.0\",\"tally\":\"2.2\",\"pmid\":{\"publications\":[{\"title\":\"Identification of a Variety of Mutations in Cancer Predisposition Genes in Patients With Suspected Lynch Syndrome.\",\"author\":\"Yurgelun MB\",\"pubdate\":\"2015 Sep\",\"source\":\"Gastroenterology\",\"uid\":\"25980754\"},{\"title\":\"Prevalence and Spectrum of Germline Cancer Susceptibility Gene Mutations Among Patients With Early-Onset Colorectal Cancer.\",\"author\":\"Pearlman R\",\"pubdate\":\"2017 Apr 1\",\"source\":\"JAMA Oncol\",\"uid\":\"27978560\"},{\"title\":\"Rare disruptive mutations and their contribution to the heritable risk of colorectal cancer.\",\"author\":\"Chubb D\",\"pubdate\":\"2016 Jun 22\",\"source\":\"Nat Commun\",\"uid\":\"27329137\"},{\"title\":\"Pathogenic and likely pathogenic variant prevalence among the first 10,000 patients referred for next-generation cancer panel testing.\",\"author\":\"Susswein LR\",\"pubdate\":\"2016 Aug\",\"source\":\"Genet Med\",\"uid\":\"26681312\"}],\"notes\":{\"note\":\"\"}}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Inherited DNA-Repair Defects in Colorectal Cancer.\",\"author\":\"AlDubayan SH\",\"pubdate\":\"2018 Mar 1\",\"source\":\"Am J Hum Genet\",\"uid\":\"29478780\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"A pathology atlas of the human cancer transcriptome.\",\"author\":\"Uhlen M\",\"pubdate\":\"2017 Aug 18\",\"source\":\"Science\",\"uid\":\"28818916\"},{\"title\":\"The Genotype-Tissue Expression (GTEx) project.\",\"author\":\"GTEx Consortium.\",\"pubdate\":\"2013 Jun\",\"source\":\"Nat Genet\",\"uid\":\"23715323\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"0.5\",\"GeneticEvidenceTotal\":\"5.2\",\"GeneticEvidencePointsTotal\":\"5.2\",\"ExperimentalEvidencePointsTotal\":\"0.5\",\"EvidencePointsTotal\":\"5.7\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"03\/12\/2018\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"03\/12\/2018\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1520838000,
-  "file":null,
-  "dateISO8601":"2018-03-12T00:00:00",
-  "entrez_id":"79728",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Mar 12, 2018",
-  "scoreJsonSerializedSop5":""},
- "8397":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial breast-ovarian cancer susceptibility",
-  "genes":
-  {"1101":{"ontology":"HGNC", "curie":"HGNC:1101", "uri":"HGNC1101"}},
-  "title":"BRCA2: Familial breast-ovarian cancer susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"BRCA2\",\"Hgnc\":\"1101\",\"OrphaNet\":\"145\",\"Disease\":\"Familial breast-ovarian cancer susceptibility\",\"Omim\":\"612555\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"9.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"The complete BRCA2 gene and mutations in chromosome 13q-linked kindreds.\",\"author\":\"Tavtigian SV\",\"pubdate\":\"1996 Mar\",\"source\":\"Nat Genet\",\"uid\":\"8589730\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"14.0\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"Common breast cancer-predisposition alleles are associated with breast cancer risk in BRCA1 and BRCA2 mutation carriers.\",\"author\":\"Antoniou AC\",\"pubdate\":\"2008 Apr\",\"source\":\"Am J Hum Genet\",\"uid\":\"18355772\"},{\"title\":\"Identification of the breast cancer susceptibility gene BRCA2.\",\"author\":\"Wooster R\",\"pubdate\":\"1995 Dec 21-28\",\"source\":\"Nature\",\"uid\":\"8524414\"},{\"title\":\"The complete BRCA2 gene and mutations in chromosome 13q-linked kindreds.\",\"author\":\"Tavtigian SV\",\"pubdate\":\"1996 Mar\",\"source\":\"Nat Genet\",\"uid\":\"8589730\"},{\"title\":\"Frequency of mutations in a large series of clinically ascertained ovarian cancer cases tested on multi-gene panels compared to reference controls.\",\"author\":\"Lilyquist J\",\"pubdate\":\"2017 Nov\",\"source\":\"Gynecol Oncol\",\"uid\":\"28888541\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"3.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Stable interaction between the products of the BRCA1 and BRCA2 tumor suppressor genes in mitotic and meiotic cells.\",\"author\":\"Chen J\",\"pubdate\":\"1998 Sep\",\"source\":\"Mol Cell\",\"uid\":\"9774970\"},{\"title\":\"Embryonic lethality and radiation hypersensitivity mediated by Rad51 in mice lacking Brca2.\",\"author\":\"Sharan SK\",\"pubdate\":\"1997 Apr 24\",\"source\":\"Nature\",\"uid\":\"9126738\"},{\"title\":\"Double-strand break repair-independent role for BRCA2 in blocking stalled replication fork degradation by MRE11.\",\"author\":\"Schlacher K\",\"pubdate\":\"2011 May 13\",\"source\":\"Cell\",\"uid\":\"21565612\"},{\"title\":\"Heterogenic loss of the wild-type BRCA allele in human breast tumorigenesis.\",\"author\":\"King TA\",\"pubdate\":\"2007 Sep\",\"source\":\"Ann Surg Oncol\",\"uid\":\"17597348\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Synergistic tumor suppressor activity of BRCA2 and p53 in a conditional mouse model for breast cancer.\",\"author\":\"Jonkers J\",\"pubdate\":\"2001 Dec\",\"source\":\"Nat Genet\",\"uid\":\"11694875\"},{\"title\":\"Transformation of the fallopian tube secretory epithelium leads to high-grade serous ovarian cancer in Brca;Tp53;Pten models.\",\"author\":\"Perets R\",\"pubdate\":\"2013 Dec 9\",\"source\":\"Cancer Cell\",\"uid\":\"24332043\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09\/13\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09\/13\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1505286000,
-  "file":null,
-  "dateISO8601":"2017-09-13T00:00:00",
-  "entrez_id":"675",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0012933"},
-   "OMIM612555":
-   {"ontology":"OMIM",
-    "curie":"OMIM:612555",
-    "uri":"OMIM612555",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_612555"},
-   "ORPHA145":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:145",
-    "uri":"ORPHA145",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_145"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Sep 13, 2017",
   "scoreJsonSerializedSop5":""},
  "8252":
  {"affiliation":
@@ -880,36 +698,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Mar 02, 2017",
-  "scoreJsonSerializedSop5":""},
- "9972":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial breast-ovarian cancer susceptibility",
-  "genes":
-  {"1100":{"ontology":"HGNC", "curie":"HGNC:1100", "uri":"HGNC1100"}},
-  "title":"BRCA1: Familial breast-ovarian cancer susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"BRCA1\",\"Hgnc\":\"1100\",\"OrphaNet\":\"145\",\"Disease\":\"Familial breast-ovarian cancer susceptibility\",\"Omim\":\"604370\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"14.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1.\",\"author\":\"Miki Y\",\"pubdate\":\"1994 Oct 7\",\"source\":\"Science\",\"uid\":\"7545954\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"12.0\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1.\",\"author\":\"Miki Y\",\"pubdate\":\"1994 Oct 7\",\"source\":\"Science\",\"uid\":\"7545954\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Decreased expression of BRCA1 accelerates growth and is often present during sporadic breast cancer progression.\",\"author\":\"Thompson ME\",\"pubdate\":\"1995 Apr\",\"source\":\"Nat Genet\",\"uid\":\"7795653\"},{\"title\":\"Centrosome amplification and a defective G2-M cell cycle checkpoint induce genetic instability in BRCA1 exon 11 isoform-deficient cells.\",\"author\":\"Xu X\",\"pubdate\":\"1999 Mar\",\"source\":\"Mol Cell\",\"uid\":\"10198641\"},{\"title\":\"Gamma-rays-induced death of human cells carrying mutations of BRCA1 or BRCA2.\",\"author\":\"Foray N\",\"pubdate\":\"1999 Dec 2\",\"source\":\"Oncogene\",\"uid\":\"10602489\"},{\"title\":\"Stable interaction between the products of the BRCA1 and BRCA2 tumor suppressor genes in mitotic and meiotic cells.\",\"author\":\"Chen J\",\"pubdate\":\"1998 Sep\",\"source\":\"Mol Cell\",\"uid\":\"9774970\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"4.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Decreased expression of BRCA1 accelerates growth and is often present during sporadic breast cancer progression.\",\"author\":\"Thompson ME\",\"pubdate\":\"1995 Apr\",\"source\":\"Nat Genet\",\"uid\":\"7795653\"},{\"title\":\"Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy.\",\"author\":\"Farmer H\",\"pubdate\":\"2005 Apr 14\",\"source\":\"Nature\",\"uid\":\"15829967\"},{\"title\":\"High allele loss rates at 17q12-q21 in breast and ovarian tumors from BRCAl-linked families. The Breast Cancer Linkage Consortium.\",\"author\":\"Cornelis RS\",\"pubdate\":\"1995 Jul\",\"source\":\"Genes Chromosomes Cancer\",\"uid\":\"7669740\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Brca1 controls homology-directed DNA repair.\",\"author\":\"Moynahan ME\",\"pubdate\":\"1999 Oct\",\"source\":\"Mol Cell\",\"uid\":\"10549283\"},{\"title\":\"Homology-directed dna repair, mitomycin-c resistance, and chromosome stability is restored with correction of a Brca1 mutation.\",\"author\":\"Moynahan ME\",\"pubdate\":\"2001 Jun 15\",\"source\":\"Cancer Res\",\"uid\":\"11406561\"},{\"title\":\"Growth retardation and tumour inhibition by BRCA1.\",\"author\":\"Holt JT\",\"pubdate\":\"1996 Mar\",\"source\":\"Nat Genet\",\"uid\":\"8589721\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09\/13\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09\/13\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1505286000,
-  "file":null,
-  "dateISO8601":"2017-09-13T00:00:00",
-  "entrez_id":"672",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0011450"},
-   "OMIM604370":
-   {"ontology":"OMIM",
-    "curie":"OMIM:604370",
-    "uri":"OMIM604370",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_604370"},
-   "ORPHA145":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:145",
-    "uri":"ORPHA145",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_145"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Sep 13, 2017",
   "scoreJsonSerializedSop5":""},
  "10158":
  {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
@@ -1728,36 +1516,6 @@
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Jul 25, 2016",
   "scoreJsonSerializedSop5":""},
- "10080":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"795":{"ontology":"HGNC", "curie":"HGNC:795", "uri":"HGNC795"}},
-  "title":"ATM: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ATM\",\"Hgnc\":\"795\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Associations Between Cancer Predisposition Testing Panel Genes and Breast Cancer.\",\"author\":\"Couch FJ\",\"pubdate\":\"2017 Sep 1\",\"source\":\"JAMA Oncol\",\"uid\":\"28418444\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Requirement of ATM-dependent phosphorylation of brca1 in the DNA damage response to double-strand breaks.\",\"author\":\"Cortez D\",\"pubdate\":\"1999 Nov 5\",\"source\":\"Science\",\"uid\":\"10550055\"},{\"title\":\"Atm deficiency results in severe meiotic disruption as early as leptonema of prophase I.\",\"author\":\"Barlow C\",\"pubdate\":\"1998 Oct\",\"source\":\"Development\",\"uid\":\"9735362\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Enhanced radiation late effects and cellular radiation sensitivity in an ATM heterozygous breast cancer patient.\",\"author\":\"Varghese S\",\"pubdate\":\"1999\",\"source\":\"Radiat Oncol Investig\",\"uid\":\"10492163\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2.5\",\"GeneticEvidenceTotal\":\"4\",\"GeneticEvidencePointsTotal\":\"4\",\"ExperimentalEvidencePointsTotal\":\"2.5\",\"EvidencePointsTotal\":\"6.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"07\/12\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"07\/12\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1499842800,
-  "file":null,
-  "dateISO8601":"2017-07-12T00:00:00",
-  "entrez_id":"472",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jul 12, 2017",
-  "scoreJsonSerializedSop5":""},
  "8151":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"Usher syndrome type 2",
@@ -1788,37 +1546,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_231178"}},
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"May 10, 2017",
-  "scoreJsonSerializedSop5":""},
- "8430":
- {"affiliation":{"id":"10043", "name":"Colon Cancer"},
-  "label":"Colorectal cancer Susceptibility",
-  "genes":
-  {"HGNC:952":
-   {"ontology":"HGNC", "curie":"HGNC:952", "uri":"HGNC952"}},
-  "title":"BARD1: Colorectal cancer Susceptibility",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"BARD1\",\"Hgnc\":\"952\",\"OrphaNet\":\"443909\",\"Disease\":\"Colorectal cancer Susceptibility\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"VariantIsDeNovo\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Whole-exome sequencing identifies rare pathogenic variants in new predisposition genes for familial colorectal cancer.\",\"author\":\"Esteban-Jurado C\",\"pubdate\":\"2015 Feb\",\"source\":\"Genet Med\",\"uid\":\"25058500\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Expression of oncogenic BARD1 isoforms affects colon cancer progression and correlates with clinical outcome.\",\"author\":\"Zhang YQ\",\"pubdate\":\"2012 Aug 7\",\"source\":\"Br J Cancer\",\"uid\":\"22814582\"},{\"title\":\"Adenosine nucleotide modulates the physical interaction between hMSH2 and BRCA1.\",\"author\":\"Wang Q\",\"pubdate\":\"2001 Aug 2\",\"source\":\"Oncogene\",\"uid\":\"11498787\"},{\"title\":\"Expression of an Oncogenic BARD1 Splice Variant Impairs Homologous Recombination and Predicts Response to PARP-1 Inhibitor Therapy in Colon Cancer.\",\"author\":\"Ozden O\",\"pubdate\":\"2016 May 20\",\"source\":\"Sci Rep\",\"uid\":\"27197561\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"0.5\",\"GeneticEvidencePointsTotal\":\"0.5\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"1.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"08\/23\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"06\/08\/2017\",\"FinalClassificationNotes\":\"Assertion made by the Hereditary Cancer Working Group\"}}",
-  "date":1496905200,
-  "file":null,
-  "dateISO8601":"2017-06-08T00:00:00",
-  "entrez_id":"580",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018630"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA443909":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:443909",
-    "uri":"ORPHA443909",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jun 08, 2017",
   "scoreJsonSerializedSop5":""},
  "8267":
  {"affiliation":
@@ -1884,37 +1611,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_443909"}},
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Mar 13, 2017",
-  "scoreJsonSerializedSop5":""},
- "8522":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"HGNC:16627":
-   {"ontology":"HGNC", "curie":"HGNC:16627", "uri":"HGNC16627"}},
-  "title":"CHEK2: Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"CHEK2\",\"Hgnc\":\"16627\",\"OrphaNet\":\"227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"114480\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"8.0\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"A risk of breast cancer in women - carriers of constitutional CHEK2 gene mutations, originating from the North - Central Poland.\",\"author\":\"B\\u0105k A\",\"pubdate\":\"2014 Apr 8\",\"source\":\"Hered Cancer Clin Pract\",\"uid\":\"24713400\"},{\"title\":\"Increased Risk for Other Cancers in Addition to Breast Cancer for CHEK2*1100delC Heterozygotes Estimated From the Copenhagen General Population Study.\",\"author\":\"N\\u00e4slund-Koch C\",\"pubdate\":\"2016 Apr 10\",\"source\":\"J Clin Oncol\",\"uid\":\"26884562\"},{\"title\":\"PALB2, CHEK2 and ATM rare variants and cancer risk: data from COGS.\",\"author\":\"Southey MC\",\"pubdate\":\"2016 Dec\",\"source\":\"J Med Genet\",\"uid\":\"27595995\"}],\"notes\":{\"note\":\"\"}}},\"AggregateVariantAnalysis\":{\"value\":\"5.0\",\"tally\":\"5\",\"pmid\":{\"publications\":[{\"title\":\"Risk of breast cancer in women with a CHEK2 mutation with and without a family history of breast cancer.\",\"author\":\"Cybulski C\",\"pubdate\":\"2011 Oct 1\",\"source\":\"J Clin Oncol\",\"uid\":\"21876083\"}]}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.5\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"hCds1-mediated phosphorylation of BRCA1 regulates the DNA damage response.\",\"author\":\"Lee JS\",\"pubdate\":\"2000 Mar 9\",\"source\":\"Nature\",\"uid\":\"10724175\"},{\"title\":\"A CHEK2 genetic variant contributing to a substantial fraction of familial breast cancer.\",\"author\":\"Vahteristo P\",\"pubdate\":\"2002 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"12094328\"},{\"title\":\"Concomitant inactivation of p53 and Chk2 in breast cancer.\",\"author\":\"Sullivan A\",\"pubdate\":\"2002 Feb 21\",\"source\":\"Oncogene\",\"uid\":\"11857075\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Breast tumors from CHEK2 1100delC-mutation carriers: genomic landscape and clinical implications.\",\"author\":\"Muranen TA\",\"pubdate\":\"2011 Sep 20\",\"source\":\"Breast Cancer Res\",\"uid\":\"21542898\"},{\"title\":\"DNA damage-induced activation of p53 by the checkpoint kinase Chk2.\",\"author\":\"Hirao A\",\"pubdate\":\"2000 Mar 10\",\"source\":\"Science\",\"uid\":\"10710310\"},{\"title\":\"Concomitant inactivation of p53 and Chk2 in breast cancer.\",\"author\":\"Sullivan A\",\"pubdate\":\"2002 Feb 21\",\"source\":\"Oncogene\",\"uid\":\"11857075\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\"}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5.5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"5.5\",\"EvidencePointsTotal\":\"17.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"12\/14\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12\/14\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1481702400,
-  "file":null,
-  "dateISO8601":"2016-12-14T00:00:00",
-  "entrez_id":"11200",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM114480":
-   {"ontology":"OMIM",
-    "curie":"OMIM:114480",
-    "uri":"OMIM114480",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_114480"},
-   "ORPHA227535":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227535",
-    "uri":"ORPHA227535",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227535"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 14, 2016",
   "scoreJsonSerializedSop5":""},
  "10057":
  {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
@@ -2491,68 +2187,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 15, 2016",
   "scoreJsonSerializedSop5":""},
- "3213":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"HGNC:26144":
-   {"ontology":"HGNC", "curie":"HGNC:26144", "uri":"HGNC26144"}},
-  "title":"PALB2  Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"PALB2\",\"Hgnc\":\"26144\",\"OrphaNet\":\"ORPHA227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"114480\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.0\",\"tally\":\"0\",\"pmid\":{\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"7.5\",\"tally\":\"7.5\",\"pmid\":{\"publications\":[{\"title\":\"A recurrent mutation in PALB2 in Finnish cancer families.\",\"author\":\"Erkko H\",\"pubdate\":\"2007 Mar 15\",\"source\":\"Nature\",\"uid\":\"17287723\"},{\"title\":\"The breast cancer susceptibility mutation PALB2 1592delT is associated with an aggressive tumor phenotype.\",\"author\":\"Heikkinen T\",\"pubdate\":\"2009 May 1\",\"source\":\"Clin Cancer Res\",\"uid\":\"19383810\"},{\"title\":\"Contribution of inherited mutations in the BRCA2-interacting protein PALB2 to familial breast cancer.\",\"author\":\"Casadei S\",\"pubdate\":\"2011 Mar 15\",\"source\":\"Cancer Res\",\"uid\":\"21285249\"},{\"title\":\"Mutation analysis of PALB2 in BRCA1 and BRCA2-negative breast and\/or ovarian cancer families from Eastern Ontario, Canada.\",\"author\":\"Hartley T\",\"pubdate\":\"2014\",\"source\":\"Hered Cancer Clin Pract\",\"uid\":\"25225577\"},{\"title\":\"The PALB2 gene is a strong candidate for clinical testing in BRCA1- and BRCA2-negative hereditary breast cancer.\",\"author\":\"Janatova M\",\"pubdate\":\"2013 Dec\",\"source\":\"Cancer Epidemiol Biomarkers Prev\",\"uid\":\"24136930\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Mutation analysis of PALB2 in BRCA1 and BRCA2-negative breast and\/or ovarian cancer families from Eastern Ontario, Canada.\",\"author\":\"Hartley T\",\"pubdate\":\"2014\",\"source\":\"Hered Cancer Clin Pract\",\"uid\":\"25225577\"},{\"title\":\"The PALB2 gene is a strong candidate for clinical testing in BRCA1- and BRCA2-negative hereditary breast cancer.\",\"author\":\"Janatova M\",\"pubdate\":\"2013 Dec\",\"source\":\"Cancer Epidemiol Biomarkers Prev\",\"uid\":\"24136930\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"5.0\",\"tally\":\"5\",\"pmid\":{\"publications\":[{\"title\":\"A recurrent mutation in PALB2 in Finnish cancer families.\",\"author\":\"Erkko H\",\"pubdate\":\"2007 Mar 15\",\"source\":\"Nature\",\"uid\":\"17287723\"},{\"title\":\"The breast cancer susceptibility mutation PALB2 1592delT is associated with an aggressive tumor phenotype.\",\"author\":\"Heikkinen T\",\"pubdate\":\"2009 May 1\",\"source\":\"Clin Cancer Res\",\"uid\":\"19383810\"}],\"notes\":{\"note\":\"\"}}},\"AggregateVariantAnalysis\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Clinical outcomes in women with breast cancer and a PALB2 mutation: a prospective cohort analysis.\",\"author\":\"Cybulski C\",\"pubdate\":\"2015 Jun\",\"source\":\"Lancet Oncol\",\"uid\":\"25959805\"}]}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Control of BRCA2 cellular and clinical functions by a nuclear partner, PALB2.\",\"author\":\"Xia B\",\"pubdate\":\"2006 Jun 23\",\"source\":\"Mol Cell\",\"uid\":\"16793542\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"A recurrent mutation in PALB2 in Finnish cancer families.\",\"author\":\"Erkko H\",\"pubdate\":\"2007 Mar 15\",\"source\":\"Nature\",\"uid\":\"17287723\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"3.0\",\"tally\":\"3\",\"pmid\":{\"publications\":[{\"title\":\"Palb2 synergizes with Trp53 to suppress mammary tumor formation in a model of inherited breast cancer.\",\"author\":\"Bowman-Colin C\",\"pubdate\":\"2013 May 21\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"23657012\"},{\"title\":\"Compromised BRCA1-PALB2 interaction is associated with breast cancer risk.\",\"author\":\"Foo TK\",\"pubdate\":\"2017 Jul 20\",\"source\":\"Oncogene\",\"uid\":\"28319063\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"06\/02\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12\/01\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1480579200,
-  "file":null,
-  "dateISO8601":"2016-12-01T00:00:00",
-  "entrez_id":"79728",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM114480":
-   {"ontology":"OMIM",
-    "curie":"OMIM:114480",
-    "uri":"OMIM114480",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_114480"},
-   "ORPHA227535":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227535",
-    "uri":"ORPHA227535",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227535"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 01, 2016",
-  "scoreJsonSerializedSop5":""},
- "3215":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Hereditary breast cancer",
-  "genes":
-  {"HGNC:9823":
-   {"ontology":"HGNC", "curie":"HGNC:9823", "uri":"HGNC9823"}},
-  "title":"RAD51D  Hereditary breast cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"RAD51D\",\"Hgnc\":\"9823\",\"OrphaNet\":\"ORPHA227535\",\"Disease\":\"Hereditary breast cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Associations Between Cancer Predisposition Testing Panel Genes and Breast Cancer.\",\"author\":\"Couch FJ\",\"pubdate\":\"2017 Sep 1\",\"source\":\"JAMA Oncol\",\"uid\":\"28418444\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Evidence for simultaneous protein interactions between human Rad51 paralogs.\",\"author\":\"Schild D\",\"pubdate\":\"2000 Jun 2\",\"source\":\"J Biol Chem\",\"uid\":\"10749867\"},{\"title\":\"RAD51 up-regulation bypasses BRCA1 function and is a common feature of BRCA1-deficient breast tumors.\",\"author\":\"Martin RW\",\"pubdate\":\"2007 Oct 15\",\"source\":\"Cancer Res\",\"uid\":\"17942895\"},{\"title\":\"Identification and purification of two distinct complexes containing the five RAD51 paralogs.\",\"author\":\"Masson JY\",\"pubdate\":\"2001 Dec 15\",\"source\":\"Genes Dev\",\"uid\":\"11751635\"},{\"title\":\"Proteomics. Tissue-based map of the human proteome.\",\"author\":\"Uhl\\u00e9n M\",\"pubdate\":\"2015 Jan 23\",\"source\":\"Science\",\"uid\":\"25613900\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Germline mutations in RAD51D confer susceptibility to ovarian cancer.\",\"author\":\"Loveday C\",\"pubdate\":\"2011 Aug 7\",\"source\":\"Nat Genet\",\"uid\":\"21822267\"},{\"title\":\"Extensive chromosomal instability in Rad51d-deficient mouse cells.\",\"author\":\"Smiraldo PG\",\"pubdate\":\"2005 Mar 15\",\"source\":\"Cancer Res\",\"uid\":\"15781618\"},{\"title\":\"The homologous recombination protein RAD51D protects the genome from large deletions.\",\"author\":\"Reh WA\",\"pubdate\":\"2017 Feb 28\",\"source\":\"Nucleic Acids Res\",\"uid\":\"27924006\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"4\",\"GeneticEvidencePointsTotal\":\"4\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"6\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"11\/08\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"11\/08\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1510128000,
-  "file":null,
-  "dateISO8601":"2017-11-08T00:00:00",
-  "entrez_id":"5892",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016419"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA227535":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:227535",
-    "uri":"ORPHA227535",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_227535"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Nov 08, 2017",
-  "scoreJsonSerializedSop5":""},
  "5658":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"Nonsyndromic sensorineural hearing loss",
@@ -2834,98 +2468,6 @@
   "dateFormated":"Nov 21, 2017",
   "scoreJsonSerializedSop5":
   "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530665561\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"SCN10A\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:10582\",\"uri\":\"HGNC10582\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"SCN10A Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"evidence\":{\"publications\":{\"1530664887753\":{\"title\":\"Mutations in SCN10A are responsible for a large fraction of cases of Brugada syndrome.\",\"author\":\"Hu D\",\"pubdate\":\"2014 Jul 8\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"24998131\"},\"1530664996201\":{\"title\":\"Role of common and rare variants in SCN10A: results from the Brugada syndrome QRS locus gene discovery collaborative study.\",\"author\":\"Behr ER\",\"pubdate\":\"2015 Jun 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"25691538\"},\"1530665029664\":{\"title\":\"Novel SCN10A variants associated with Brugada syndrome.\",\"author\":\"Fukuyama M\",\"pubdate\":\"2016 Jun\",\"source\":\"Europace\",\"uid\":\"25842276\"},\"1530665055635\":{\"title\":\"Association of common and rare variants of SCN10A gene with sudden unexplained nocturnal death syndrome in Chinese Han population.\",\"author\":\"Zhang L\",\"pubdate\":\"2017 Jan\",\"source\":\"Int J Legal Med\",\"uid\":\"27272739\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"3\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"0.75\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530665078853\":{\"title\":\"Mutations in SCN10A are responsible for a large fraction of cases of Brugada syndrome.\",\"author\":\"Hu D\",\"pubdate\":\"2014 Jul 8\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"24998131\"},\"1530665503248\":{\"title\":\"A common genetic variant within SCN10A modulates cardiac SCN5A expression.\",\"author\":\"van den Boogaard M\",\"pubdate\":\"2014 Apr\",\"source\":\"J Clin Invest\",\"uid\":\"24642470\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530665312248\":{\"title\":\"A tetrodotoxin-resistant voltage-gated sodium channel from human dorsal root ganglia, hPN3\/SCN10A.\",\"author\":\"Rabert DK\",\"pubdate\":\"1998 Nov\",\"source\":\"Pain\",\"uid\":\"9839820\"},\"1530665439204\":{\"title\":\"Blocking Scn10a channels in heart reduces late sodium current and is antiarrhythmic.\",\"author\":\"Yang T\",\"pubdate\":\"2012 Jul 20\",\"source\":\"Circ Res\",\"uid\":\"22723299\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530665091101\":{\"title\":\"Blocking Scn10a channels in heart reduces late sodium current and is antiarrhythmic.\",\"author\":\"Yang T\",\"pubdate\":\"2012 Jul 20\",\"source\":\"Circ Res\",\"uid\":\"22723299\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530665391732\":{\"title\":\"Contrasting Nav1.8 Activity in Scn10a-\/- Ventricular Myocytes and the Intact Heart.\",\"author\":\"Stroud DM\",\"pubdate\":\"2016 Nov 2\",\"source\":\"J Am Heart Assoc\",\"uid\":\"27806966\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.25\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"3\",\"ExperimentalEvidenceTotal\":\"1.25\",\"EvidencePointsTotal\":\"4.25\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"07\/18\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "9909":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"952":{"ontology":"HGNC", "curie":"HGNC:952", "uri":"HGNC952"}},
-  "title":"BARD1: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"BARD1\",\"Hgnc\":\"952\",\"OrphaNet\":\"213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Inherited Mutations in Women With Ovarian Carcinoma.\",\"author\":\"Norquist BM\",\"pubdate\":\"2016 Apr\",\"source\":\"JAMA Oncol\",\"uid\":\"26720728\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"The RING heterodimer BRCA1-BARD1 is a ubiquitin ligase inactivated by a breast cancer-derived mutation.\",\"author\":\"Hashizume R\",\"pubdate\":\"2001 May 4\",\"source\":\"J Biol Chem\",\"uid\":\"11278247\"},{\"title\":\"Identification of a RING protein that can interact in vivo with the BRCA1 gene product.\",\"author\":\"Wu LC\",\"pubdate\":\"1996 Dec\",\"source\":\"Nat Genet\",\"uid\":\"8944023\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1\",\"GeneticEvidenceTotal\":\"1\",\"GeneticEvidencePointsTotal\":\"1\",\"ExperimentalEvidencePointsTotal\":\"1\",\"EvidencePointsTotal\":\"2\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"08\/09\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"08\/09\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1502262000,
-  "file":null,
-  "dateISO8601":"2017-08-09T00:00:00",
-  "entrez_id":"580",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Aug 09, 2017",
-  "scoreJsonSerializedSop5":""},
- "9940":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"26144":
-   {"ontology":"HGNC", "curie":"HGNC:26144", "uri":"HGNC26144"}},
-  "title":"PALB2: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"PALB2\",\"Hgnc\":\"26144\",\"OrphaNet\":\"ORPHA213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"6.0\",\"tally\":\"6\",\"pmid\":{\"publications\":[{\"title\":\"Inherited Mutations in Women With Ovarian Carcinoma.\",\"author\":\"Norquist BM\",\"pubdate\":\"2016 Apr\",\"source\":\"JAMA Oncol\",\"uid\":\"26720728\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Control of BRCA2 cellular and clinical functions by a nuclear partner, PALB2.\",\"author\":\"Xia B\",\"pubdate\":\"2006 Jun 23\",\"source\":\"Mol Cell\",\"uid\":\"16793542\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"A recurrent mutation in PALB2 in Finnish cancer families.\",\"author\":\"Erkko H\",\"pubdate\":\"2007 Mar 15\",\"source\":\"Nature\",\"uid\":\"17287723\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"6\",\"GeneticEvidencePointsTotal\":\"6\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"8\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"11\/08\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"11\/08\/2017\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1510128000,
-  "file":null,
-  "dateISO8601":"2017-11-08T00:00:00",
-  "entrez_id":"79728",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Nov 08, 2017",
-  "scoreJsonSerializedSop5":""},
- "8523":
- {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
-  "label":"Familial ovarian cancer",
-  "genes":
-  {"HGNC:16627":
-   {"ontology":"HGNC", "curie":"HGNC:16627", "uri":"HGNC16627"}},
-  "title":"CHEK2: Familial ovarian cancer",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"CHEK2\",\"Hgnc\":\"16627\",\"OrphaNet\":\"ORPHA213517\",\"Disease\":\"Familial ovarian cancer\",\"Omim\":\"N\/A\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"hCds1-mediated phosphorylation of BRCA1 regulates the DNA damage response.\",\"author\":\"Lee JS\",\"pubdate\":\"2000 Mar 9\",\"source\":\"Nature\",\"uid\":\"10724175\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"DNA damage-induced activation of p53 by the checkpoint kinase Chk2.\",\"author\":\"Hirao A\",\"pubdate\":\"2000 Mar 10\",\"source\":\"Science\",\"uid\":\"10710310\"},{\"title\":\"Concomitant inactivation of p53 and Chk2 in breast cancer.\",\"author\":\"Sullivan A\",\"pubdate\":\"2002 Feb 21\",\"source\":\"Oncogene\",\"uid\":\"11857075\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"ValidContradictoryEvidence\":{\"YesNo\":\"YES\",\"pmid\":{\"publications\":{\"1507147645981\":{\"title\":\"High frequency of BRCA1, but not CHEK2 or NBS1 (NBN), founder mutations in Russian ovarian cancer patients.\",\"author\":\"Suspitsin EN\",\"pubdate\":\"2009 Feb 25\",\"source\":\"Hered Cancer Clin Pract\",\"uid\":\"19338682\"},\"1507147658981\":{\"title\":\"Analysis of CHEK2 gene for ovarian cancer susceptibility.\",\"author\":\"Baysal BE\",\"pubdate\":\"2004 Oct\",\"source\":\"Gynecol Oncol\",\"uid\":\"15385111\"},\"1507147680277\":{\"title\":\"CHEK2 variants predispose to benign, borderline and low-grade invasive ovarian tumors.\",\"author\":\"Szymanska-Pasternak J\",\"pubdate\":\"2006 Sep\",\"source\":\"Gynecol Oncol\",\"uid\":\"16828850\"}},\"notes\":{\"note\":\"Suggests no association with ovarian cancer\"}}},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"0\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"2\",\"CalculatedClassification\":\"CONFLICTING EVIDENCE REPORTED\",\"CalculatedClassificationDate\":\"12\/14\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"12\/14\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1481702400,
-  "file":null,
-  "dateISO8601":"2016-12-14T00:00:00",
-  "entrez_id":"11200",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0016248"},
-   "OMIM":
-   {"ontology":"OMIM",
-    "curie":"OMIM:",
-    "uri":"OMIM",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_"},
-   "ORPHA213517":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:213517",
-    "uri":"ORPHA213517",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Dec 14, 2016",
-  "scoreJsonSerializedSop5":""},
  "8400":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"Usher syndrome type 3",
