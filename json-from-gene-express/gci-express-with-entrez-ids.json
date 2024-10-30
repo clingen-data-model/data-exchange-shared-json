@@ -2594,36 +2594,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Nov 18, 2016",
   "scoreJsonSerializedSop5":""},
- "8152":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Nonsyndromic sensorineural hearing loss",
-  "genes":
-  {"232":{"ontology":"HGNC", "curie":"HGNC:232", "uri":"HGNC232"}},
-  "title":"ADCY1: Nonsyndromic sensorineural hearing loss",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ADCY1\",\"Hgnc\":\"232\",\"OrphaNet\":\"ORPHA90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"610154\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Adenylate cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish.\",\"author\":\"Santos-Cortez RL\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24482543\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Adenylate cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish.\",\"author\":\"Santos-Cortez RL\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24482543\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Adenylate cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish.\",\"author\":\"Santos-Cortez RL\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24482543\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Adenylate cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish.\",\"author\":\"Santos-Cortez RL\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24482543\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Adenylate cyclase 1 (ADCY1) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish.\",\"author\":\"Santos-Cortez RL\",\"pubdate\":\"2014 Jun 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"24482543\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"8\",\"GeneticEvidencePointsTotal\":\"8\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"10\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"12\/16\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"05\/10\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1494399600,
-  "file":null,
-  "dateISO8601":"2017-05-10T00:00:00",
-  "entrez_id":"107",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0019588"},
-   "OMIM610154":
-   {"ontology":"OMIM",
-    "curie":"OMIM:610154",
-    "uri":"OMIM610154",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_610154"},
-   "ORPHA90636":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:90636",
-    "uri":"ORPHA90636",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"May 10, 2017",
-  "scoreJsonSerializedSop5":""},
  "10159":
  {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
   "label":"Brugada Syndrome",
