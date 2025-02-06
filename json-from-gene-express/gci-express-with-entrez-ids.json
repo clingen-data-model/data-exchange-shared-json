@@ -2927,40 +2927,6 @@
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Apr 12, 2017",
   "scoreJsonSerializedSop5":""},
- "8265":
- {"affiliation":
-  {"id":"10044",
-   "name":"Familial Thoracic Aortic Aneurysm and Dissection"},
-  "label":"Familial thoracic aortic aneurysm and aortic dissection",
-  "genes":
-  {"HGNC:6768":
-   {"ontology":"HGNC", "curie":"HGNC:6768", "uri":"HGNC6768"}},
-  "title":
-  "SMAD2 : Familial thoracic aortic aneurysm and aortic dissection",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"SMAD2\",\"Hgnc\":\"6768\",\"OrphaNet\":\"91387\",\"Disease\":\"Familial thoracic aortic aneurysm and aortic dissection\",\"Omim\":\"601366\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.0\",\"tally\":\"0\",\"pmid\":{\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"SMAD2 Mutations Are Associated with Arterial Aneurysms and Dissections.\",\"author\":\"Micha D\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26247899\"}],\"notes\":{\"note\":\"Confirmed de novo . p.(Leu449Ser) in a female with Aortic root dilatation. Some skeletal features - Marfanoid - pes planus, genu valgi, high palate, narrow face, wrist sign, mild scoliosis. \"}}},\"VariantIsDeNovo\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNon-LOFVariantsInTrans\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"0.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"0.0\",\"tally\":\"0\"}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"},\"AggregateVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"SMAD2 Mutations Are Associated with Arterial Aneurysms and Dissections.\",\"author\":\"Micha D\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26247899\"},{\"title\":\"Crystal structure of a phosphorylated Smad2. Recognition of phosphoserine by the MH2 domain and insights on Smad function in TGF-beta signaling.\",\"author\":\"Wu JW\",\"pubdate\":\"2001 Dec\",\"source\":\"Mol Cell\",\"uid\":\"11779503\"},{\"title\":\"MADR2 is a substrate of the TGFbeta receptor and its phosphorylation is required for nuclear accumulation and signaling.\",\"author\":\"Mac\\u00edas-Silva M\",\"pubdate\":\"1996 Dec 27\",\"source\":\"Cell\",\"uid\":\"8980228\"},{\"title\":\"SMAD proteins control DROSHA-mediated microRNA maturation.\",\"author\":\"Davis BN\",\"pubdate\":\"2008 Jul 3\",\"source\":\"Nature\",\"uid\":\"18548003\"},{\"title\":\"TGF-beta receptor-mediated signalling through Smad2, Smad3 and Smad4.\",\"author\":\"Nakao A\",\"pubdate\":\"1997 Sep 1\",\"source\":\"EMBO J\",\"uid\":\"9311995\"},{\"title\":\"Syndromic and non-syndromic aneurysms of the human ascending aorta share activation of the Smad2 pathway.\",\"author\":\"Gomez D\",\"pubdate\":\"2009 May\",\"source\":\"J Pathol\",\"uid\":\"19224541\"}],\"notes\":{\"note\":\"Biochemical function: \\r\\nRole in TGF-Beta canonical signalling:\\r\\nPMID 26247899: Western blot of dermal fibroblasts from pt with p.Gly457Arg  showed increased pSMAD2 & pSMAD3 after stimulation with TGFB1. \\r\\n\\r\\nPMID 11779503: used crystal structure and immunoblotting to demonstrate homo-and hetero-trimerisation of SMAD2 with SMAD3.\\r\\nPMID 8980228:  used immunoblots to demonstrate transient association of SMAD2 with TGFBR1 and TGFBR2 (the receptor complex), & that this results in SMAD2 phosphorylation.\\r\\nPMID 18548003 showed that SMAD2 is required for miRNA -controlled induction of contractile phenotype in vascular smooth muscle cells \\u2013 used RNA-chromatin immunoprecipitation analysis on Cos7 cells co-transfected with pCMV-miR-21 and Flag-tagged SMAD1, SMAD3 or SMAD2; demonstrated that stimulation with TGFB induced SMAD2 binding of pri-miR-21 and therefore increased recruitment of DROSHA complexes (which in turn regulate further miRNAs controlling contractile phenotype).\\r\\n\\r\\nProtein Interaction\\r\\nPMID 11779503:  demonstrated heterotrimerisation of SMAD2 + SMAD3 in vitro and in vivo (immunoblotting) (1\/2 pt)\\r\\nPMID 9311995 used immunoprecipitation & immunoblotting to demonstrate heteromer formation of SMAD2 with SMAD4 when a constitutively active form of TGFBR1 was expressed: interaction with TGFBR1 (1\/2 pt) + SMAD4 (1\/2 pt)\\r\\nPMID 8980228:  used immunoblots to demonstrate transient association of SMAD2 with TGFBR1 and TGFBR2 (the receptor complex) (1 pt)\\r\\nExpression:\\r\\nPMID 19224541:  showed increased SMAD2 mRNA levels in aortic aneurysm tissues from all causes and increased pSMAD2.\\t\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"SMAD2 Mutations Are Associated with Arterial Aneurysms and Dissections.\",\"author\":\"Micha D\",\"pubdate\":\"2015 Dec\",\"source\":\"Hum Mutat\",\"uid\":\"26247899\"}],\"notes\":{\"note\":\" Western blot of dermal fibroblasts from patient with p.Gly457Arg  showed increased pSMAD2&3 after stimulation with TGFB1.\\r\\n\"}}},\"ModelsRescue\":{\"value\":\"0.0\",\"tally\":\"\"}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"3\",\"GeneticEvidenceTotal\":\"2\",\"GeneticEvidencePointsTotal\":\"2\",\"ExperimentalEvidencePointsTotal\":\"3\",\"EvidencePointsTotal\":\"5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"05\/03\/2016\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"05\/03\/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"12\/22\/2016\",\"FinalClassificationNotes\":\"Assertion made by the Aortopathy working group.\\r\\nRecent gene - additional data awaited to confirm\/refute clinical relevance in familial thoracic aortic aneurysm and aortic dissection.\"}}",
-  "date":1491807600,
-  "file":null,
-  "dateISO8601":"2017-04-10T00:00:00",
-  "entrez_id":"4087",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0019625"},
-   "OMIM601366":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601366",
-    "uri":"OMIM601366",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601366"},
-   "ORPHA91387":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:91387",
-    "uri":"ORPHA91387",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_91387"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Apr 10, 2017",
-  "scoreJsonSerializedSop5":""},
  "5613":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":
