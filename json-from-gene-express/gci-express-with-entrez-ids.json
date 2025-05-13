@@ -1203,37 +1203,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 15, 2017",
   "scoreJsonSerializedSop5":""},
- "8768":
- {"affiliation":{"id":"10008", "name":"Hypertrophic Cardiomyopathy"},
-  "label":"Hypertrophic cardiomyopathy",
-  "genes":
-  {"HGNC:7583":
-   {"ontology":"HGNC", "curie":"HGNC:7583", "uri":"HGNC7583"}},
-  "title":"MYL2: Hypertrophic cardiomyopathy",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"MYL2\",\"Hgnc\":\"7583\",\"OrphaNet\":\"217569\",\"Disease\":\"Hypertrophic Cardiomyopathy\",\"Omim\":\"608758\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"11.5\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Genetics of hypertrophic cardiomyopathy in Norway.\",\"author\":\"Berge KE\",\"pubdate\":\"2014 Oct\",\"source\":\"Clin Genet\",\"uid\":\"24111713\"},{\"title\":\"Identification of two novel mutations in the ventricular regulatory myosin light chain gene (MYL2) associated with familial and classical forms of hypertrophic cardiomyopathy.\",\"author\":\"Flavigny J\",\"pubdate\":\"1998 Mar\",\"source\":\"J Mol Med (Berl)\",\"uid\":\"9535554\"},{\"title\":\"Systematic analysis of the regulatory and essential myosin light chain genes: genetic variants and mutations in hypertrophic cardiomyopathy.\",\"author\":\"Kabaeva ZT\",\"pubdate\":\"2002 Nov\",\"source\":\"Eur J Hum Genet\",\"uid\":\"12404107\"},{\"title\":\"Identification of the genotypes causing hypertrophic cardiomyopathy in northern Sweden.\",\"author\":\"M\\u00f6rner S\",\"pubdate\":\"2003 Jul\",\"source\":\"J Mol Cell Cardiol\",\"uid\":\"12818575\"},{\"title\":\"Hypertrophic cardiomyopathy: distribution of disease genes, spectrum of mutations, and implications for a molecular diagnosis strategy.\",\"author\":\"Richard P\",\"pubdate\":\"2003 May 6\",\"source\":\"Circulation\",\"uid\":\"12707239\"},{\"title\":\"Novel genotype-phenotype associations demonstrated by high-throughput sequencing in patients with hypertrophic cardiomyopathy.\",\"author\":\"Lopes LR\",\"pubdate\":\"2015 Feb\",\"source\":\"Heart\",\"uid\":\"25351510\"},{\"title\":\"Mutations in either the essential or regulatory light chains of myosin are associated with a rare myopathy in human heart and skeletal muscle.\",\"author\":\"Poetter K\",\"pubdate\":\"1996 May\",\"source\":\"Nat Genet\",\"uid\":\"8673105\"},{\"title\":\"Genetic basis of end-stage hypertrophic cardiomyopathy.\",\"author\":\"Garcia-Pavia P\",\"pubdate\":\"2011 Nov\",\"source\":\"Eur J Heart Fail\",\"uid\":\"21896538\"},{\"title\":\"Hypertrophic remodelling in cardiac regulatory myosin light chain (MYL2) founder mutation carriers.\",\"author\":\"Claes GR\",\"pubdate\":\"2016 Jun 14\",\"source\":\"Eur Heart J\",\"uid\":\"26497160\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"0.0\",\"tally\":\"0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Identification of two novel mutations in the ventricular regulatory myosin light chain gene (MYL2) associated with familial and classical forms of hypertrophic cardiomyopathy.\",\"author\":\"Flavigny J\",\"pubdate\":\"1998 Mar\",\"source\":\"J Mol Med (Berl)\",\"uid\":\"9535554\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"AggregateVariantAnalysis\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Reassessment of Mendelian gene pathogenicity using 7,855 cardiomyopathy cases and 60,706 reference samples.\",\"author\":\"Walsh R\",\"pubdate\":\"2017 Feb\",\"source\":\"Genet Med\",\"uid\":\"27532257\"}]}},\"SingleVariantAnalysis\":{\"pmid\":{\"notes\":{\"note\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Familial hypertrophic cardiomyopathy mutations in the regulatory light chains of myosin affect their structure, Ca2+ binding, and phosphorylation.\",\"author\":\"Szczesna D\",\"pubdate\":\"2001 Mar 9\",\"source\":\"J Biol Chem\",\"uid\":\"11102452\"},{\"title\":\"Human atrial and ventricular myosin light-chains subunits in the adult and during development.\",\"author\":\"Price KM\",\"pubdate\":\"1980 Nov 1\",\"source\":\"Biochem J\",\"uid\":\"7236212\"},{\"title\":\"Three-dimensional structure of myosin subfragment-1: a molecular motor.\",\"author\":\"Rayment I\",\"pubdate\":\"1993 Jul 2\",\"source\":\"Science\",\"uid\":\"8316857\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.0\",\"tally\":\"0\"},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Prolonged Ca2+ and force transients in myosin RLC transgenic mouse fibers expressing malignant and benign FHC mutations.\",\"author\":\"Wang Y\",\"pubdate\":\"2006 Aug 11\",\"source\":\"J Mol Biol\",\"uid\":\"16837010\"},{\"title\":\"The E22K mutation of myosin RLC that causes familial hypertrophic cardiomyopathy increases calcium sensitivity of force and ATPase in transgenic mice.\",\"author\":\"Szczesna-Cordary D\",\"pubdate\":\"2005 Aug 15\",\"source\":\"J Cell Sci\",\"uid\":\"16076902\"},{\"title\":\"Malignant familial hypertrophic cardiomyopathy D166V mutation in the ventricular myosin regulatory light chain causes profound effects in skinned and intact papillary muscle fibers from transgenic mice.\",\"author\":\"Kerrick WG\",\"pubdate\":\"2009 Mar\",\"source\":\"FASEB J\",\"uid\":\"18987303\"},{\"title\":\"Molecular and Functional Effects of a Splice Site Mutation in the MYL2 Gene Associated with Cardioskeletal Myopathy and Early Cardiac Death in Infants.\",\"author\":\"Zhou Z\",\"pubdate\":\"2016\",\"source\":\"Front Physiol\",\"uid\":\"27378946\"},{\"title\":\"Fine-tuning in Ca2+ homeostasis underlies progression of cardiomyopathy in myocytes derived from genetically modified embryonic stem cells.\",\"author\":\"Grey C\",\"pubdate\":\"2005 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"15829506\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"9.5\",\"GeneticEvidencePointsTotal\":\"9.5\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"15.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"02\/07\/2017\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02\/07\/2017\",\"FinalClassificationNotes\":\"Approved by the Hypertrophic Cardiomyopathy Gene Curation Working Group\"}}",
-  "date":1486512000,
-  "file":null,
-  "dateISO8601":"2017-02-07T16:00:00",
-  "entrez_id":"4633",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0012112"},
-   "OMIM608758":
-   {"ontology":"OMIM",
-    "curie":"OMIM:608758",
-    "uri":"OMIM608758",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_608758"},
-   "ORPHA217569":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:217569",
-    "uri":"ORPHA217569",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_217569"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Feb 07, 2017",
-  "scoreJsonSerializedSop5":""},
  "10152":
  {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
   "label":"Brugada Syndrome",
