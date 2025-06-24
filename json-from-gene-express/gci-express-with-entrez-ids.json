@@ -1801,40 +1801,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"May 06, 2016",
   "scoreJsonSerializedSop5":""},
- "8269":
- {"affiliation":
-  {"id":"10044",
-   "name":"Familial Thoracic Aortic Aneurysm and Dissection"},
-  "label":"Familial thoracic aortic aneurysm and aortic dissection",
-  "genes":
-  {"HGNC:7881":
-   {"ontology":"HGNC", "curie":"HGNC:7881", "uri":"HGNC7881"}},
-  "title":
-  "NOTCH1 : Familial thoracic aortic aneurysm and aortic dissection",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"NOTCH1\",\"Hgnc\":\"7881\",\"OrphaNet\":\"91387\",\"Disease\":\"Familial thoracic aortic aneurysm and aortic dissection\",\"Omim\":\"190198\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Novel missense mutations (p.T596M and p.P1797H) in NOTCH1 in patients with bicuspid aortic valve.\",\"author\":\"Mohamed SA\",\"pubdate\":\"2006 Jul 14\",\"source\":\"Biochem Biophys Res Commun\",\"uid\":\"16729972\"}],\"notes\":{\"note\":\"Analysis of NOTCH1 mutation frequency and spectrum in  48 patients with sporadic BAV.\\r\\n12 patients had Aneurysm of ascending aorta.\\r\\n\\r\\nPotential relevant pathogenic mutations identified \\r\\np.P1797H: Absent in ExAC. Pt with this mutation: aortic valve calcified and insufficient  + ascending aortic aneurysm. Points =0.5\\r\\n\"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Cardiovascular malformations caused by NOTCH1 mutations do not keep left: data on 428 probands with left-sided CHD and their families.\",\"author\":\"Kerstjens-Frederikse WS\",\"pubdate\":\"2016 Sep\",\"source\":\"Genet Med\",\"uid\":\"26820064\"}],\"notes\":{\"note\":\"A cohort of 427 patients (286 male, 141 female) with non-syndromic LVOTO\\r\\n    147 of 427 probands (34%) the heart defect was familial. \\r\\n    13 novel pathogenic NOTCH1 mutations in 427 index patients (probands) (3%): eight\\r\\ntruncating (nonsense or frameshift) mutations, four RNA splicing mutations and one whole gene.\\r\\nDeletion. Their phenotypes included not only LVOTO, but also conotruncal malformations and thoracic aortic aneurysms (TAA)\\r\\np.(Arg1984*): 1 proband. Aortic valve defects + TAA\\r\\np.(Ser2486Leufs*21): 1 proband . TAA+ Aortic valve defects \\r\\n(NOTE: the mutation is in last Exon. ) otal points given is 1 as no isolated TAA was observed.\\r\\n\"}}},\"TwoNon-LOFVariantsInTrans\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"0.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"0.0\",\"tally\":\"0\"}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"},\"AggregateVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in NOTCH1 cause aortic valve disease.\",\"author\":\"Garg V\",\"pubdate\":\"2005 Sep 8\",\"source\":\"Nature\",\"uid\":\"16025100\"}],\"notes\":{\"note\":\"Expression: Activation of Notch signaling is increased in the aortic wall of DTAAD patients\\r\\n\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Notch-dependent EMT is attenuated in patients with aortic aneurysm and bicuspid aortic valve.\",\"author\":\"Kostina AS\",\"pubdate\":\"2016 Apr\",\"source\":\"Biochim Biophys Acta\",\"uid\":\"26876948\"}],\"notes\":{\"note\":\"Patient cells:\\r\\nNotch-dependent endothelial-to-mesenchymal transition is attenuated in patients with aortic aneurysm and bicuspid aortic valve\\r\\n\"}}},\"ModelsRescue\":{\"value\":\"0.0\",\"tally\":\"\"}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"1.5\",\"GeneticEvidenceTotal\":\"1.5\",\"GeneticEvidencePointsTotal\":\"1.5\",\"ExperimentalEvidencePointsTotal\":\"1.5\",\"EvidencePointsTotal\":\"3\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"03\/27\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"04\/06\/2016\",\"FinalClassificationNotes\":\"Assertion made by the Aortopathy working group. \\r\\nAssociation with BAV is strong but not isolated HTAAD.NOTCH1 may be predictive of thoracic aortic enlargement without evidence of progression to aortic dissection so far\"}}",
-  "date":1459926000,
-  "file":null,
-  "dateISO8601":"2016-04-06T00:00:00",
-  "entrez_id":"4851",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0019625"},
-   "OMIM190198":
-   {"ontology":"OMIM",
-    "curie":"OMIM:190198",
-    "uri":"OMIM190198",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_190198"},
-   "ORPHA91387":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:91387",
-    "uri":"ORPHA91387",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_91387"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Apr 06, 2016",
-  "scoreJsonSerializedSop5":""},
  "9868":
  {"affiliation":{"id":"10043", "name":"Colon Cancer"},
   "label":"Colorectal cancer Susceptibility",
