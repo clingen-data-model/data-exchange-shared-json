@@ -983,37 +983,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Dec 22, 2016",
   "scoreJsonSerializedSop5":""},
- "3201":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Dyskeratosis Congenita",
-  "genes":
-  {"HGNC:14377":
-   {"ontology":"HGNC", "curie":"HGNC:14377", "uri":"HGNC14377"}},
-  "title":"NHP2  Dyskeratosis Congenita",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"NHP2\",\"Hgnc\":\"14377\",\"OrphaNet\":\"ORPHA1775\",\"Disease\":\"Dyskeratosis Congenita\",\"Omim\":\"613987\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the telomerase component NHP2 cause the premature ageing syndrome dyskeratosis congenita.\",\"author\":\"Vulliamy T\",\"pubdate\":\"2008 Jun 10\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18523010\"}],\"notes\":{\"note\":\"Variant points were downgraded because later papers suggest that the null variant may still result in functional protein product.\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"1.0\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Effects of dyskeratosis congenita mutations in dyskerin, NHP2 and NOP10 on assembly of H\/ACA pre-RNPs.\",\"author\":\"Trahan C\",\"pubdate\":\"2010 Mar 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"20008900\"},{\"title\":\"Proteostatic control of telomerase function through TRiC-mediated folding of TCAB1.\",\"author\":\"Freund A\",\"pubdate\":\"2014 Dec 4\",\"source\":\"Cell\",\"uid\":\"25467444\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.5\",\"tally\":\"2.5\",\"pmid\":{\"publications\":[{\"title\":\"Stable expression in yeast of the mature form of human telomerase RNA depends on its association with the box H\/ACA small nucleolar RNP proteins Cbf5p, Nhp2p and Nop10p.\",\"author\":\"Dez C\",\"pubdate\":\"2001 Feb 1\",\"source\":\"Nucleic Acids Res\",\"uid\":\"11160879\"},{\"title\":\"Mutations in the telomerase component NHP2 cause the premature ageing syndrome dyskeratosis congenita.\",\"author\":\"Vulliamy T\",\"pubdate\":\"2008 Jun 10\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18523010\"},{\"title\":\"Mutations in the telomerase component NHP2 cause the premature ageing syndrome dyskeratosis congenita.\",\"author\":\"Vulliamy T\",\"pubdate\":\"2008 Jun 10\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"18523010\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"4\",\"GeneticEvidenceTotal\":\"2\",\"GeneticEvidencePointsTotal\":\"2\",\"ExperimentalEvidencePointsTotal\":\"4\",\"EvidencePointsTotal\":\"6\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"08\/04\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"LIMITED\",\"FinalClassificationDate\":\"01\/25\/2017\",\"FinalClassificationNotes\":\"During expert review, the expert added more experimental evidence; however, the clinical validity classification remained limited.\"}}",
-  "date":1485331200,
-  "file":null,
-  "dateISO8601":"2017-01-25T00:00:00",
-  "entrez_id":"55651",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0015780"},
-   "OMIM613987":
-   {"ontology":"OMIM",
-    "curie":"OMIM:613987",
-    "uri":"OMIM613987",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_613987"},
-   "ORPHA1775":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:1775",
-    "uri":"ORPHA1775",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_1775"}},
-  "scores":{"3974":{"label":"Limited"}},
-  "dateFormated":"Jan 25, 2017",
-  "scoreJsonSerializedSop5":""},
  "8503":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
   "label":"Familial ovarian cancer",
