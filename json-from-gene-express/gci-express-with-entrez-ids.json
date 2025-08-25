@@ -1,35 +1,4 @@
-{"10146":
- {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
-  "label":"Brugada Syndrome",
-  "genes":
-  {"HGNC:1390":
-   {"ontology":"HGNC", "curie":"HGNC:1390", "uri":"HGNC1390"}},
-  "title":"CACNA1C: Brugada Syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1511251200,
-  "file":null,
-  "dateISO8601":"2017-11-21T00:00:00",
-  "entrez_id":"775",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0015263"},
-   "OMIM601144":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601144",
-    "uri":"OMIM601144",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601144"},
-   "ORPHA130":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:130",
-    "uri":"ORPHA130",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_130"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Nov 21, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530654831\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CACNA1C\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:1390\",\"uri\":\"HGNC1390\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"CACNA1C Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"3.75\",\"Tally\":\"3.75\",\"evidence\":{\"publications\":{\"1530654930886\":{\"title\":\"Loss-of-function mutations in the cardiac calcium channel underlie a new clinical entity characterized by ST-segment elevation, short QT intervals, and sudden cardiac death.\",\"author\":\"Antzelevitch C\",\"pubdate\":\"2007 Jan 30\",\"source\":\"Circulation\",\"uid\":\"17224476\"},\"1530654956647\":{\"title\":\"Mutations in the cardiac L-type calcium channel associated with inherited J-wave syndromes and sudden cardiac death.\",\"author\":\"Burashnikov E\",\"pubdate\":\"2010 Dec\",\"source\":\"Heart Rhythm\",\"uid\":\"20817017\"},\"1530655017459\":{\"title\":\"L-type calcium channel mutations in Japanese patients with inherited arrhythmias.\",\"author\":\"Fukuyama M\",\"pubdate\":\"2013\",\"source\":\"Circ J\",\"uid\":\"23575362\"},\"1530655058273\":{\"title\":\"Nonsense-mediated mRNA decay due to a CACNA1C splicing mutation in a patient with Brugada syndrome.\",\"author\":\"Fukuyama M\",\"pubdate\":\"2014 Apr\",\"source\":\"Heart Rhythm\",\"uid\":\"24321233\"},\"1530655306104\":{\"title\":\"Brugada syndrome and calcium channel mutation in a patient with congenital deaf mutism.\",\"author\":\"Canpolat U\",\"pubdate\":\"2017 Jan - Feb\",\"source\":\"Indian Pacing Electrophysiol J\",\"uid\":\"28401855\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"3.75\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530655100560\":{\"title\":\"Cloning, chromosomal localization, and functional expression of the alpha 1 subunit of the L-type voltage-dependent calcium channel from normal human heart.\",\"author\":\"Schultz D\",\"pubdate\":\"1993 Jul 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"8392192\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.3\",\"NonPatientCells\":{\"Value\":\"0.30\",\"evidence\":{\"publications\":{\"1530655087570\":{\"title\":\"Mutations in the cardiac L-type calcium channel associated with inherited J-wave syndromes and sudden cardiac death.\",\"author\":\"Burashnikov E\",\"pubdate\":\"2010 Dec\",\"source\":\"Heart Rhythm\",\"uid\":\"20817017\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"0.8\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"3.75\",\"ExperimentalEvidenceTotal\":\"0.8\",\"EvidencePointsTotal\":\"4.55\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"04\/27\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "10154":
+{"10154":
  {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
   "label":"Brugada Syndrome",
   "genes":
@@ -791,40 +760,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_213517"}},
   "scores":{"3975":{"label":"No Reported Evidence"}},
   "dateFormated":"Sep 14, 2016",
-  "scoreJsonSerializedSop5":""},
- "8249":
- {"affiliation":
-  {"id":"10044",
-   "name":"Familial Thoracic Aortic Aneurysm and Dissection"},
-  "label":"Familial thoracic aortic aneurysm and aortic dissection",
-  "genes":
-  {"HGNC:130":
-   {"ontology":"HGNC", "curie":"HGNC:130", "uri":"HGNC130"}},
-  "title":
-  "ACTA2 : Familial thoracic aortic aneurysm and aortic dissection",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ACTA2\",\"Hgnc\":\"130\",\"OrphaNet\":\"91387\",\"Disease\":\"Familial thoracic aortic aneurysm and aortic dissection\",\"Omim\":\"102620\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"14.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections.\",\"author\":\"Guo DC\",\"pubdate\":\"2007 Dec\",\"source\":\"Nat Genet\",\"uid\":\"17994018\"},{\"title\":\"Clinical, pathological, and genetic analysis of a Korean family with thoracic aortic aneurysms and dissections carrying a novel Asp26Tyr mutation.\",\"author\":\"Yoo EH\",\"pubdate\":\"2010 Summer\",\"source\":\"Ann Clin Lab Sci\",\"uid\":\"20689142\"},{\"title\":\"Mutation of ACTA2 gene as an important cause of familial and nonfamilial nonsyndromatic thoracic aortic aneurysm and\/or dissection (TAAD).\",\"author\":\"Morisaki H\",\"pubdate\":\"2009 Oct\",\"source\":\"Hum Mutat\",\"uid\":\"19639654\"},{\"title\":\"Mutations in smooth muscle alpha-actin (ACTA2) cause coronary artery disease, stroke, and Moyamoya disease, along with thoracic aortic disease.\",\"author\":\"Guo DC\",\"pubdate\":\"2009 May\",\"source\":\"Am J Hum Genet\",\"uid\":\"19409525\"}],\"notes\":{\"note\":\"17994018: 6 probands * 2 points + 8 probands  * 1 point\\r\\nAdditional PMIDs with probands and segregation data\\r\\n19409525 \\r\\n19639654 \\r\\n20689142\\r\\nThe curation is not comprehensive as maximum genetic score was reached.\"}}},\"ProbandWithLOF\":{\"value\":\"0.0\",\"tally\":\"0\"},\"VariantIsDeNovo\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNon-LOFVariantsInTrans\":{\"value\":\"0.0\",\"tally\":\"0\"},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"0.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"10.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections.\",\"author\":\"Guo DC\",\"pubdate\":\"2007 Dec\",\"source\":\"Nat Genet\",\"uid\":\"17994018\"}],\"notes\":{\"note\":\"17994018: All family members with Thoracic aortic aneurysm and dissection (TAAD) also exhibited livedo reticularius. Fine mapping with 31 microsatellite markers on 27 family members on  10q23-24 ->LOD 4.4 (TAAD+ Livedo reticularis) . Analysis of recombinants ->17.2Mb region with  candidate gene seq-> ACTA2 R149C. Segregation of this variant with livedo reticularis ->LOD 5.8. 5 points\\r\\n\\r\\nLinkage analysis of TAAD with ACTA2 mutations revealed a LOD score of 4.17 in 14 families of European descent.\\r\\nPoints: 5\\r\\n\"}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"},\"AggregateVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"\"}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Severe Molecular Defects Exhibited by the R179H Mutation in Human Vascular Smooth Muscle \\u03b1-Actin.\",\"author\":\"Lu H\",\"pubdate\":\"2016 Oct 7\",\"source\":\"J Biol Chem\",\"uid\":\"27551047\"},{\"title\":\"Vascular disease-causing mutation R258C in ACTA2 disrupts actin dynamics and interaction with myosin.\",\"author\":\"Lu H\",\"pubdate\":\"2015 Aug 4\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"26153420\"}],\"notes\":{\"note\":\"27551047: The R179H mutation in SM \\u03b1-actin shows severe defects in many facets of actin function including its inability to readily polymerize, with R179H mutant requiring forty-fold more actin to form filaments relative to wild type. \\r\\n26153420: ACTA2(R258C)  mutant actin shows multiple defects, including impaired interaction with myosin, formation of less stable filaments, and enhanced levels of monomer. These defects are likely to decrease cellular force production and initiate aberrant mechanosensing pathways that culminate in the disease. \"}}},\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in smooth muscle alpha-actin (ACTA2) lead to thoracic aortic aneurysms and dissections.\",\"author\":\"Guo DC\",\"pubdate\":\"2007 Dec\",\"source\":\"Nat Genet\",\"uid\":\"17994018\"}],\"notes\":{\"note\":\"ACTA2-Antibdy and phalliodin staining of ACTA2 filaments in aortic SMCs derived from two individuals with TAAD who were heterozygous for ACTA2 revealed an absence of ACTA2-containing filaments and an increased pool of unpolymerized ACTA2.\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Impaired vascular contractility and blood pressure homeostasis in the smooth muscle alpha-actin null mouse.\",\"author\":\"Schildmeyer LA\",\"pubdate\":\"2000 Nov\",\"source\":\"FASEB J\",\"uid\":\"11053242\"}],\"notes\":{\"note\":\"Mouse model : Referenced in http:\/\/www.informatics.jax.org\/allele\/MGI:3665248 Defective aortic morphology and highly compromised vascular contractility. \"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"5\",\"EvidencePointsTotal\":\"17\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"07\/13\/2016\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"DEFINITIVE\",\"CuratorClassificationDate\":\"07\/13\/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"09\/27\/2016\",\"FinalClassificationNotes\":\"Assertion made by the Aortopathy working group.\\r\\n\"}}",
-  "date":1474959600,
-  "file":null,
-  "dateISO8601":"2016-09-27T00:00:00",
-  "entrez_id":"59",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0019625"},
-   "OMIM102620":
-   {"ontology":"OMIM",
-    "curie":"OMIM:102620",
-    "uri":"OMIM102620",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_102620"},
-   "ORPHA91387":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:91387",
-    "uri":"ORPHA91387",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_91387"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Sep 27, 2016",
   "scoreJsonSerializedSop5":""},
  "6238":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
