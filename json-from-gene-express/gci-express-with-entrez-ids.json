@@ -1,35 +1,4 @@
-{"10154":
- {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
-  "label":"Brugada Syndrome",
-  "genes":
-  {"HGNC:6251":
-   {"ontology":"HGNC", "curie":"HGNC:6251", "uri":"HGNC6251"}},
-  "title":"KCNH2: Brugada Syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1511312400,
-  "file":null,
-  "dateISO8601":"2017-11-21T17:00:00",
-  "entrez_id":"3757",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0015263"},
-   "OMIM601144":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601144",
-    "uri":"OMIM601144",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601144"},
-   "ORPHA130":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:130",
-    "uri":"ORPHA130",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_130"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Nov 21, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530659595\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"KCNH2\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:6251\",\"uri\":\"HGNC6251\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"KCNH2 Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"2.50\",\"Tally\":\"2.5\",\"evidence\":{\"publications\":{\"1530659642228\":{\"title\":\"Role of sequence variations in the human ether-a-go-go-related gene (HERG, KCNH2) in the Brugada syndrome.\",\"author\":\"Verkerk AO\",\"pubdate\":\"2005 Dec 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"16043162\"},\"1530659660217\":{\"title\":\"A novel KCNH2 mutation as a modifier for short QT interval.\",\"author\":\"Itoh H\",\"pubdate\":\"2009 Sep 11\",\"source\":\"Int J Cardiol\",\"uid\":\"18692916\"},\"1530659674613\":{\"title\":\"Gain-of-function KCNH2 mutations in patients with Brugada syndrome.\",\"author\":\"Wang QI\",\"pubdate\":\"2014 May\",\"source\":\"J Cardiovasc Electrophysiol\",\"uid\":\"24400717\"},\"1530659763574\":{\"title\":\"Complex genetic background in a large family with Brugada syndrome.\",\"author\":\"Saber S\",\"pubdate\":\"2015 Jan 1\",\"source\":\"Physiol Rep\",\"uid\":\"25626866\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"2.5\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"\"}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530659715075\":{\"title\":\"Role of sequence variations in the human ether-a-go-go-related gene (HERG, KCNH2) in the Brugada syndrome.\",\"author\":\"Verkerk AO\",\"pubdate\":\"2005 Dec 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"16043162\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"0.25\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"0.5\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530660086014\":{\"title\":\"Selective knockout of mouse ERG1 B potassium channel eliminates I(Kr) in adult ventricular myocytes and elicits episodes of abrupt sinus bradycardia.\",\"author\":\"Lees-Miller JP\",\"pubdate\":\"2003 Mar\",\"source\":\"Mol Cell Biol\",\"uid\":\"12612061\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530660190132\":{\"title\":\"Rescue of aberrant gating by a genetically encoded PAS (Per-Arnt-Sim) domain in several long QT syndrome mutant human ether-\\u00e1-go-go-related gene potassium channels.\",\"author\":\"Gianulis EC\",\"pubdate\":\"2011 Jun 24\",\"source\":\"J Biol Chem\",\"uid\":\"21536673\"}},\"notes\":{\"note\":\"\"}}},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"2.5\",\"ExperimentalEvidenceTotal\":\"1\",\"EvidencePointsTotal\":\"3.5\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"01\/13\/17\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "9807":
+{"9807":
  {"affiliation":
   {"id":"10044",
    "name":"Familial Thoracic Aortic Aneurysm and Dissection"},
