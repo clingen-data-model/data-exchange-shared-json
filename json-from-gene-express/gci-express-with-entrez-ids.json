@@ -2050,37 +2050,6 @@
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 23, 2017",
   "scoreJsonSerializedSop5":""},
- "10161":
- {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
-  "label":"Brugada Syndrome",
-  "genes":
-  {"HGNC:10582":
-   {"ontology":"HGNC", "curie":"HGNC:10582", "uri":"HGNC10582"}},
-  "title":"SCN10A: Brugada Syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1511251200,
-  "file":null,
-  "dateISO8601":"2017-11-21T00:00:00",
-  "entrez_id":"6336",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0011001"},
-   "OMIM601144":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601144",
-    "uri":"OMIM601144",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601144"},
-   "ORPHA130":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:130",
-    "uri":"ORPHA130",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_130"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Nov 21, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530665561\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"SCN10A\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:10582\",\"uri\":\"HGNC10582\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"SCN10A Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"3.00\",\"Tally\":\"3\",\"evidence\":{\"publications\":{\"1530664887753\":{\"title\":\"Mutations in SCN10A are responsible for a large fraction of cases of Brugada syndrome.\",\"author\":\"Hu D\",\"pubdate\":\"2014 Jul 8\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"24998131\"},\"1530664996201\":{\"title\":\"Role of common and rare variants in SCN10A: results from the Brugada syndrome QRS locus gene discovery collaborative study.\",\"author\":\"Behr ER\",\"pubdate\":\"2015 Jun 1\",\"source\":\"Cardiovasc Res\",\"uid\":\"25691538\"},\"1530665029664\":{\"title\":\"Novel SCN10A variants associated with Brugada syndrome.\",\"author\":\"Fukuyama M\",\"pubdate\":\"2016 Jun\",\"source\":\"Europace\",\"uid\":\"25842276\"},\"1530665055635\":{\"title\":\"Association of common and rare variants of SCN10A gene with sudden unexplained nocturnal death syndrome in Chinese Han population.\",\"author\":\"Zhang L\",\"pubdate\":\"2017 Jan\",\"source\":\"Int J Legal Med\",\"uid\":\"27272739\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"3\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"0.75\",\"ProteinInteraction\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530665078853\":{\"title\":\"Mutations in SCN10A are responsible for a large fraction of cases of Brugada syndrome.\",\"author\":\"Hu D\",\"pubdate\":\"2014 Jul 8\",\"source\":\"J Am Coll Cardiol\",\"uid\":\"24998131\"},\"1530665503248\":{\"title\":\"A common genetic variant within SCN10A modulates cardiac SCN5A expression.\",\"author\":\"van den Boogaard M\",\"pubdate\":\"2014 Apr\",\"source\":\"J Clin Invest\",\"uid\":\"24642470\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530665312248\":{\"title\":\"A tetrodotoxin-resistant voltage-gated sodium channel from human dorsal root ganglia, hPN3\/SCN10A.\",\"author\":\"Rabert DK\",\"pubdate\":\"1998 Nov\",\"source\":\"Pain\",\"uid\":\"9839820\"},\"1530665439204\":{\"title\":\"Blocking Scn10a channels in heart reduces late sodium current and is antiarrhythmic.\",\"author\":\"Yang T\",\"pubdate\":\"2012 Jul 20\",\"source\":\"Circ Res\",\"uid\":\"22723299\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530665091101\":{\"title\":\"Blocking Scn10a channels in heart reduces late sodium current and is antiarrhythmic.\",\"author\":\"Yang T\",\"pubdate\":\"2012 Jul 20\",\"source\":\"Circ Res\",\"uid\":\"22723299\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530665391732\":{\"title\":\"Contrasting Nav1.8 Activity in Scn10a-\/- Ventricular Myocytes and the Intact Heart.\",\"author\":\"Stroud DM\",\"pubdate\":\"2016 Nov 2\",\"source\":\"J Am Heart Assoc\",\"uid\":\"27806966\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.25\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"3\",\"ExperimentalEvidenceTotal\":\"1.25\",\"EvidencePointsTotal\":\"4.25\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"07\/18\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "8400":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"Usher syndrome type 3",
