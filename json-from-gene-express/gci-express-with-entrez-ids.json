@@ -2070,37 +2070,6 @@
   "scores":{"3975":{"label":"No Reported Evidence"}},
   "dateFormated":"Apr 26, 2017",
   "scoreJsonSerializedSop5":""},
- "4842":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Achromatopsia",
-  "genes":
-  {"HGNC:791":
-   {"ontology":"HGNC", "curie":"HGNC:791", "uri":"HGNC791"}},
-  "title":"ATF6 Achromatopsia",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"ATF6\",\"Hgnc\":\"791\",\"OrphaNet\":\"ORPHA49382\",\"Disease\":\"Achromatopsia\",\"Omim\":\"616517\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"3.5\",\"tally\":\"12\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of ATF6 causes autosomal recessive achromatopsia.\",\"author\":\"Ansar M\",\"pubdate\":\"2015 Sep\",\"source\":\"Hum Genet\",\"uid\":\"26063662\"},{\"title\":\"Mutations in the unfolded protein response regulator ATF6 cause the cone dysfunction disorder achromatopsia.\",\"author\":\"Kohl S\",\"pubdate\":\"2015 Jul\",\"source\":\"Nat Genet\",\"uid\":\"26029869\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"9.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of ATF6 causes autosomal recessive achromatopsia.\",\"author\":\"Ansar M\",\"pubdate\":\"2015 Sep\",\"source\":\"Hum Genet\",\"uid\":\"26063662\"},{\"title\":\"Mutations in the unfolded protein response regulator ATF6 cause the cone dysfunction disorder achromatopsia.\",\"author\":\"Kohl S\",\"pubdate\":\"2015 Jul\",\"source\":\"Nat Genet\",\"uid\":\"26029869\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of ATF6 causes autosomal recessive achromatopsia.\",\"author\":\"Ansar M\",\"pubdate\":\"2015 Sep\",\"source\":\"Hum Genet\",\"uid\":\"26063662\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Mutation of ATF6 causes autosomal recessive achromatopsia.\",\"author\":\"Ansar M\",\"pubdate\":\"2015 Sep\",\"source\":\"Hum Genet\",\"uid\":\"26063662\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in the unfolded protein response regulator ATF6 cause the cone dysfunction disorder achromatopsia.\",\"author\":\"Kohl S\",\"pubdate\":\"2015 Jul\",\"source\":\"Nat Genet\",\"uid\":\"26029869\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"2\",\"GeneticEvidenceTotal\":\"14\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"2\",\"EvidencePointsTotal\":\"14\",\"CalculatedClassification\":\"STRONG\",\"CalculatedClassificationDate\":\"06\/01\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"STRONG\",\"FinalClassificationDate\":\"11\/16\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1479283200,
-  "file":null,
-  "dateISO8601":"2016-11-16T00:00:00",
-  "entrez_id":"22926",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0018852"},
-   "OMIM616517":
-   {"ontology":"OMIM",
-    "curie":"OMIM:616517",
-    "uri":"OMIM616517",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_616517"},
-   "ORPHA49382":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:49382",
-    "uri":"ORPHA49382",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_49382"}},
-  "scores":{"3978":{"label":"Strong"}},
-  "dateFormated":"Nov 16, 2016",
-  "scoreJsonSerializedSop5":""},
  "8431":
  {"affiliation":{"id":"10043", "name":"Colon Cancer"},
   "label":"Colorectal cancer Susceptibility",
