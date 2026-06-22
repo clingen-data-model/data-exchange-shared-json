@@ -255,37 +255,6 @@
   "scores":{"3976":{"label":"Moderate"}},
   "dateFormated":"Jun 15, 2016",
   "scoreJsonSerializedSop5":""},
- "4843":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Spondyloepiphyseal dysplasia (Stanescu type)",
-  "genes":
-  {"HGNC:2200":
-   {"ontology":"HGNC", "curie":"HGNC:2200", "uri":"HGNC2200"}},
-  "title":"COL2A1 Spondyloepiphyseal dysplasia Stanescu type",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"COL2A1\",\"Hgnc\":\"2200\",\"OrphaNet\":\"N\/A\",\"Disease\":\"Spondyloepiphyseal dysplasia (Stanescu type)\",\"Omim\":\"616583\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Novel COL2A1 variant (c.619G>A, p.Gly207Arg) manifesting as a phenotype similar to progressive pseudorheumatoid dysplasia and spondyloepiphyseal dysplasia, Stanescu type.\",\"author\":\"Jurgens J\",\"pubdate\":\"2015 Oct\",\"source\":\"Hum Mutat\",\"uid\":\"26183434\"},{\"title\":\"Pathogenenic variant in the COL2A1 gene is associated with Spondyloepiphyseal dysplasia type Stanescu.\",\"author\":\"Hammarsj\\u00f6 A\",\"pubdate\":\"2016 Jan\",\"source\":\"Am J Med Genet A\",\"uid\":\"26420734\"}],\"notes\":{\"note\":\"\"}}},\"ProbandWithLOF\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Novel COL2A1 variant (c.619G>A, p.Gly207Arg) manifesting as a phenotype similar to progressive pseudorheumatoid dysplasia and spondyloepiphyseal dysplasia, Stanescu type.\",\"author\":\"Jurgens J\",\"pubdate\":\"2015 Oct\",\"source\":\"Hum Mutat\",\"uid\":\"26183434\"}],\"notes\":{\"note\":\"\"}}}}}}},\"ExperimentalEvidence\":{\"FunctionalAlteration\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Characterization of an arginine 789 to cysteine substitution in alpha 1 (II) collagen chains of a patient with spondyloepiphyseal dysplasia.\",\"author\":\"Chan D\",\"pubdate\":\"1993 Jul 15\",\"source\":\"J Biol Chem\",\"uid\":\"8325895\"},{\"title\":\"Expression of a partially deleted gene of human type II procollagen (COL2A1) in transgenic mice produces a chondrodysplasia.\",\"author\":\"Vandenberg P\",\"pubdate\":\"1991 Sep 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"1881905\"},{\"title\":\"Reduced amounts of cartilage collagen fibrils and growth plate anomalies in transgenic mice harboring a glycine-to-cysteine mutation in the mouse type II procollagen alpha 1-chain gene.\",\"author\":\"Garofalo S\",\"pubdate\":\"1991 Nov 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"1946380\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Expression of a partially deleted gene of human type II procollagen (COL2A1) in transgenic mice produces a chondrodysplasia.\",\"author\":\"Vandenberg P\",\"pubdate\":\"1991 Sep 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"1881905\"},{\"title\":\"Reduced amounts of cartilage collagen fibrils and growth plate anomalies in transgenic mice harboring a glycine-to-cysteine mutation in the mouse type II procollagen alpha 1-chain gene.\",\"author\":\"Garofalo S\",\"pubdate\":\"1991 Nov 1\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"1946380\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"3\",\"GeneticEvidencePointsTotal\":\"3\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"9\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"05\/25\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"12\/01\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1480579200,
-  "file":null,
-  "dateISO8601":"2016-12-01T00:00:00",
-  "entrez_id":"1280",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0014701"},
-   "OMIM616583":
-   {"ontology":"OMIM",
-    "curie":"OMIM:616583",
-    "uri":"OMIM616583",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_616583"},
-   "ORPHA":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:",
-    "uri":"ORPHA",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Dec 01, 2016",
-  "scoreJsonSerializedSop5":""},
  "8259":
  {"affiliation":
   {"id":"10044",
@@ -597,68 +566,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_64"}},
   "scores":{"3979":{"label":"Definitive"}},
   "dateFormated":"Feb 10, 2017",
-  "scoreJsonSerializedSop5":""},
- "3207":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Dyskeratosis Congenita",
-  "genes":
-  {"HGNC:25522":
-   {"ontology":"HGNC", "curie":"HGNC:25522", "uri":"HGNC25522"}},
-  "title":"WRAP53  Dyskeratosis Congenita",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"WRAP53\",\"Hgnc\":\"25522\",\"OrphaNet\":\"ORPHA1775\",\"Disease\":\"Dyskeratosis Congenita\",\"Omim\":\"613988\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"3.5\",\"tally\":\"3.5\",\"pmid\":{\"publications\":[{\"title\":\"Disruption of telomerase trafficking by TCAB1 mutation causes dyskeratosis congenita.\",\"author\":\"Zhong F\",\"pubdate\":\"2011 Jan 1\",\"source\":\"Genes Dev\",\"uid\":\"21205863\"}],\"notes\":{\"note\":\"The expert chose to upgrade the variant points because of the specificity of the phenotype.\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"\"}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.5\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Proteostatic control of telomerase function through TRiC-mediated folding of TCAB1.\",\"author\":\"Freund A\",\"pubdate\":\"2014 Dec 4\",\"source\":\"Cell\",\"uid\":\"25467444\"},{\"title\":\"Disruption of telomerase trafficking by TCAB1 mutation causes dyskeratosis congenita.\",\"author\":\"Zhong F\",\"pubdate\":\"2011 Jan 1\",\"source\":\"Genes Dev\",\"uid\":\"21205863\"},{\"title\":\"WRAP53 is essential for Cajal body formation and for targeting the survival of motor neuron complex to Cajal bodies.\",\"author\":\"Mahmoudi S\",\"pubdate\":\"2010 Nov 2\",\"source\":\"PLoS Biol\",\"uid\":\"21072240\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"3.5\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Disruption of telomerase trafficking by TCAB1 mutation causes dyskeratosis congenita.\",\"author\":\"Zhong F\",\"pubdate\":\"2011 Jan 1\",\"source\":\"Genes Dev\",\"uid\":\"21205863\"},{\"title\":\"Telomere shortening and loss of self-renewal in dyskeratosis congenita induced pluripotent stem cells.\",\"author\":\"Batista LF\",\"pubdate\":\"2011 May 22\",\"source\":\"Nature\",\"uid\":\"21602826\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Disruption of telomerase trafficking by TCAB1 mutation causes dyskeratosis congenita.\",\"author\":\"Zhong F\",\"pubdate\":\"2011 Jan 1\",\"source\":\"Genes Dev\",\"uid\":\"21205863\"},{\"title\":\"WRAP53 is essential for Cajal body formation and for targeting the survival of motor neuron complex to Cajal bodies.\",\"author\":\"Mahmoudi S\",\"pubdate\":\"2010 Nov 2\",\"source\":\"PLoS Biol\",\"uid\":\"21072240\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"NO\"},\"CuratorModifyCalculation\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"3.5\",\"GeneticEvidencePointsTotal\":\"3.5\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"9.5\",\"CalculatedClassification\":\"MODERATE\",\"CalculatedClassificationDate\":\"\",\"CalculatedClassificationNotes\":null,\"CuratorClassification\":\"LIMITED\",\"CuratorClassificationDate\":\"08\/04\/2016\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"MODERATE\",\"FinalClassificationDate\":\"01\/25\/2017\",\"FinalClassificationNotes\":\"This gene\/disease relationship was initially classified as limited by the curator. During expert review, the expert added more experimental evidence and it was increased to moderate.\"}}",
-  "date":1485331200,
-  "file":null,
-  "dateISO8601":"2017-01-25T00:00:00",
-  "entrez_id":"55135",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0015780"},
-   "OMIM613988":
-   {"ontology":"OMIM",
-    "curie":"OMIM:613988",
-    "uri":"OMIM613988",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_613988"},
-   "ORPHA1775":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:1775",
-    "uri":"ORPHA1775",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_1775"}},
-  "scores":{"3976":{"label":"Moderate"}},
-  "dateFormated":"Jan 25, 2017",
-  "scoreJsonSerializedSop5":""},
- "5610":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Usher syndrome type 1",
-  "genes":
-  {"13733":
-   {"ontology":"HGNC", "curie":"HGNC:13733", "uri":"HGNC13733"}},
-  "title":"CDH23 Usher Syndrome Type 1",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"CDH23\",\"Hgnc\":\"13733\",\"OrphaNet\":\"231169\",\"Disease\":\"Usher Syndrome, Type 1\",\"Omim\":\"276900\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.5\",\"tally\":\"10.5\",\"pmid\":{\"publications\":[{\"title\":\"Usher syndrome 1D and nonsyndromic autosomal recessive deafness DFNB12 are caused by allelic mutations of the novel cadherin-like gene CDH23.\",\"author\":\"Bork JM\",\"pubdate\":\"2001 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"11090341\"},{\"title\":\"CDH23 mutation and phenotype heterogeneity: a profile of 107 diverse families with Usher syndrome and nonsyndromic deafness.\",\"author\":\"Astuto LM\",\"pubdate\":\"2002 Aug\",\"source\":\"Am J Hum Genet\",\"uid\":\"12075507\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"9.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Usher syndrome 1D and nonsyndromic autosomal recessive deafness DFNB12 are caused by allelic mutations of the novel cadherin-like gene CDH23.\",\"author\":\"Bork JM\",\"pubdate\":\"2001 Jan\",\"source\":\"Am J Hum Genet\",\"uid\":\"11090341\"}],\"notes\":{\"note\":\"\"}}}}},\"TotalGeneticEvidencePoints\":{\"notes\":\"More genetic evidence is available but the curator stopped at the max score.\"}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"The Usher syndrome proteins cadherin 23 and harmonin form a complex by means of PDZ-domain interactions.\",\"author\":\"Siemens J\",\"pubdate\":\"2002 Nov 12\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"12407180\"}],\"notes\":{\"note\":\"Protein Interaction, Expression\"}}},\"FunctionalAlteration\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Nasal epithelial cells are a reliable source to study splicing variants in Usher syndrome.\",\"author\":\"Vach\\u00e9 C\",\"pubdate\":\"2010 Jun\",\"source\":\"Hum Mutat\",\"uid\":\"20513143\"}],\"notes\":{\"note\":\"Patient Cells\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Genomic structure, alternative splice forms and normal and mutant alleles of cadherin 23 (Cdh23).\",\"author\":\"Di Palma F\",\"pubdate\":\"2001 Dec 27\",\"source\":\"Gene\",\"uid\":\"11750125\"},{\"title\":\"An ENU-induced mutation of Cdh23 causes congenital hearing loss, but no vestibular dysfunction, in mice.\",\"author\":\"Manji SS\",\"pubdate\":\"2011 Aug\",\"source\":\"Am J Pathol\",\"uid\":\"21689626\"}],\"notes\":{\"note\":\"Animal model. The retinitis pigmentosa phenotype is not found in the mouse models.\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09\/15\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01\/30\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1485763200,
-  "file":null,
-  "dateISO8601":"2017-01-30T00:00:00",
-  "entrez_id":"64072",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0010168"},
-   "OMIM276900":
-   {"ontology":"OMIM",
-    "curie":"OMIM:276900",
-    "uri":"OMIM276900",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_276900"},
-   "ORPHA231169":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:231169",
-    "uri":"ORPHA231169",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_231169"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Jan 30, 2017",
   "scoreJsonSerializedSop5":""},
  "3205":
  {"affiliation":{"id":"10026", "name":"General Gene Curation"},
@@ -1069,68 +976,6 @@
   "dateFormated":"Nov 21, 2017",
   "scoreJsonSerializedSop5":
   "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530655650\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"CACNA2D1\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:1399\",\"uri\":\"HGNC1399\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"CACNA2D1 Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"1.00\",\"Tally\":\"1\",\"evidence\":{\"publications\":{\"1530655752065\":{\"title\":\"Mutations in the cardiac L-type calcium channel associated with inherited J-wave syndromes and sudden cardiac death.\",\"author\":\"Burashnikov E\",\"pubdate\":\"2010 Dec\",\"source\":\"Heart Rhythm\",\"uid\":\"20817017\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"1\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"\"},\"Tally\":\"1.5\",\"ProteinInteraction\":{\"Value\":\"1.00\",\"evidence\":{\"publications\":{\"1530655810080\":{\"title\":\"Targeted disruption of the voltage-dependent calcium channel alpha2\/delta-1-subunit.\",\"author\":\"Fuller-Bicer GA\",\"pubdate\":\"2009 Jul\",\"source\":\"Am J Physiol Heart Circ Physiol\",\"uid\":\"19429829\"}},\"notes\":{\"note\":\"\"}}},\"Expression\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530655788078\":{\"title\":\"Analysis of the human tissue-specific expression by genome-wide integration of transcriptomics and antibody-based proteomics.\",\"author\":\"Fagerberg L\",\"pubdate\":\"2014 Feb\",\"source\":\"Mol Cell Proteomics\",\"uid\":\"24309898\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"0.5\",\"NonPatientCells\":{\"Value\":\"0.50\",\"evidence\":{\"publications\":{\"1530655933186\":{\"title\":\"Functional characterization of CaV\\u03b12\\u03b4 mutations associated with sudden cardiac death.\",\"author\":\"Bourdin B\",\"pubdate\":\"2015 Jan 30\",\"source\":\"J Biol Chem\",\"uid\":\"25527503\"}},\"notes\":{\"note\":\"\"}}}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"\"},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"2\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"1\",\"ExperimentalEvidenceTotal\":\"2\",\"EvidencePointsTotal\":\"3\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"10\/05\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
- "3210":
- {"affiliation":{"id":"10026", "name":"General Gene Curation"},
-  "label":"Aneurysm-osteoarthritis syndrome",
-  "genes":
-  {"HGNC:6769":
-   {"ontology":"HGNC", "curie":"HGNC:6769", "uri":"HGNC6769"}},
-  "title":"SMAD3  Aneurysm-osteoarthritis syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"SMAD3\",\"Hgnc\":\"6769\",\"OrphaNet\":\"ORPHA284984\",\"Disease\":\"Aneurysm-osteoarthritis syndrome\",\"Omim\":\"613795\",\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"ProbandWithNon-LOF\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2011 Feb\",\"source\":\"Nat Genet\",\"uid\":\"21217753\"},{\"title\":\"Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysm and dissection with intracranial and other arterial aneurysms.\",\"author\":\"Regalado ES\",\"pubdate\":\"2011 Sep 2\",\"source\":\"Circ Res\",\"uid\":\"21778426\"},{\"title\":\"Phenotypic spectrum of the SMAD3-related aneurysms-osteoarthritis syndrome.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2012 Jan\",\"source\":\"J Med Genet\",\"uid\":\"22167769\"}],\"notes\":{\"note\":\"\"}}},\"VariantIsDeNovo\":{\"value\":\"5.0\",\"tally\":\"5\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2011 Feb\",\"source\":\"Nat Genet\",\"uid\":\"21217753\"},{\"title\":\"Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysm and dissection with intracranial and other arterial aneurysms.\",\"author\":\"Regalado ES\",\"pubdate\":\"2011 Sep 2\",\"source\":\"Circ Res\",\"uid\":\"21778426\"},{\"title\":\"Phenotypic spectrum of the SMAD3-related aneurysms-osteoarthritis syndrome.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2012 Jan\",\"source\":\"J Med Genet\",\"uid\":\"22167769\"}],\"notes\":{\"note\":\"\"}}}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"7.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2011 Feb\",\"source\":\"Nat Genet\",\"uid\":\"21217753\"},{\"title\":\"Exome sequencing identifies SMAD3 mutations as a cause of familial thoracic aortic aneurysm and dissection with intracranial and other arterial aneurysms.\",\"author\":\"Regalado ES\",\"pubdate\":\"2011 Sep 2\",\"source\":\"Circ Res\",\"uid\":\"21778426\"}],\"notes\":{\"note\":\"\"}}}}},\"TotalGeneticEvidencePoints\":{\"notes\":\"Additional genetic evidence is available, but not curated due to achievement of maximum genetic evidence score.\"}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.0\",\"tally\":\"1\",\"pmid\":{\"publications\":[{\"title\":\"Transforming growth factor-beta and fibrosis.\",\"author\":\"Verrecchia F\",\"pubdate\":\"2007 Jun 14\",\"source\":\"World J Gastroenterol\",\"uid\":\"17589920\"},{\"title\":\"Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis.\",\"author\":\"van de Laar IM\",\"pubdate\":\"2011 Feb\",\"source\":\"Nat Genet\",\"uid\":\"21217753\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.5\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"TGF-beta\/Smad3 signals repress chondrocyte hypertrophic differentiation and are required for maintaining articular cartilage.\",\"author\":\"Yang X\",\"pubdate\":\"2001 Apr 2\",\"source\":\"J Cell Biol\",\"uid\":\"11285272\"},{\"title\":\"SMAD3 deficiency promotes inflammatory aortic aneurysms in angiotensin II-infused mice via activation of iNOS.\",\"author\":\"Tan CK\",\"pubdate\":\"2013 Jun 19\",\"source\":\"J Am Heart Assoc\",\"uid\":\"23782924\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"5\",\"EvidencePointsTotal\":\"17\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"03\/30\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"12\/01\/2016\",\"FinalClassificationNotes\":\"\"}}",
-  "date":1480579200,
-  "file":null,
-  "dateISO8601":"2016-12-01T00:00:00",
-  "entrez_id":"4088",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0013426"},
-   "OMIM613795":
-   {"ontology":"OMIM",
-    "curie":"OMIM:613795",
-    "uri":"OMIM613795",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_613795"},
-   "ORPHA284984":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:284984",
-    "uri":"ORPHA284984",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_284984"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Dec 01, 2016",
-  "scoreJsonSerializedSop5":""},
- "5657":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Usher syndrome type 1",
-  "genes":
-  {"14674":
-   {"ontology":"HGNC", "curie":"HGNC:14674", "uri":"HGNC14674"}},
-  "title":"PCDH15 Usher syndrome type 1",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"PCDH15\",\"Hgnc\":\"14674\",\"OrphaNet\":\"ORPHA231169\",\"Disease\":\"Usher syndrome type 1F\",\"Omim\":\"602083\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"Mutations of the protocadherin gene PCDH15 cause Usher syndrome type 1F.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2001 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"11398101\"},{\"title\":\"Mutations in the novel protocadherin PCDH15 cause Usher syndrome type 1F.\",\"author\":\"Alagramam KN\",\"pubdate\":\"2001 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"11487575\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"8.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"16.5\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Mutations of the protocadherin gene PCDH15 cause Usher syndrome type 1F.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2001 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"11398101\"},{\"title\":\"Mutations in the novel protocadherin PCDH15 cause Usher syndrome type 1F.\",\"author\":\"Alagramam KN\",\"pubdate\":\"2001 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"11487575\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Mutations of the protocadherin gene PCDH15 cause Usher syndrome type 1F.\",\"author\":\"Ahmed ZM\",\"pubdate\":\"2001 Jul\",\"source\":\"Am J Hum Genet\",\"uid\":\"11398101\"},{\"title\":\"Photoreceptor expression of the Usher syndrome type 1 protein protocadherin 15 (USH1F) and its interaction with the scaffold protein harmonin (USH1C).\",\"author\":\"Reiners J\",\"pubdate\":\"2005 May 12\",\"source\":\"Mol Vis\",\"uid\":\"15928608\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"4.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"The mouse Ames waltzer hearing-loss mutant is caused by mutation of Pcdh15, a novel protocadherin gene.\",\"author\":\"Alagramam KN\",\"pubdate\":\"2001 Jan\",\"source\":\"Nat Genet\",\"uid\":\"11138007\"},{\"title\":\"A new spontaneous mutation in the mouse Ames waltzer gene, Pcdh15.\",\"author\":\"Hampton LL\",\"pubdate\":\"2003 Jun\",\"source\":\"Hear Res\",\"uid\":\"12782354\"},{\"title\":\"Drosophila melanogaster Cad99C, the orthologue of human Usher cadherin PCDH15, regulates the length of microvilli.\",\"author\":\"D\",\"pubdate\":\"2005 Nov 7\",\"source\":\"J Cell Biol\",\"uid\":\"16260500\"},{\"title\":\"Duplicated genes with split functions: independent roles of protocadherin15 orthologues in zebrafish hearing and vision.\",\"author\":\"Seiler C\",\"pubdate\":\"2005 Feb\",\"source\":\"Development\",\"uid\":\"15634702\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/16\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02\/15\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1487145600,
-  "file":null,
-  "dateISO8601":"2017-02-15T00:00:00",
-  "entrez_id":"65217",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0010168"},
-   "OMIM602083":
-   {"ontology":"OMIM",
-    "curie":"OMIM:602083",
-    "uri":"OMIM602083",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_602083"},
-   "ORPHA231169":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:231169",
-    "uri":"ORPHA231169",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_231169"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Feb 15, 2017",
-  "scoreJsonSerializedSop5":""},
  "8258":
  {"affiliation":
   {"id":"10044",
@@ -1570,37 +1415,6 @@
   "scores":{"3975":{"label":"No Reported Evidence"}},
   "dateFormated":"Oct 12, 2016",
   "scoreJsonSerializedSop5":""},
- "5658":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Nonsyndromic sensorineural hearing loss",
-  "genes":
-  {"16513":
-   {"ontology":"HGNC", "curie":"HGNC:16513", "uri":"HGNC16513"}},
-  "title":"TMC1: Nonsyndromic sensorineural Hearing Loss",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"TMC1\",\"Hgnc\":\"16513\",\"OrphaNet\":\"ORPHA90636\",\"Disease\":\"Sensorineural hearing loss\",\"Omim\":\"600974\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"10\",\"pmid\":{\"publications\":[{\"title\":\"Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function.\",\"author\":\"Kurima K\",\"pubdate\":\"2002 Mar\",\"source\":\"Nat Genet\",\"uid\":\"11850618\"},{\"title\":\"Mutation analysis of TMC1 identifies four new mutations and suggests an additional deafness gene at loci DFNA36 and DFNB7\/11.\",\"author\":\"Hilgert N\",\"pubdate\":\"2008 Sep\",\"source\":\"Clin Genet\",\"uid\":\"18616530\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"10.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"22.5\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function.\",\"author\":\"Kurima K\",\"pubdate\":\"2002 Mar\",\"source\":\"Nat Genet\",\"uid\":\"11850618\"},{\"title\":\"Mutation analysis of TMC1 identifies four new mutations and suggests an additional deafness gene at loci DFNA36 and DFNB7\/11.\",\"author\":\"Hilgert N\",\"pubdate\":\"2008 Sep\",\"source\":\"Clin Genet\",\"uid\":\"18616530\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function.\",\"author\":\"Kurima K\",\"pubdate\":\"2002 Mar\",\"source\":\"Nat Genet\",\"uid\":\"11850618\"},{\"title\":\"Tip-link protein protocadherin 15 interacts with transmembrane channel-like proteins TMC1 and TMC2.\",\"author\":\"Maeda R\",\"pubdate\":\"2014 Sep 2\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"25114259\"}],\"notes\":{\"note\":\"\"}}},\"FunctionalAlteration\":{\"value\":\"0.5\",\"tally\":\"0.5\",\"pmid\":{\"publications\":[{\"title\":\"Tmc1 is necessary for normal functional maturation and survival of inner and outer hair cells in the mouse cochlea.\",\"author\":\"Marcotti W\",\"pubdate\":\"2006 Aug 1\",\"source\":\"J Physiol\",\"uid\":\"16627570\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"5.5\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Dominant and recessive deafness caused by mutations of a novel gene, TMC1, required for cochlear hair-cell function.\",\"author\":\"Kurima K\",\"pubdate\":\"2002 Mar\",\"source\":\"Nat Genet\",\"uid\":\"11850618\"},{\"title\":\"Tmc gene therapy restores auditory function in deaf mice.\",\"author\":\"Askew C\",\"pubdate\":\"2015 Jul 8\",\"source\":\"Sci Transl Med\",\"uid\":\"26157030\"},{\"title\":\"Mechanotransduction in mouse inner ear hair cells requires transmembrane channel-like genes.\",\"author\":\"Kawashima Y\",\"pubdate\":\"2011 Dec\",\"source\":\"J Clin Invest\",\"uid\":\"22105175\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/26\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02\/15\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1487145600,
-  "file":null,
-  "dateISO8601":"2017-02-15T00:00:00",
-  "entrez_id":"117531",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0010967"},
-   "OMIM600974":
-   {"ontology":"OMIM",
-    "curie":"OMIM:600974",
-    "uri":"OMIM600974",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_600974"},
-   "ORPHA90636":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:90636",
-    "uri":"ORPHA90636",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Feb 15, 2017",
-  "scoreJsonSerializedSop5":""},
  "3211":
  {"affiliation":{"id":"10026", "name":"General Gene Curation"},
   "label":"Familial or idiopathic dilated cardiomyopathy",
@@ -1943,37 +1757,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"May 08, 2017",
   "scoreJsonSerializedSop5":""},
- "10163":
- {"affiliation":{"id":"10045", "name":"Brugada Syndrome"},
-  "label":"Brugada Syndrome",
-  "genes":
-  {"HGNC:16643":
-   {"ontology":"HGNC", "curie":"HGNC:16643", "uri":"HGNC16643"}},
-  "title":"SLMAP: Brugada Syndrome",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":"",
-  "date":1511251200,
-  "file":null,
-  "dateISO8601":"2017-11-21T00:00:00",
-  "entrez_id":"7871",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0015263"},
-   "OMIM601144":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601144",
-    "uri":"OMIM601144",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601144"},
-   "ORPHA130":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:130",
-    "uri":"ORPHA130",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_130"}},
-  "scores":{"3980":{"label":"Contradictory (disputed)"}},
-  "dateFormated":"Nov 21, 2017",
-  "scoreJsonSerializedSop5":
-  "{\"iri\":\"http:\/\/www.clinicalgenome.org\/gci-lite\/1530665794\",\"jsonMessageVersion\":\"GCILite.5\",\"statusPublishFlag\":\"Publish\",\"SopVersion\":\"5.0\",\"type\":\"clinicalValidity\",\"genes\":{\"symbol\":\"SLMAP\",\"ontology\":\"HGNC\",\"curie\":\"HGNC:16643\",\"uri\":\"HGNC16643\"},\"condition\":{\"name\":\"Brugada Syndrome\",\"OrphaNet\":{\"curie\":\"ORPHA:130\",\"uri\":\"ORPHA130\"},\"MONDO\":{\"curie\":\"MONDO:0011001\",\"uri\":\"MONDO0011001\"},\"OMIM\":{\"curie\":\"OMIM:601144\",\"uri\":\"OMIM601144\"}},\"title\":\"SLMAP Brugada Syndrome\",\"scoreJson\":{\"ModeOfInheritance\":\"Autosomal dominant inheritance (HP:0000006)\",\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantOrXlinkedDisorder\":{\"VariantIsDeNovo\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithPredictedOrProvenNullVariant\":{\"Value\":\"\",\"Tally\":\"\"},\"ProbandWithOtherVariantTypeWithSomeEvidenceOfGeneImpact\":{\"Value\":\"0.25\",\"Tally\":\"0.25\",\"evidence\":{\"publications\":{\"1530665990552\":{\"title\":\"A novel disease gene for Brugada syndrome: sarcolemmal membrane-associated protein gene mutations impair intracellular trafficking of hNav1.5.\",\"author\":\"Ishikawa T\",\"pubdate\":\"2012 Dec\",\"source\":\"Circ Arrhythm Electrophysiol\",\"uid\":\"23064965\"}},\"notes\":{\"note\":\"\"}}}},\"AutosomalRecessiveDisease\":{\"TwoVariantsInTransAndAtLeastOneDeNovoOrAPredictedProvenNullVariant\":{\"Value\":\"\"},\"Tally\":\"\",\"TwoVariantsNotPredictedProvenNullWithSomeEvidenceOfGeneImpactInTrans\":{\"Value\":\"\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"Value\":\"\",\"Tally\":\"\"}}},\"CaseControlData\":{\"SingleVariantAnalysis\":{\"Value\":\"\"},\"Tally\":\"\",\"AggregateVariantAnalysis\":{\"Value\":\"\"}},\"TotalGeneticEvidencePoints\":{\"Tally\":\"0.25\",\"notes\":\"\"}},\"ExperimentalEvidence\":{\"Function\":{\"BiochemicalFunction\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530666152564\":{\"title\":\"Molecular properties of cardiac tail-anchored membrane protein SLMAP are consistent with structural role in arrangement of excitation-contraction coupling apparatus.\",\"author\":\"Guzzo RM\",\"pubdate\":\"2005 Apr\",\"source\":\"Am J Physiol Heart Circ Physiol\",\"uid\":\"15591093\"}},\"notes\":{\"note\":\"\"}}},\"Tally\":\"0.5\",\"ProteinInteraction\":{\"Value\":\"\"},\"Expression\":{\"Value\":\"0.25\",\"evidence\":{\"publications\":{\"1530666112007\":{\"title\":\"Molecular cloning, expression, and chromosomal assignment of sarcolemmal-associated proteins. A family of acidic amphipathic alpha-helical proteins associated with the membrane.\",\"author\":\"Wigle JT\",\"pubdate\":\"1997 Dec 19\",\"source\":\"J Biol Chem\",\"uid\":\"9405447\"}},\"notes\":{\"note\":\"\"}}}},\"FunctionalAlteration\":{\"PatientCells\":{\"Value\":\"\"},\"Tally\":\"\",\"NonPatientCells\":{\"Value\":\"\"}},\"Models\":{\"NonHumanModelOrganism\":{\"Value\":\"1.00\"},\"CellCultureModel\":{\"Value\":\"\"}},\"ModelsRescue\":{\"Tally\":\"1\",\"NonHumanModelOrganism\":{\"evidence\":{\"publications\":{\"1530666192249\":{\"title\":\"Tail-anchored membrane protein SLMAP is a novel regulator of cardiac function at the sarcoplasmic reticulum.\",\"author\":\"Nader M\",\"pubdate\":\"2012 Mar 1\",\"source\":\"Am J Physiol Heart Circ Physiol\",\"uid\":\"22180652\"}},\"notes\":{\"note\":\"\"}}}},\"Rescue\":{\"RescueInHuman\":{\"Value\":\"\"},\"RescueInNonHumanModelOrganism\":{\"Value\":\"\"},\"RescueInCellCultureModel\":{\"Value\":\"\"},\"RescueInPatientCell\":{\"Value\":\"\"}},\"TotalExperimentalEvidencePoints\":{\"Tally\":\"1.5\",\"notes\":\"\"}},\"summary\":{\"GeneticEvidenceTotal\":\"0.25\",\"ExperimentalEvidenceTotal\":\"1.5\",\"EvidencePointsTotal\":\"1.75\",\"CalculatedClassification\":\"LIMITED\",\"CalculatedClassificationDate\":\"07\/11\/2017\",\"CuratorModifyCalculation\":\"YES\",\"CuratorClassification\":\"\",\"CuratorClassificationDate\":\"\",\"CuratorClassificationNotes\":\"\",\"FinalClassification\":\"DISPUTED\",\"FinalClassificationDate\":\"11\/21\/2017\",\"FinalClassificationNotes\":\"\"},\"ReplicationOverTime\":\"\",\"ValidContradictoryEvidence\":{\"value\":\"\"}}}"},
  "8266":
  {"affiliation":
   {"id":"10044",
@@ -2070,37 +1853,6 @@
   "scores":{"3974":{"label":"Limited"}},
   "dateFormated":"Nov 08, 2016",
   "scoreJsonSerializedSop5":""},
- "5660":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":"Usher syndrome type 1",
-  "genes":
-  {"16356":
-   {"ontology":"HGNC", "curie":"HGNC:16356", "uri":"HGNC16356"}},
-  "title":"USH1G Usher syndrome type 1",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"USH1G\",\"Hgnc\":\"16356\",\"OrphaNet\":\"ORPHA231169\",\"Disease\":\"Usher Syndrome, Type 1\",\"Omim\":\"606943\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"\",\"tally\":\"8\",\"pmid\":{\"publications\":[{\"title\":\"A novel locus for Usher syndrome type I, USH1G, maps to chromosome 17q24-25.\",\"author\":\"Mustapha M\",\"pubdate\":\"2002 Apr\",\"source\":\"Hum Genet\",\"uid\":\"11941484\"},{\"title\":\"Usher syndrome type I G (USH1G) is caused by mutations in the gene encoding SANS, a protein that associates with the USH1C protein, harmonin.\",\"author\":\"Weil D\",\"pubdate\":\"2003 Mar 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"12588794\"},{\"title\":\"Diversity of the Genes Implicated in Algerian Patients Affected by Usher Syndrome.\",\"author\":\"Abdi S\",\"pubdate\":\"2016 Sep 1\",\"source\":\"PLoS One\",\"uid\":\"27583663\"},{\"title\":\"Whole exome sequencing identifies mutations in Usher syndrome genes in profoundly deaf Tunisian patients.\",\"author\":\"Riahi Z\",\"pubdate\":\"2015 Mar 23\",\"source\":\"PLoS One\",\"uid\":\"25798947\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"8.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"8.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"A novel locus for Usher syndrome type I, USH1G, maps to chromosome 17q24-25.\",\"author\":\"Mustapha M\",\"pubdate\":\"2002 Apr\",\"source\":\"Hum Genet\",\"uid\":\"11941484\"},{\"title\":\"Usher syndrome type I G (USH1G) is caused by mutations in the gene encoding SANS, a protein that associates with the USH1C protein, harmonin.\",\"author\":\"Weil D\",\"pubdate\":\"2003 Mar 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"12588794\"},{\"title\":\"Whole exome sequencing identifies mutations in Usher syndrome genes in profoundly deaf Tunisian patients.\",\"author\":\"Riahi Z\",\"pubdate\":\"2015 Mar 23\",\"source\":\"PLoS One\",\"uid\":\"25798947\"}],\"notes\":{\"note\":\"\"}}}}}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"2.0\",\"tally\":\"2\",\"pmid\":{\"publications\":[{\"title\":\"Usher syndrome type I G (USH1G) is caused by mutations in the gene encoding SANS, a protein that associates with the USH1C protein, harmonin.\",\"author\":\"Weil D\",\"pubdate\":\"2003 Mar 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"12588794\"},{\"title\":\"Phosphorylation of the Usher syndrome 1G protein SANS controls Magi2-mediated endocytosis.\",\"author\":\"Bau\\u00df K\",\"pubdate\":\"2014 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"24608321\"},{\"title\":\"SANS (USH1G) expression in developing and mature mammalian retina.\",\"author\":\"Overlack N\",\"pubdate\":\"2008 Feb\",\"source\":\"Vision Res\",\"uid\":\"17923142\"}],\"notes\":{\"note\":\"\"}}},\"ModelsRescue\":{\"value\":\"6.0\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Heterozygous mutation of Ush1g\/Sans in mice causes early-onset progressive hearing loss, which is recovered by reconstituting the strain-specific mutation in Cdh23.\",\"author\":\"Miyasaka Y\",\"pubdate\":\"2016 May 15\",\"source\":\"Hum Mol Genet\",\"uid\":\"26936824\"},{\"title\":\"Phosphorylation of the Usher syndrome 1G protein SANS controls Magi2-mediated endocytosis.\",\"author\":\"Bau\\u00df K\",\"pubdate\":\"2014 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"24608321\"},{\"title\":\"Digenic inheritance of deafness caused by 8J allele of myosin-VIIA and mutations in other Usher I genes.\",\"author\":\"Zheng QY\",\"pubdate\":\"2012 Jun 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"22381527\"},{\"title\":\"Usher type 1G protein sans is a critical component of the tip-link complex, a structure controlling actin polymerization in stereocilia.\",\"author\":\"Caberlotto E\",\"pubdate\":\"2011 Apr 5\",\"source\":\"Proc Natl Acad Sci U S A\",\"uid\":\"21436032\"}],\"notes\":{\"note\":\"\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"6\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"6\",\"EvidencePointsTotal\":\"18\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"09\/21\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"02\/15\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1487145600,
-  "file":null,
-  "dateISO8601":"2017-02-15T00:00:00",
-  "entrez_id":"124590",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0010168"},
-   "OMIM606943":
-   {"ontology":"OMIM",
-    "curie":"OMIM:606943",
-    "uri":"OMIM606943",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_606943"},
-   "ORPHA231169":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:231169",
-    "uri":"ORPHA231169",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_231169"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Feb 15, 2017",
-  "scoreJsonSerializedSop5":""},
  "6235":
  {"affiliation":{"id":"10007", "name":"Hearing Loss"},
   "label":"DNMT1 methylopathy",
@@ -2161,38 +1913,6 @@
     "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_"}},
   "scores":{"3978":{"label":"Strong"}},
   "dateFormated":"Apr 12, 2017",
-  "scoreJsonSerializedSop5":""},
- "5613":
- {"affiliation":{"id":"10007", "name":"Hearing Loss"},
-  "label":
-  "Nonsyndromic sensorineural hearing loss (auditory neuropathy)",
-  "genes":
-  {"8515":{"ontology":"HGNC", "curie":"HGNC:8515", "uri":"HGNC8515"}},
-  "title":
-  "OTOF: Nonsyndromic sensorineural Hearing Loss (Auditory Neuropathy)",
-  "type":"clinicalValidity",
-  "scoreJsonSerialized":
-  "{\"data\":{\"Gene\":\"OTOF\",\"Hgnc\":\"8515\",\"OrphaNet\":\"90636\",\"Disease\":\"Sensorineural Hearing Loss (Auditory Neuropathy)\",\"Omim\":\"601071\",\"ModeOfInheritance\":\"Autosomal recessive inheritance (HP:0000007)\"},\"GeneticEvidence\":{\"CaseLevelData\":{\"VariantEvidence\":{\"AutosomalDominantDisease\":{\"TwoNon-LOFVariantsInTrans\":{\"value\":\"1.0\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in OTOF, encoding otoferlin, a FER-1-like protein, causes DFNB9, a nonsyndromic form of deafness.\",\"author\":\"Yasunaga S\",\"pubdate\":\"1999 Apr\",\"source\":\"Nat Genet\",\"uid\":\"10192385\"},{\"title\":\"A novel mutation in a family with non-syndromic sensorineural hearing loss that disrupts the newly characterised OTOF long isoforms.\",\"author\":\"Houseman MJ\",\"pubdate\":\"2001 Aug\",\"source\":\"J Med Genet\",\"uid\":\"11483641\"},{\"title\":\"Substitutions in the conserved C2C domain of otoferlin cause DFNB9, a form of nonsyndromic autosomal recessive deafness.\",\"author\":\"Mirghomizadeh F\",\"pubdate\":\"2002 Jul\",\"source\":\"Neurobiol Dis\",\"uid\":\"12127154\"},{\"title\":\"A novel otoferlin splice-site mutation in siblings with auditory neuropathy spectrum disorder.\",\"author\":\"Runge CL\",\"pubdate\":\"2013\",\"source\":\"Audiol Neurootol\",\"uid\":\"24135434\"}],\"notes\":{\"note\":\"\"}}},\"TwoNariantsInTransAndAtLeastOneIsLOFOrDeNovo\":{\"value\":\"6.0\"}}},\"SegregationEvidence\":{\"EvidenceOfSegregationInOneOrMoreFamilies\":{\"value\":\"11.5\",\"tally\":\"7\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in OTOF, encoding otoferlin, a FER-1-like protein, causes DFNB9, a nonsyndromic form of deafness.\",\"author\":\"Yasunaga S\",\"pubdate\":\"1999 Apr\",\"source\":\"Nat Genet\",\"uid\":\"10192385\"},{\"title\":\"A novel mutation in a family with non-syndromic sensorineural hearing loss that disrupts the newly characterised OTOF long isoforms.\",\"author\":\"Houseman MJ\",\"pubdate\":\"2001 Aug\",\"source\":\"J Med Genet\",\"uid\":\"11483641\"},{\"title\":\"Substitutions in the conserved C2C domain of otoferlin cause DFNB9, a form of nonsyndromic autosomal recessive deafness.\",\"author\":\"Mirghomizadeh F\",\"pubdate\":\"2002 Jul\",\"source\":\"Neurobiol Dis\",\"uid\":\"12127154\"},{\"title\":\"A novel otoferlin splice-site mutation in siblings with auditory neuropathy spectrum disorder.\",\"author\":\"Runge CL\",\"pubdate\":\"2013\",\"source\":\"Audiol Neurootol\",\"uid\":\"24135434\"}],\"notes\":{\"note\":\"\"}}}}},\"Case-ControlData\":{\"SingleVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"0\"},\"AggregateVariantAnalysis\":{\"value\":\"0.0\",\"tally\":\"0\"}},\"TotalGeneticEvidencePoints\":{\"notes\":\"More genetic evidence is available, but the curator stopped at the max score.\"}},\"ExperimentalEvidence\":{\"Function\":{\"value\":\"1.5\",\"tally\":\"1.5\",\"pmid\":{\"publications\":[{\"title\":\"A mutation in OTOF, encoding otoferlin, a FER-1-like protein, causes DFNB9, a nonsyndromic form of deafness.\",\"author\":\"Yasunaga S\",\"pubdate\":\"1999 Apr\",\"source\":\"Nat Genet\",\"uid\":\"10192385\"},{\"title\":\"Otoferlin, defective in a human deafness form, is essential for exocytosis at the auditory ribbon synapse.\",\"author\":\"Roux I\",\"pubdate\":\"2006 Oct 20\",\"source\":\"Cell\",\"uid\":\"17055430\"},{\"title\":\"Otoferlin interacts with myosin VI: implications for maintenance of the basolateral synaptic structure of the inner hair cell.\",\"author\":\"Heidrych P\",\"pubdate\":\"2009 Aug 1\",\"source\":\"Hum Mol Genet\",\"uid\":\"19417007\"}],\"notes\":{\"note\":\"Expression, Protein Interaction\"}}},\"ModelsRescue\":{\"value\":\"4.5\",\"tally\":\"4\",\"pmid\":{\"publications\":[{\"title\":\"Otoferlin, defective in a human deafness form, is essential for exocytosis at the auditory ribbon synapse.\",\"author\":\"Roux I\",\"pubdate\":\"2006 Oct 20\",\"source\":\"Cell\",\"uid\":\"17055430\"}],\"notes\":{\"note\":\"Animal Model\"}}}},\"ReplicationOverTime\":{\"YesNo\":\"YES\"},\"summary\":{\"ExperimentalEvidenceTotal\":\"5.5\",\"GeneticEvidenceTotal\":\"12\",\"GeneticEvidencePointsTotal\":\"12\",\"ExperimentalEvidencePointsTotal\":\"5.5\",\"EvidencePointsTotal\":\"17.5\",\"CalculatedClassification\":\"DEFINITIVE\",\"CalculatedClassificationDate\":\"08\/25\/2016\",\"CalculatedClassificationNotes\":null,\"FinalClassification\":\"DEFINITIVE\",\"FinalClassificationDate\":\"01\/30\/2017\",\"FinalClassificationNotes\":\"Reviewed by the ClinGen Hearing Loss Working Group\"}}",
-  "date":1485763200,
-  "file":null,
-  "dateISO8601":"2017-01-30T00:00:00",
-  "entrez_id":"9381",
-  "conditions":
-  {"MONDO":
-   {"ontology":"MONDO",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/MONDO_0010986"},
-   "OMIM601071":
-   {"ontology":"OMIM",
-    "curie":"OMIM:601071",
-    "uri":"OMIM601071",
-    "iri":"http:\/\/purl.obolibrary.org\/obo\/OMIM_601071"},
-   "ORPHA90636":
-   {"ontology":"ORPHA",
-    "curie":"ORPHA:90636",
-    "uri":"ORPHA90636",
-    "iri":"http:\/\/www.orpha.net\/ORDO\/Orphanet_90636"}},
-  "scores":{"3979":{"label":"Definitive"}},
-  "dateFormated":"Jan 30, 2017",
   "scoreJsonSerializedSop5":""},
  "8701":
  {"affiliation":{"id":"10042", "name":"Breast\/Ovarian Cancer"},
